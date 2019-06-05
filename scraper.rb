@@ -10,10 +10,10 @@ AUTHORITIES = {
   kiama: "https://da.kiama.nsw.gov.au/atdis/1.0",
   upper_hunter: "http://onlineservices.upperhunter.nsw.gov.au/atdis/1.0/",
   armidale: "https://epathway.newengland.nsw.gov.au/ePathway/Production/WebServiceGateway/atdis/1.0",
+  ashfield: "http://mycouncil.solorient.com.au/Horizon/@@horizondap_ashfield@@/atdis/1.0/",
 
   # Commenting out ATDIS feeds that used to work but do not appear
   # to be working anymore
-  # ashfield: "http://mycouncil2.solorient.com.au/Horizon/@@horizondap_ashfield@@/atdis/1.0/",
   # cootamundra: "http://myhorizon.cootamundra.nsw.gov.au/Horizon/@@horizondap@@/atdis/1.0/",
   # leeton: "http://203.58.97.252/Horizon/@@horizondap@@/atdis/1.0/",
   # muswellbrook: "http://datracker.muswellbrook.nsw.gov.au/atdis/1.0",

@@ -6498,4 +6498,308 @@ http_interactions:
       string: '{"response":[],"count":"0"}'
     http_version: 
   recorded_at: Mon, 13 May 2019 14:00:00 GMT
+- request:
+    method: get
+    uri: http://mycouncil.solorient.com.au/Horizon/@@horizondap_ashfield@@/atdis/1.0//applications.json?lodgement_date_end=2019-05-14&lodgement_date_start=2019-04-14
+    body:
+      encoding: US-ASCII
+      string: ''
+    headers:
+      Accept:
+      - "*/*"
+      Accept-Encoding:
+      - gzip, deflate
+      User-Agent:
+      - rest-client/2.0.2 (darwin17.4.0 x86_64) ruby/2.5.1p57
+      Host:
+      - mycouncil.solorient.com.au
+  response:
+    status:
+      code: 200
+      message: OK
+    headers:
+      Server:
+      - Apache-Coyote/1.1
+      Set-Cookie:
+      - JSESSIONID=5D180CFDB1E18FB38B5B3BB00E5248CB; Path=/Horizon/; HttpOnly
+      Content-Type:
+      - application/json;charset=UTF-8
+      Transfer-Encoding:
+      - chunked
+      Date:
+      - Wed, 05 Jun 2019 23:05:20 GMT
+    body:
+      encoding: UTF-8
+      string: "{\r\n\"response\": [ \r\n{\r\n\"application\": {\r\n\"locations\":
+        [ \r\n{\r\n\"address\": {\r\n\"suburb\": \"SUMMER HILL\", \r\n\"postcode\":
+        \"2130\", \r\n\"state\": \"NSW\", \r\n\"street\": \"15 Carlton Crescent\"}\r\n,
+        \r\n\"land_title_ref\": {\r\n\"torrens\": {\r\n\"dpsp_id\": \"DP 113092\",
+        \r\n\"lot\": \"1\", \r\n\"section\": null}\r\n}\r\n}\r\n] \r\n, \r\n\"extended\":
+        {\r\n\"version\": \"Online Application Tracking Data Interchange Specification
+        1.02 \", \r\n\"sid\": 13, \r\n\"software_vendor\": \"SolOrient Pty Ltd\",
+        \r\n\"software_vendor_url\": \"http:\\/\\/www.solorient.com.au\", \r\n\"product\":
+        \"Horizon DA Portal - Build 4.03 Copyright 2018\"}\r\n, \r\n\"reference\":
+        {\r\n\"more_info_url\": \"http:\\/\\/mycouncil.solorient.com.au\\/Horizon\\/logonGuest.aw?e=FxkUAB1eSSgbAR0MXx0SGBErUQcoEhoRGlRVEBATB0Q3LxkeFRhUTgUNAAZEJDIbEBEFQyQfDQk9Xh00WCUdE0cyBgkNHVMVNB0cGlpeFgEmFRVSWAEEAxgfUxICEA4adBU0FVUQF0QsHx1cRAFEbkZDRUEeQ0ZJUUQCQXhaQ0RFHB0TDj4AURY%3D\"}\r\n,
+        \r\n\"events\": [ \r\n{\r\n\"status\": \"C\", \r\n\"description\": \"Site
+        Visit (Inspection)\", \r\n\"id\": \"958196\", \r\n\"timestamp\": \"2019-05-17T00:00:00Z\",
+        \r\n\"event_type\": \"SITE\"}\r\n,\r\n{\r\n\"description\": \"Referred to
+        Engineers\", \r\n\"id\": \"958166\", \r\n\"timestamp\": \"2019-05-16T00:00:00Z\",
+        \r\n\"event_type\": \"ENG\"}\r\n] \r\n, \r\n\"people\": [ \r\n{\r\n\"name\":
+        \"V and A Saliba Bare Pty Ltd\", \r\n\"role\": \"Applicant\"}\r\n,\r\n{\r\n\"name\":
+        \"Inner West Council - Ashfield\", \r\n\"role\": \"PCA\"}\r\n] \r\n, \r\n\"documents\":
+        [], \r\n\"info\": {\r\n\"development_type\": \"Residential - Alterations &
+        Additions\", \r\n\"notification_end_date\": null, \r\n\"determination_type\":
+        \"Processing\", \r\n\"estimated_cost\": \"$85,000\", \r\n\"status\": \"Open\",
+        \r\n\"lodgement_date\": \"2019-05-14T00:00:00Z\", \r\n\"last_modified_date\":
+        \"2019-05-16T10:48:00Z\", \r\n\"authority\": {\r\n\"name\": \"Ashfield Council\",
+        \r\n\"ref\": \"http:\\/\\/mycouncil.solorient.com.au\\/Horizon%40%40horizondap_ashfield%40%40\\/atdis\\/1.0\"}\r\n,
+        \r\n\"officer\": \"Mr W Daskalopoulos\", \r\n\"dat_id\": \"010.2017.00000258.003\",
+        \r\n\"description\": \"Modification of approved alterations and additions
+        to an existing\", \r\n\"determination_date\": null, \r\n\"application_type\":
+        \"DA\"}\r\n}\r\n}\r\n,\r\n{\r\n\"application\": {\r\n\"locations\": [ \r\n{\r\n\"address\":
+        {\r\n\"suburb\": \"HABERFIELD\", \r\n\"postcode\": \"2045\", \r\n\"state\":
+        \"NSW\", \r\n\"street\": \"29 Kingston Street\"}\r\n, \r\n\"land_title_ref\":
+        {\r\n\"torrens\": {\r\n\"dpsp_id\": \"DP 4354\", \r\n\"lot\": \"232\", \r\n\"section\":
+        null}\r\n}\r\n}\r\n] \r\n, \r\n\"extended\": {\r\n\"version\": \"Online Application
+        Tracking Data Interchange Specification 1.02 \", \r\n\"sid\": 12, \r\n\"software_vendor\":
+        \"SolOrient Pty Ltd\", \r\n\"software_vendor_url\": \"http:\\/\\/www.solorient.com.au\",
+        \r\n\"product\": \"Horizon DA Portal - Build 4.03 Copyright 2018\"}\r\n, \r\n\"reference\":
+        {\r\n\"more_info_url\": \"http:\\/\\/mycouncil.solorient.com.au\\/Horizon\\/logonGuest.aw?e=FxkUAB1eSSgbAR0MXx0SGBErUQcoEhoRGlRVEBATB0Q3LxkeFRhUTgUNAAZEJDIbEBEFQyQfDQk9Xh00WCUdE0cyBgkNHVMVNB0cGlpeFgEmFRVSWAEEAxgfUxICEA4adBU0FVUQF0QsHx1cRAFEbkZDRU8eQ0ZJUUQAQnZaQ0RHHB0TDj4AURY%3D\"}\r\n,
+        \r\n\"events\": [ \r\n{\r\n\"status\": \"C\", \r\n\"description\": \"Refer
+        to Records\", \r\n\"id\": \"958151\", \r\n\"timestamp\": \"2019-05-15T00:00:00Z\",
+        \r\n\"event_type\": \"RREC\"}\r\n,\r\n{\r\n\"status\": \"C\", \r\n\"description\":
+        \"Minor Notification\", \r\n\"id\": \"958176\", \r\n\"timestamp\": \"2019-05-16T00:00:00Z\",
+        \r\n\"event_type\": \"NOT\"}\r\n,\r\n{\r\n\"description\": \"Refer Council
+        Heritage Advisor\", \r\n\"id\": \"958177\", \r\n\"timestamp\": \"2019-05-16T00:00:00Z\",
+        \r\n\"event_type\": \"HERA\"}\r\n,\r\n{\r\n\"description\": \"Referred to
+        Engineers\", \r\n\"id\": \"958178\", \r\n\"timestamp\": \"2019-05-16T00:00:00Z\",
+        \r\n\"event_type\": \"ENG\"}\r\n,\r\n{\r\n\"description\": \"Referred to Tree
+        Officer\", \r\n\"id\": \"958179\", \r\n\"timestamp\": \"2019-05-16T00:00:00Z\",
+        \r\n\"event_type\": \"TMO\"}\r\n] \r\n, \r\n\"people\": [ \r\n{\r\n\"name\":
+        \"Andrew Burns Architecture\", \r\n\"role\": \"Applicant\"}\r\n,\r\n{\r\n\"name\":
+        \"Inner West Council - Ashfield\", \r\n\"role\": \"PCA\"}\r\n] \r\n, \r\n\"documents\":
+        [], \r\n\"info\": {\r\n\"development_type\": \"Other\", \r\n\"notification_end_date\":
+        \"2019-06-11\", \r\n\"determination_type\": \"Processing\", \r\n\"estimated_cost\":
+        \"$1,078,000\", \r\n\"status\": \"Open\", \r\n\"lodgement_date\": \"2019-05-14T00:00:00Z\",
+        \r\n\"last_modified_date\": \"2019-05-14T10:39:00Z\", \r\n\"authority\": {\r\n\"name\":
+        \"Ashfield Council\", \r\n\"ref\": \"http:\\/\\/mycouncil.solorient.com.au\\/Horizon%40%40horizondap_ashfield%40%40\\/atdis\\/1.0\"}\r\n,
+        \r\n\"officer\": \"Planning Planning\", \r\n\"dat_id\": \"010.2019.00000066.001\",
+        \r\n\"description\": \"Other\", \r\n\"determination_date\": null, \r\n\"notification_start_date\":
+        \"2019-05-16\", \r\n\"application_type\": \"DA\"}\r\n}\r\n}\r\n,\r\n{\r\n\"application\":
+        {\r\n\"locations\": [ \r\n{\r\n\"address\": {\r\n\"suburb\": \"CROYDON\",
+        \r\n\"postcode\": \"2132\", \r\n\"state\": \"NSW\", \r\n\"street\": \"8 Scott
+        Street\"}\r\n, \r\n\"land_title_ref\": {\r\n\"torrens\": {\r\n\"dpsp_id\":
+        \"DP 936508\", \r\n\"lot\": \"1\", \r\n\"section\": null}\r\n}\r\n}\r\n] \r\n,
+        \r\n\"extended\": {\r\n\"version\": \"Online Application Tracking Data Interchange
+        Specification 1.02 \", \r\n\"sid\": 14, \r\n\"software_vendor\": \"SolOrient
+        Pty Ltd\", \r\n\"software_vendor_url\": \"http:\\/\\/www.solorient.com.au\",
+        \r\n\"product\": \"Horizon DA Portal - Build 4.03 Copyright 2018\"}\r\n, \r\n\"reference\":
+        {\r\n\"more_info_url\": \"http:\\/\\/mycouncil.solorient.com.au\\/Horizon\\/logonGuest.aw?e=FxkUAB1eSSgbAR0MXx0SGBErUQcoEhoRGlRVEBATB0Q3LxkeFRhUTgUNAAZEJDIbEBEFQyQfDQk9Xh00WCUdE0cyBgkNHVMVNB0cGlpeFgEmFRVSWAEEAxgfUxICEA4adBU0FVUQF0QsHx1cRAFEbkZDRU8eQ0ZJUUQAQnVaQ0RHHB0TDj4AURY%3D\"}\r\n,
+        \r\n\"events\": [ \r\n{\r\n\"status\": \"C\", \r\n\"description\": \"Minor
+        Notification\", \r\n\"id\": \"958180\", \r\n\"timestamp\": \"2019-05-16T00:00:00Z\",
+        \r\n\"event_type\": \"NOT\"}\r\n,\r\n{\r\n\"description\": \"Refer Council
+        Heritage Advisor\", \r\n\"id\": \"958181\", \r\n\"timestamp\": \"2019-05-16T00:00:00Z\",
+        \r\n\"event_type\": \"HERA\"}\r\n,\r\n{\r\n\"description\": \"Allocated to
+        Planner\", \r\n\"id\": \"958163\", \r\n\"timestamp\": \"2019-05-15T00:00:00Z\",
+        \r\n\"event_type\": \"ALLP\"}\r\n,\r\n{\r\n\"status\": \"C\", \r\n\"description\":
+        \"Received\", \r\n\"id\": \"958134\", \r\n\"timestamp\": \"2019-05-10T00:00:00Z\",
+        \r\n\"event_type\": \"RVD\"}\r\n,\r\n{\r\n\"status\": \"C\", \r\n\"description\":
+        \"Refer to Records\", \r\n\"id\": \"958135\", \r\n\"timestamp\": \"2019-05-10T00:00:00Z\",
+        \r\n\"event_type\": \"RREC\"}\r\n] \r\n, \r\n\"people\": [ \r\n{\r\n\"name\":
+        \"Do Nguyen\", \r\n\"role\": \"Applicant\"}\r\n,\r\n{\r\n\"name\": \"Inner
+        West Council - Ashfield\", \r\n\"role\": \"PCA\"}\r\n] \r\n, \r\n\"documents\":
+        [], \r\n\"info\": {\r\n\"development_type\": \"Other\", \r\n\"notification_end_date\":
+        \"2019-05-29\", \r\n\"determination_type\": \"Processing\", \r\n\"estimated_cost\":
+        \"$60,000\", \r\n\"status\": \"Open\", \r\n\"lodgement_date\": \"2019-05-10T00:00:00Z\",
+        \r\n\"last_modified_date\": \"2019-05-10T12:42:00Z\", \r\n\"authority\": {\r\n\"name\":
+        \"Ashfield Council\", \r\n\"ref\": \"http:\\/\\/mycouncil.solorient.com.au\\/Horizon%40%40horizondap_ashfield%40%40\\/atdis\\/1.0\"}\r\n,
+        \r\n\"officer\": \"Clearing House\", \r\n\"dat_id\": \"010.2019.00000065.001\",
+        \r\n\"description\": \"Alterations and additions to existing dwelling\", \r\n\"determination_date\":
+        null, \r\n\"notification_start_date\": \"2019-05-16\", \r\n\"application_type\":
+        \"DA\"}\r\n}\r\n}\r\n,\r\n{\r\n\"application\": {\r\n\"locations\": [ \r\n{\r\n\"address\":
+        {\r\n\"suburb\": \"ASHFIELD\", \r\n\"postcode\": \"2131\", \r\n\"state\":
+        \"NSW\", \r\n\"street\": \"45 Service Avenue\"}\r\n, \r\n\"land_title_ref\":
+        {\r\n\"torrens\": {\r\n\"dpsp_id\": \"DP 8779\", \r\n\"lot\": \"1\", \r\n\"section\":
+        null}\r\n}\r\n}\r\n] \r\n, \r\n\"extended\": {\r\n\"version\": \"Online Application
+        Tracking Data Interchange Specification 1.02 \", \r\n\"sid\": 15, \r\n\"software_vendor\":
+        \"SolOrient Pty Ltd\", \r\n\"software_vendor_url\": \"http:\\/\\/www.solorient.com.au\",
+        \r\n\"product\": \"Horizon DA Portal - Build 4.03 Copyright 2018\"}\r\n, \r\n\"reference\":
+        {\r\n\"more_info_url\": \"http:\\/\\/mycouncil.solorient.com.au\\/Horizon\\/logonGuest.aw?e=FxkUAB1eSSgbAR0MXx0SGBErUQcoEhoRGlRVEBATB0Q3LxkeFRhUTgUNAAZEJDIbEBEFQyQfDQk9Xh00WCUdE0cyBgkNHVMVNB0cGlpeFgEmFRVSWAEEAxgfUxICEA4adBU0FVUQF0QsHx1cRAFEbkZDRU8eQ0ZJUUQAQnRaQ0RHHB0TDj4AURY%3D\"}\r\n,
+        \r\n\"events\": [ \r\n{\r\n\"description\": \"Allocated to Planner\", \r\n\"id\":
+        \"958162\", \r\n\"timestamp\": \"2019-05-15T00:00:00Z\", \r\n\"event_type\":
+        \"ALLP\"}\r\n,\r\n{\r\n\"status\": \"C\", \r\n\"description\": \"Refer to
+        Records\", \r\n\"id\": \"958110\", \r\n\"timestamp\": \"2019-05-09T00:00:00Z\",
+        \r\n\"event_type\": \"RREC\"}\r\n,\r\n{\r\n\"status\": \"C\", \r\n\"description\":
+        \"Minor Notification\", \r\n\"id\": \"958164\", \r\n\"timestamp\": \"2019-05-15T00:00:00Z\",
+        \r\n\"event_type\": \"NOT\"}\r\n,\r\n{\r\n\"status\": \"C\", \r\n\"description\":
+        \"Received\", \r\n\"id\": \"958109\", \r\n\"timestamp\": \"2019-05-09T00:00:00Z\",
+        \r\n\"event_type\": \"RVD\"}\r\n,\r\n{\r\n\"description\": \"Refer Council
+        Heritage Advisor\", \r\n\"id\": \"958167\", \r\n\"timestamp\": \"2019-05-16T00:00:00Z\",
+        \r\n\"event_type\": \"HERA\"}\r\n,\r\n{\r\n\"description\": \"Referred to
+        Tree Officer\", \r\n\"id\": \"958168\", \r\n\"timestamp\": \"2019-05-16T00:00:00Z\",
+        \r\n\"event_type\": \"TMO\"}\r\n] \r\n, \r\n\"people\": [ \r\n{\r\n\"name\":
+        \"Inner West Council - Ashfield\", \r\n\"role\": \"PCA\"}\r\n,\r\n{\r\n\"name\":
+        \"Filmer Architects Pty Ltd CARE Colin     Filmer\", \r\n\"role\": \"Applicant\"}\r\n]
+        \r\n, \r\n\"documents\": [], \r\n\"info\": {\r\n\"development_type\": \"Other\",
+        \r\n\"notification_end_date\": \"2019-06-11\", \r\n\"determination_type\":
+        \"Processing\", \r\n\"estimated_cost\": \"$500,500\", \r\n\"status\": \"Open\",
+        \r\n\"lodgement_date\": \"2019-05-09T00:00:00Z\", \r\n\"last_modified_date\":
+        \"2019-05-09T11:47:00Z\", \r\n\"authority\": {\r\n\"name\": \"Ashfield Council\",
+        \r\n\"ref\": \"http:\\/\\/mycouncil.solorient.com.au\\/Horizon%40%40horizondap_ashfield%40%40\\/atdis\\/1.0\"}\r\n,
+        \r\n\"officer\": \"Clearing House\", \r\n\"dat_id\": \"010.2019.00000064.001\",
+        \r\n\"description\": \"alterations and additions\", \r\n\"determination_date\":
+        null, \r\n\"notification_start_date\": \"2019-05-15\", \r\n\"application_type\":
+        \"DA\"}\r\n}\r\n}\r\n,\r\n{\r\n\"application\": {\r\n\"locations\": [ \r\n{\r\n\"address\":
+        {\r\n\"suburb\": \"SUMMER HILL\", \r\n\"postcode\": \"2130\", \r\n\"state\":
+        \"NSW\", \r\n\"street\": \"82 Moonbie Street\"}\r\n, \r\n\"land_title_ref\":
+        {\r\n\"torrens\": {\r\n\"dpsp_id\": \"DP 444684\", \r\n\"lot\": \"0\", \r\n\"section\":
+        null}\r\n}\r\n}\r\n] \r\n, \r\n\"extended\": {\r\n\"version\": \"Online Application
+        Tracking Data Interchange Specification 1.02 \", \r\n\"sid\": 16, \r\n\"software_vendor\":
+        \"SolOrient Pty Ltd\", \r\n\"software_vendor_url\": \"http:\\/\\/www.solorient.com.au\",
+        \r\n\"product\": \"Horizon DA Portal - Build 4.03 Copyright 2018\"}\r\n, \r\n\"reference\":
+        {\r\n\"more_info_url\": \"http:\\/\\/mycouncil.solorient.com.au\\/Horizon\\/logonGuest.aw?e=FxkUAB1eSSgbAR0MXx0SGBErUQcoEhoRGlRVEBATB0Q3LxkeFRhUTgUNAAZEJDIbEBEFQyQfDQk9Xh00WCUdE0cyBgkNHVMVNB0cGlpeFgEmFRVSWAEEAxgfUxICEA4adBU0FVUQF0QsHx1cRAFEbkZDRU8eQ0ZJUUQAQnNaQ0RHHB0TDj4AURY%3D\"}\r\n,
+        \r\n\"events\": [ \r\n{\r\n\"description\": \"Refer to Records\", \r\n\"id\":
+        \"958107\", \r\n\"timestamp\": \"2019-05-09T00:00:00Z\", \r\n\"event_type\":
+        \"RREC\"}\r\n,\r\n{\r\n\"status\": \"C\", \r\n\"description\": \"Received\",
+        \r\n\"id\": \"958106\", \r\n\"timestamp\": \"2019-05-09T00:00:00Z\", \r\n\"event_type\":
+        \"RVD\"}\r\n] \r\n, \r\n\"people\": [], \r\n\"documents\": [], \r\n\"info\":
+        {\r\n\"development_type\": \"Other\", \r\n\"notification_end_date\": null,
+        \r\n\"determination_type\": \"Processing\", \r\n\"estimated_cost\": \"$648,945\",
+        \r\n\"status\": \"Open\", \r\n\"lodgement_date\": \"2019-05-08T00:00:00Z\",
+        \r\n\"last_modified_date\": \"2019-05-09T11:20:00Z\", \r\n\"authority\": {\r\n\"name\":
+        \"Ashfield Council\", \r\n\"ref\": \"http:\\/\\/mycouncil.solorient.com.au\\/Horizon%40%40horizondap_ashfield%40%40\\/atdis\\/1.0\"}\r\n,
+        \r\n\"officer\": \"Clearing House\", \r\n\"dat_id\": \"010.2019.00000063.001\",
+        \r\n\"description\": \"Alterations and additions to existing dwelling.\",
+        \r\n\"determination_date\": null, \r\n\"application_type\": \"DA\"}\r\n}\r\n}\r\n,\r\n{\r\n\"application\":
+        {\r\n\"locations\": [ \r\n{\r\n\"address\": {\r\n\"suburb\": \"ASHFIELD\",
+        \r\n\"postcode\": \"2131\", \r\n\"state\": \"NSW\", \r\n\"street\": \"13 Yabsley
+        Avenue\"}\r\n, \r\n\"land_title_ref\": {\r\n\"torrens\": {\r\n\"dpsp_id\":
+        \"DP 115539\", \r\n\"lot\": \"2\", \r\n\"section\": null}\r\n}\r\n}\r\n] \r\n,
+        \r\n\"extended\": {\r\n\"version\": \"Online Application Tracking Data Interchange
+        Specification 1.02 \", \r\n\"sid\": 17, \r\n\"software_vendor\": \"SolOrient
+        Pty Ltd\", \r\n\"software_vendor_url\": \"http:\\/\\/www.solorient.com.au\",
+        \r\n\"product\": \"Horizon DA Portal - Build 4.03 Copyright 2018\"}\r\n, \r\n\"reference\":
+        {\r\n\"more_info_url\": \"http:\\/\\/mycouncil.solorient.com.au\\/Horizon\\/logonGuest.aw?e=FxkUAB1eSSgbAR0MXx0SGBErUQcoEhoRGlRVEBATB0Q3LxkeFRhUTgUNAAZEJDIbEBEFQyQfDQk9Xh00WCUdE0cyBgkNHVMVNB0cGlpeFgEmFRVSWAEEAxgfUxICEA4adBU0FVUQF0QsHx1cRAFEbkZDRUMeQ0ZJUUQBQXVaQ0RFHB0TDj4AURY%3D\"}\r\n,
+        \r\n\"events\": [ \r\n{\r\n\"description\": \"No Events\", \r\n\"id\": \"0\",
+        \r\n\"timestamp\": \"2019-05-07T00:00:00Z\", \r\n\"event_type\": \"NIL\"}\r\n]
+        \r\n, \r\n\"people\": [], \r\n\"documents\": [], \r\n\"info\": {\r\n\"development_type\":
+        \"Residential - Other\", \r\n\"notification_end_date\": null, \r\n\"determination_type\":
+        \"Approved under Delegation\", \r\n\"estimated_cost\": \"$13,000\", \r\n\"status\":
+        \"Approved under Delegation\", \r\n\"lodgement_date\": \"2019-05-07T00:00:00Z\",
+        \r\n\"last_modified_date\": \"2019-05-13T12:48:00Z\", \r\n\"authority\": {\r\n\"name\":
+        \"Ashfield Council\", \r\n\"ref\": \"http:\\/\\/mycouncil.solorient.com.au\\/Horizon%40%40horizondap_ashfield%40%40\\/atdis\\/1.0\"}\r\n,
+        \r\n\"officer\": \"Mr W Daskalopoulos\", \r\n\"dat_id\": \"010.2015.00000155.003\",
+        \r\n\"description\": \"Modify conditions relating to storm water\", \r\n\"determination_date\":
+        \"2019-05-13T00:00:00Z\", \r\n\"application_type\": \"DA\"}\r\n}\r\n}\r\n,\r\n{\r\n\"application\":
+        {\r\n\"locations\": [ \r\n{\r\n\"address\": {\r\n\"suburb\": \"ASHFIELD\",
+        \r\n\"postcode\": \"2131\", \r\n\"state\": \"NSW\", \r\n\"street\": \"17 Henry
+        Street\"}\r\n, \r\n\"land_title_ref\": {\r\n\"torrens\": {\r\n\"dpsp_id\":
+        \"DP 1220668\", \r\n\"lot\": \"24\", \r\n\"section\": null}\r\n}\r\n}\r\n]
+        \r\n, \r\n\"extended\": {\r\n\"version\": \"Online Application Tracking Data
+        Interchange Specification 1.02 \", \r\n\"sid\": 18, \r\n\"software_vendor\":
+        \"SolOrient Pty Ltd\", \r\n\"software_vendor_url\": \"http:\\/\\/www.solorient.com.au\",
+        \r\n\"product\": \"Horizon DA Portal - Build 4.03 Copyright 2018\"}\r\n, \r\n\"reference\":
+        {\r\n\"more_info_url\": \"http:\\/\\/mycouncil.solorient.com.au\\/Horizon\\/logonGuest.aw?e=FxkUAB1eSSgbAR0MXx0SGBErUQcoEhoRGlRVEBATB0Q3LxkeFRhUTgUNAAZEJDIbEBEFQyQfDQk9Xh00WCUdE0cyBgkNHVMVNB0cGlpeFgEmFRVSWAEEAxgfUxICEA4adBU0FVUQF0QsHx1cRAFEbkZDRUYeQ0ZJUUQBRHJaQ0RDHB0TDj4AURY%3D\"}\r\n,
+        \r\n\"events\": [ \r\n{\r\n\"status\": \"C\", \r\n\"description\": \"Referred\",
+        \r\n\"id\": \"958104\", \r\n\"timestamp\": \"2019-05-09T00:00:00Z\", \r\n\"event_type\":
+        \"REF\"}\r\n,\r\n{\r\n\"status\": \"C\", \r\n\"description\": \"Received\",
+        \r\n\"id\": \"958103\", \r\n\"timestamp\": \"2019-05-09T00:00:00Z\", \r\n\"event_type\":
+        \"RVD\"}\r\n,\r\n{\r\n\"status\": \"C\", \r\n\"description\": \"Minor Notification\",
+        \r\n\"id\": \"958169\", \r\n\"timestamp\": \"2019-05-16T00:00:00Z\", \r\n\"event_type\":
+        \"NOT\"}\r\n,\r\n{\r\n\"description\": \"Referred\", \r\n\"id\": \"958170\",
+        \r\n\"timestamp\": \"2019-05-16T00:00:00Z\", \r\n\"event_type\": \"REF\"}\r\n,\r\n{\r\n\"description\":
+        \"Referred to Env.Health officer\", \r\n\"id\": \"958171\", \r\n\"timestamp\":
+        \"2019-05-16T00:00:00Z\", \r\n\"event_type\": \"ENV\"}\r\n,\r\n{\r\n\"description\":
+        \"Referred to Engineers\", \r\n\"id\": \"958172\", \r\n\"timestamp\": \"2019-05-16T00:00:00Z\",
+        \r\n\"event_type\": \"ENG\"}\r\n,\r\n{\r\n\"description\": \"Referred to Tree
+        Officer\", \r\n\"id\": \"958173\", \r\n\"timestamp\": \"2019-05-16T00:00:00Z\",
+        \r\n\"event_type\": \"TMO\"}\r\n] \r\n, \r\n\"people\": [ \r\n{\r\n\"name\":
+        \"Inner West Council - Ashfield\", \r\n\"role\": \"PCA\"}\r\n,\r\n{\r\n\"name\":
+        \"Ms A Kumar\", \r\n\"role\": \"Applicant\"}\r\n] \r\n, \r\n\"documents\":
+        [], \r\n\"info\": {\r\n\"development_type\": \"Commercial \\/ retail \\/ office\",
+        \r\n\"notification_end_date\": \"2019-06-04\", \r\n\"determination_type\":
+        \"Processing\", \r\n\"estimated_cost\": \"$7,120,000\", \r\n\"status\": \"Open\",
+        \r\n\"lodgement_date\": \"2019-05-03T00:00:00Z\", \r\n\"last_modified_date\":
+        \"2019-05-09T10:33:00Z\", \r\n\"authority\": {\r\n\"name\": \"Ashfield Council\",
+        \r\n\"ref\": \"http:\\/\\/mycouncil.solorient.com.au\\/Horizon%40%40horizondap_ashfield%40%40\\/atdis\\/1.0\"}\r\n,
+        \r\n\"officer\": \"Clearing House\", \r\n\"dat_id\": \"010.2010.00000102.005\",
+        \r\n\"description\": \"Child Care Centre\", \r\n\"determination_date\": null,
+        \r\n\"notification_start_date\": \"2019-05-16\", \r\n\"application_type\":
+        \"DA\"}\r\n}\r\n}\r\n,\r\n{\r\n\"application\": {\r\n\"locations\": [ \r\n{\r\n\"address\":
+        {\r\n\"suburb\": \"CROYDON\", \r\n\"postcode\": \"2132\", \r\n\"state\": \"NSW\",
+        \r\n\"street\": \"44 Lang Street\"}\r\n, \r\n\"land_title_ref\": {\r\n\"torrens\":
+        {\r\n\"dpsp_id\": \"DP 129724\", \r\n\"lot\": \"20\", \r\n\"section\": null}\r\n}\r\n}\r\n]
+        \r\n, \r\n\"extended\": {\r\n\"version\": \"Online Application Tracking Data
+        Interchange Specification 1.02 \", \r\n\"sid\": 20, \r\n\"software_vendor\":
+        \"SolOrient Pty Ltd\", \r\n\"software_vendor_url\": \"http:\\/\\/www.solorient.com.au\",
+        \r\n\"product\": \"Horizon DA Portal - Build 4.03 Copyright 2018\"}\r\n, \r\n\"reference\":
+        {\r\n\"more_info_url\": \"http:\\/\\/mycouncil.solorient.com.au\\/Horizon\\/logonGuest.aw?e=FxkUAB1eSSgbAR0MXx0SGBErUQcoEhoRGlRVEBATB0Q3LxkeFRhUTgUNAAZEJDIbEBEFQyQfDQk9Xh00WCUdE0cyBgkNHVMVNB0cGlpeFgEmFRVSWAEEAxgfUxICEA4adBU0FVUQF0QsHx1cRAFEbkZDRUIeQ0ZJUUQCTXdaQ0RFHB0TDj4AURY%3D\"}\r\n,
+        \r\n\"events\": [ \r\n{\r\n\"description\": \"No Events\", \r\n\"id\": \"0\",
+        \r\n\"timestamp\": \"2019-04-29T00:00:00Z\", \r\n\"event_type\": \"NIL\"}\r\n]
+        \r\n, \r\n\"people\": [], \r\n\"documents\": [], \r\n\"info\": {\r\n\"development_type\":
+        \"Residential - New second occupancy\", \r\n\"notification_end_date\": null,
+        \r\n\"determination_type\": \"Processing\", \r\n\"estimated_cost\": \"$100,000\",
+        \r\n\"status\": \"Open\", \r\n\"lodgement_date\": \"2019-04-29T00:00:00Z\",
+        \r\n\"last_modified_date\": \"2019-05-16T10:44:00Z\", \r\n\"authority\": {\r\n\"name\":
+        \"Ashfield Council\", \r\n\"ref\": \"http:\\/\\/mycouncil.solorient.com.au\\/Horizon%40%40horizondap_ashfield%40%40\\/atdis\\/1.0\"}\r\n,
+        \r\n\"officer\": \"Mr K Weir\", \r\n\"dat_id\": \"010.2014.00000297.003\",
+        \r\n\"description\": \"Modify existing consent for alterations and additions
+        to an existing\", \r\n\"determination_date\": null, \r\n\"application_type\":
+        \"DA\"}\r\n}\r\n}\r\n,\r\n{\r\n\"application\": {\r\n\"locations\": [ \r\n{\r\n\"address\":
+        {\r\n\"suburb\": \"HABERFIELD\", \r\n\"postcode\": \"2045\", \r\n\"state\":
+        \"NSW\", \r\n\"street\": \"1 Dudley Street\"}\r\n, \r\n\"land_title_ref\":
+        {\r\n\"torrens\": {\r\n\"dpsp_id\": \"DP 5908\", \r\n\"lot\": \"4\", \r\n\"section\":
+        \"5\"}\r\n}\r\n}\r\n] \r\n, \r\n\"extended\": {\r\n\"version\": \"Online Application
+        Tracking Data Interchange Specification 1.02 \", \r\n\"sid\": 19, \r\n\"software_vendor\":
+        \"SolOrient Pty Ltd\", \r\n\"software_vendor_url\": \"http:\\/\\/www.solorient.com.au\",
+        \r\n\"product\": \"Horizon DA Portal - Build 4.03 Copyright 2018\"}\r\n, \r\n\"reference\":
+        {\r\n\"more_info_url\": \"http:\\/\\/mycouncil.solorient.com.au\\/Horizon\\/logonGuest.aw?e=FxkUAB1eSSgbAR0MXx0SGBErUQcoEhoRGlRVEBATB0Q3LxkeFRhUTgUNAAZEJDIbEBEFQyQfDQk9Xh00WCUdE0cyBgkNHVMVNB0cGlpeFgEmFRVSWAEEAxgfUxICEA4adBU0FVUQF0QsHx1cRAFEbkZDRU4eQ0ZJUUQAQHRaQ0REHB0TDj4AURY%3D\"}\r\n,
+        \r\n\"events\": [ \r\n{\r\n\"description\": \"Referred\", \r\n\"id\": \"958047\",
+        \r\n\"timestamp\": \"2019-04-29T00:00:00Z\", \r\n\"event_type\": \"REF\"}\r\n,\r\n{\r\n\"status\":
+        \"C\", \r\n\"description\": \"Minor Notification\", \r\n\"id\": \"958093\",
+        \r\n\"timestamp\": \"2019-05-08T00:00:00Z\", \r\n\"event_type\": \"NOT\"}\r\n,\r\n{\r\n\"status\":
+        \"ADEL\", \r\n\"description\": \"Referred\", \r\n\"id\": \"958091\", \r\n\"timestamp\":
+        \"2019-05-08T00:00:00Z\", \r\n\"event_type\": \"REF\"}\r\n,\r\n{\r\n\"status\":
+        \"C\", \r\n\"description\": \"Determination Issued\", \r\n\"id\": \"958338\",
+        \r\n\"timestamp\": \"2019-06-03T00:00:00Z\", \r\n\"event_type\": \"DEIS\"}\r\n,\r\n{\r\n\"status\":
+        \"C\", \r\n\"description\": \"Received\", \r\n\"id\": \"958046\", \r\n\"timestamp\":
+        \"2019-04-29T00:00:00Z\", \r\n\"event_type\": \"RVD\"}\r\n] \r\n, \r\n\"people\":
+        [ \r\n{\r\n\"name\": \"Jessica Matson Architecture\", \r\n\"role\": \"Applicant\"}\r\n,\r\n{\r\n\"name\":
+        \"Inner West Council - Ashfield\", \r\n\"role\": \"PCA\"}\r\n] \r\n, \r\n\"documents\":
+        [], \r\n\"info\": {\r\n\"development_type\": \"Other\", \r\n\"notification_end_date\":
+        \"2019-05-24\", \r\n\"determination_type\": \"Processing\", \r\n\"estimated_cost\":
+        \"$850,000\", \r\n\"status\": \"Open\", \r\n\"lodgement_date\": \"2019-04-29T00:00:00Z\",
+        \r\n\"last_modified_date\": \"2019-04-29T11:22:00Z\", \r\n\"authority\": {\r\n\"name\":
+        \"Ashfield Council\", \r\n\"ref\": \"http:\\/\\/mycouncil.solorient.com.au\\/Horizon%40%40horizondap_ashfield%40%40\\/atdis\\/1.0\"}\r\n,
+        \r\n\"officer\": \"Clearing House\", \r\n\"dat_id\": \"010.2018.00000044.002\",
+        \r\n\"description\": \"S 4.55 admendment refer to statement of environmental
+        effects\", \r\n\"determination_date\": null, \r\n\"notification_start_date\":
+        \"2019-05-08\", \r\n\"application_type\": \"DA\"}\r\n}\r\n}\r\n,\r\n{\r\n\"application\":
+        {\r\n\"locations\": [ \r\n{\r\n\"address\": {\r\n\"suburb\": \"SUMMER HILL\",
+        \r\n\"postcode\": \"2130\", \r\n\"state\": \"NSW\", \r\n\"street\": \"33 Gower
+        Street\"}\r\n, \r\n\"land_title_ref\": {\r\n\"torrens\": {\r\n\"dpsp_id\":
+        \"DP 12981\", \r\n\"lot\": \"4\", \r\n\"section\": null}\r\n}\r\n}\r\n] \r\n,
+        \r\n\"extended\": {\r\n\"version\": \"Online Application Tracking Data Interchange
+        Specification 1.02 \", \r\n\"sid\": 21, \r\n\"software_vendor\": \"SolOrient
+        Pty Ltd\", \r\n\"software_vendor_url\": \"http:\\/\\/www.solorient.com.au\",
+        \r\n\"product\": \"Horizon DA Portal - Build 4.03 Copyright 2018\"}\r\n, \r\n\"reference\":
+        {\r\n\"more_info_url\": \"http:\\/\\/mycouncil.solorient.com.au\\/Horizon\\/logonGuest.aw?e=FxkUAB1eSSgbAR0MXx0SGBErUQcoEhoRGlRVEBATB0Q3LxkeFRhUTgUNAAZEJDIbEBEFQyQfDQk9Xh00WCUdE0cyBgkNHVMVNB0cGlpeFgEmFRVSWAEEAxgfUxICEA4adBU0FVUQF0QsHx1cRAFEbkZDRU8eQ0ZJUUQAQnFaQ0RHHB0TDj4AURY%3D\"}\r\n,
+        \r\n\"events\": [ \r\n{\r\n\"status\": \"C\", \r\n\"description\": \"Minor
+        Notification\", \r\n\"id\": \"958072\", \r\n\"timestamp\": \"2019-05-02T00:00:00Z\",
+        \r\n\"event_type\": \"NOT\"}\r\n] \r\n, \r\n\"people\": [ \r\n{\r\n\"name\":
+        \"Emag Apartments\", \r\n\"role\": \"Applicant\"}\r\n,\r\n{\r\n\"name\": \"Inner
+        West Council - Ashfield\", \r\n\"role\": \"PCA\"}\r\n] \r\n, \r\n\"documents\":
+        [], \r\n\"info\": {\r\n\"development_type\": \"Other\", \r\n\"notification_end_date\":
+        \"2019-05-28\", \r\n\"determination_type\": \"Processing\", \r\n\"estimated_cost\":
+        \"$2,421,472\", \r\n\"status\": \"Open\", \r\n\"lodgement_date\": \"2019-04-23T00:00:00Z\",
+        \r\n\"last_modified_date\": \"2019-05-01T10:57:00Z\", \r\n\"authority\": {\r\n\"name\":
+        \"Ashfield Council\", \r\n\"ref\": \"http:\\/\\/mycouncil.solorient.com.au\\/Horizon%40%40horizondap_ashfield%40%40\\/atdis\\/1.0\"}\r\n,
+        \r\n\"officer\": \"Mr M Amy\", \r\n\"dat_id\": \"010.2019.00000061.001\",
+        \r\n\"description\": \"Demolition of existing structures and construction
+        of a four level\", \r\n\"determination_date\": null, \r\n\"notification_start_date\":
+        \"2019-05-02\", \r\n\"application_type\": \"DA\"}\r\n}\r\n}\r\n] \r\n, \r\n\"count\":
+        10, \r\n\"pagination\": {\r\n\"pages\": 1, \r\n\"per_page\": 20, \r\n\"count\":
+        10, \r\n\"current\": 1}\r\n}\r\n"
+    http_version: 
+  recorded_at: Mon, 13 May 2019 14:00:00 GMT
 recorded_with: VCR 5.0.0
