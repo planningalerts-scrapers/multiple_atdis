@@ -17,16 +17,25 @@ AUTHORITIES = {
   walgett: "http://myhorizon.walgett.nsw.gov.au/Horizon/@@horizondap@@/atdis/1.0/"
 }
 
-# TODO: Handle errors in each authority seperately
-
+exceptions = []
 AUTHORITIES.each do |authority_label, url|
   puts "\nCollecting ATDIS feed data for #{authority_label}..."
 
-  # All the authorities are in NSW (for ATDIS) so they all have
-  # the Sydney timezone
-  ATDISPlanningAlertsFeed.fetch(url, "Sydney") do |record|
-    record[:authority_label] = authority_label.to_s
-    puts "Storing #{record[:council_reference]} - #{record[:address]}"
-    ScraperWikiMorph.save_sqlite([:authority_label, :council_reference], record)
+  begin
+    # All the authorities are in NSW (for ATDIS) so they all have
+    # the Sydney timezone
+    ATDISPlanningAlertsFeed.fetch(url, "Sydney") do |record|
+      record[:authority_label] = authority_label.to_s
+      puts "Storing #{record[:council_reference]} - #{record[:address]}"
+      ScraperWikiMorph.save_sqlite([:authority_label, :council_reference], record)
+    end
+  rescue StandardError => e
+    STDERR.puts "#{authority_label}: ERROR: #{e}"
+    STDERR.puts e.backtrace
+    exceptions << e
   end
+end
+
+unless exceptions.empty?
+  raise "There were earlier errors. See output for details"
 end
