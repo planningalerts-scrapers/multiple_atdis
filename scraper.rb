@@ -1,25 +1,31 @@
-# This is a template for a Ruby scraper on morph.io (https://morph.io)
-# including some code snippets below that you should find helpful
+#!/usr/bin/env ruby
+Bundler.require
 
-# require 'scraperwiki'
-# require 'mechanize'
-#
-# agent = Mechanize.new
-#
-# # Read in a page
-# page = agent.get("http://foo.com")
-#
-# # Find somehing on the page using css selectors
-# p page.at('div.content')
-#
-# # Write out to the sqlite database using scraperwiki library
-# ScraperWiki.save_sqlite(["name"], {"name" => "susan", "occupation" => "software developer"})
-#
-# # An arbitrary query against the database
-# ScraperWiki.select("* from data where 'name'='peter'")
+AUTHORITIES = {
+  bega_valley: "http://datracker.begavalley.nsw.gov.au/ATDIS/1.0/",
+  armidale: "https://epathway.newengland.nsw.gov.au/ePathway/Production/WebServiceGateway/atdis/1.0",
+  ashfield: "http://mycouncil2.solorient.com.au/Horizon/@@horizondap_ashfield@@/atdis/1.0/",
+  ballina: "http://da.ballina.nsw.gov.au/atdis/1.0",
+  bathurst: "http://masterview.bathurst.nsw.gov.au/atdis/1.0/",
+  berrigan: "http://datracking.berriganshire.nsw.gov.au/Horizon/@@horizondap@@/atdis/1.0/",
+  cootamundra: "http://myhorizon.cootamundra.nsw.gov.au/Horizon/@@horizondap@@/atdis/1.0/",
+  dubbo: "https://planning.dubbo.nsw.gov.au/atdis/1.0/",
+  kiama: "https://da.kiama.nsw.gov.au/atdis/1.0",
+  leeton: "http://203.58.97.252/Horizon/@@horizondap@@/atdis/1.0/",
+  muswellbrook: "http://datracker.muswellbrook.nsw.gov.au/atdis/1.0",
+  upper_hunter: "http://onlineservices.upperhunter.nsw.gov.au/atdis/1.0/",
+  walgett: "http://myhorizon.walgett.nsw.gov.au/Horizon/@@horizondap@@/atdis/1.0/"
+}
 
-# You don't have to do things with the Mechanize or ScraperWiki libraries.
-# You can use whatever gems you want: https://morph.io/documentation/ruby
-# All that matters is that your final data is written to an SQLite database
-# called "data.sqlite" in the current working directory which has at least a table
-# called "data".
+# TODO: Handle errors in each authority seperately
+
+AUTHORITIES.each do |authority_label, url|
+  puts "\nCollecting ATDIS feed data for #{authority_label}..."
+
+  # All the authorities are in NSW (for ATDIS) so they all have
+  # the Sydney timezone
+  ATDISPlanningAlertsFeed.fetch(url, "Sydney") do |record|
+    record[:authority_label] = authority_label.to_s
+    ScraperWikiMorph.save_sqlite([:authority_label, :council_reference], record)
+  end
+end
