@@ -14,7 +14,8 @@ end
 
 File.delete("./data.sqlite") if File.exist?("./data.sqlite")
 
-VCR.use_cassette("scraper") do
+# Allowing new http requests to be added to the current recorded cassette
+VCR.use_cassette("scraper", record: :new_episodes) do
   Timecop.freeze(Date.new(2019,5,14)) do
     require "./scraper"
   end
