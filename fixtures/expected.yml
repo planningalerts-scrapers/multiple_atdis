@@ -1,0 +1,2911 @@
+---
+- council_reference: 010.1971.00000097.003
+  address: Panama ST, BOMBO, NSW 2533
+  description: modified - update consent details to describe the title and applicant
+    details (administrative change) and blue metal quarry (2nd modification to finished
+    batter and final landform modification)
+  info_url: https://da.kiama.nsw.gov.au/Application/ApplicationDetails/010.1971.00000097.003/
+  comment_url: ''
+  date_scraped: '2019-05-14'
+  date_received: '2019-05-10'
+  on_notice_from: '2019-05-20'
+  on_notice_to: '2019-06-17'
+  authority_label: kiama
+- council_reference: 010.2001.00001354.019
+  address: 2-12 Glenabbey DR, DUBBO, NSW 2830
+  description: Modified application - Housing for older people and people with a disability
+    (SEPP 5)
+  info_url: https://planning.dubbo.nsw.gov.au/Application/ApplicationDetails/010.2001.00001354.019/
+  comment_url: ''
+  date_scraped: '2019-05-14'
+  date_received: '2019-04-30'
+  on_notice_from: 
+  on_notice_to: 
+  authority_label: dubbo
+- council_reference: 010.2001.00002033.002
+  address: 375 Tathra RD, KALARU, NSW 2550
+  description: Modification 3 Lot Rural Subdivision
+  info_url: http://datracker.begavalley.nsw.gov.au/Application/ApplicationDetails/010.2001.00002033.002/
+  comment_url: ''
+  date_scraped: '2019-05-14'
+  date_received: '2019-04-15'
+  on_notice_from: 
+  on_notice_to: 
+  authority_label: bega_valley
+- council_reference: 010.2007.00000876.006
+  address: Rifle Range RD, WOLLONGBAR, NSW 2477
+  description: 'Section 4.55:  Subdivision - Torrens (Residential) To amend development
+    consent 2007/876 by modifying the design of Pembroke Close (previously identified
+    as Trelawney Close) and the location of the approved footpath along that road
+    and consequential changes to the size and shape of four approved lots.'
+  info_url: http://da.ballina.nsw.gov.au/Application/ApplicationDetails/010.2007.00000876.006/
+  comment_url: ''
+  date_scraped: '2019-05-14'
+  date_received: '2019-05-08'
+  on_notice_from: '2019-05-29'
+  on_notice_to: '2019-06-13'
+  authority_label: ballina
+- council_reference: 010.2012.00000402.002
+  address: 5 Bells PL, DOCTOR GEORGE MOUNTAIN, NSW 2550
+  description: Modification Erection of a dwelling & detached garage/studio & carport
+  info_url: http://datracker.begavalley.nsw.gov.au/Application/ApplicationDetails/010.2012.00000402.002/
+  comment_url: ''
+  date_scraped: '2019-05-14'
+  date_received: '2019-05-07'
+  on_notice_from: '2019-05-23'
+  on_notice_to: '2019-06-06'
+  authority_label: bega_valley
+- council_reference: 010.2013.00000187.003
+  address: 30 Anembo CR, KIAMA HEIGHTS, NSW 2533
+  description: modified - dwelling additions
+  info_url: https://da.kiama.nsw.gov.au/Application/ApplicationDetails/010.2013.00000187.003/
+  comment_url: ''
+  date_scraped: '2019-05-14'
+  date_received: '2019-05-02'
+  on_notice_from: 
+  on_notice_to: 
+  authority_label: kiama
+- council_reference: 010.2014.00000181.004
+  address: 270 Fern ST, GERRINGONG, NSW 2534
+  description: modified - dwelling
+  info_url: https://da.kiama.nsw.gov.au/Application/ApplicationDetails/010.2014.00000181.004/
+  comment_url: ''
+  date_scraped: '2019-05-14'
+  date_received: '2019-04-23'
+  on_notice_from: 
+  on_notice_to: 
+  authority_label: kiama
+- council_reference: 010.2014.00000388.002
+  address: 38 Hillcrest DR, TINTENBAR, NSW 2478
+  description: s4.55 - Alterations/Additions to Dwelling To amend development consent
+    2014/388 by modifying the building as depicted in the plans marked “modified”
+    lodged with Council on 30 April 2019
+  info_url: http://da.ballina.nsw.gov.au/Application/ApplicationDetails/010.2014.00000388.002/
+  comment_url: ''
+  date_scraped: '2019-05-14'
+  date_received: '2019-04-30'
+  on_notice_from: 
+  on_notice_to: 
+  authority_label: ballina
+- council_reference: 010.2015.00000134.002
+  address: 2/7 Gwinganna AV, KIAMA, NSW 2533
+  description: modified - two (2)  lot strata subdivision (boundary adjustment
+  info_url: https://da.kiama.nsw.gov.au/Application/ApplicationDetails/010.2015.00000134.002/
+  comment_url: ''
+  date_scraped: '2019-05-14'
+  date_received: '2019-04-23'
+  on_notice_from: 
+  on_notice_to: 
+  authority_label: kiama
+- council_reference: 010.2015.00000198.004
+  address: 14A Bonaira ST, KIAMA, NSW 2533
+  description: modified - demolition of existing buildings on site except barroul
+    house, development of the kiama aged care centre of excellence including a 134
+    bed residential aged care facility, 51 independent living units, 16 assisted living
+    units, a community services and activities centre, the restoration of barroul
+    house and the provision of associated infrastructure
+  info_url: https://da.kiama.nsw.gov.au/Application/ApplicationDetails/010.2015.00000198.004/
+  comment_url: ''
+  date_scraped: '2019-05-14'
+  date_received: '2019-04-17'
+  on_notice_from: 
+  on_notice_to: 
+  authority_label: kiama
+- council_reference: 010.2015.00000203.004
+  address: 540 Pimlico RD, PIMLICO, NSW 2478
+  description: 'Section 4.56:  New Miscellaneous To amend development consent 2015/203
+    by proposing an additional roofed and bunded storage area'
+  info_url: http://da.ballina.nsw.gov.au/Application/ApplicationDetails/010.2015.00000203.004/
+  comment_url: ''
+  date_scraped: '2019-05-14'
+  date_received: '2019-05-14'
+  on_notice_from: 
+  on_notice_to: 
+  authority_label: ballina
+- council_reference: 010.2016.00000084.004
+  address: 9A Henwood ST, MERIMBULA, NSW 2548
+  description: Modification alterations & additions to existing dwelling
+  info_url: http://datracker.begavalley.nsw.gov.au/Application/ApplicationDetails/010.2016.00000084.004/
+  comment_url: ''
+  date_scraped: '2019-05-14'
+  date_received: '2019-04-30'
+  on_notice_from: 
+  on_notice_to: 
+  authority_label: bega_valley
+- council_reference: 010.2016.00000094.002
+  address: 7 Volta AVE, DUBBO, NSW 2830
+  description: Modified application - Multi-dwelling housing (9 units) and Community
+    Title subdivision
+  info_url: https://planning.dubbo.nsw.gov.au/Application/ApplicationDetails/010.2016.00000094.002/
+  comment_url: ''
+  date_scraped: '2019-05-14'
+  date_received: '2019-05-14'
+  on_notice_from: 
+  on_notice_to: 
+  authority_label: dubbo
+- council_reference: 010.2016.00000184.002
+  address: 88 Sandy Flat RD, CUMBALUM, NSW 2478
+  description: 'Section 4.56:  Subdivision - Torrens (Residential) and Miscellaneous
+    To amend development consent 2016/184 by undertaking administrative amendments
+    to the consent including changes to the wording of a number of conditions of consent'
+  info_url: http://da.ballina.nsw.gov.au/Application/ApplicationDetails/010.2016.00000184.002/
+  comment_url: ''
+  date_scraped: '2019-05-14'
+  date_received: '2019-04-17'
+  on_notice_from: 
+  on_notice_to: 
+  authority_label: ballina
+- council_reference: 010.2016.00000184.003
+  address: 88 Sandy Flat RD, CUMBALUM, NSW 2478
+  description: 'Section 4.56:  Subdivision - Torrens (Residential) and Miscellaneous
+    To amend development consent 2016/184 by modifying the wording of a number of
+    conditions and including to allow for the detailed design of the stormwater to
+    be carried out in stages and to align with the staging of construction and to
+    facilitate the staging of the erection of the Feral Animal Exclusion Fence to
+    also align with the construction.'
+  info_url: http://da.ballina.nsw.gov.au/Application/ApplicationDetails/010.2016.00000184.003/
+  comment_url: ''
+  date_scraped: '2019-05-14'
+  date_received: '2019-04-29'
+  on_notice_from: 
+  on_notice_to: 
+  authority_label: ballina
+- council_reference: 010.2016.00000184.004
+  address: 88 Sandy Flat RD, CUMBALUM, NSW 2478
+  description: 'Section 4.56:  Subdivision - Torrens (Residential) and Miscellaneous
+    To amend development consent 2016/184 by modifying the sewer alignments within
+    the development and consequential changes to conditions 2 and 92'
+  info_url: http://da.ballina.nsw.gov.au/Application/ApplicationDetails/010.2016.00000184.004/
+  comment_url: ''
+  date_scraped: '2019-05-14'
+  date_received: '2019-05-01'
+  on_notice_from: 
+  on_notice_to: 
+  authority_label: ballina
+- council_reference: 010.2017.00000093.002
+  address: 150 Stewart ST, EVANS PLAINS, NSW 2795
+  description: Construction of a two storey garage with storage areas
+  info_url: http://masterview.bathurst.nsw.gov.au/Application/ApplicationDetails/010.2017.00000093.002/
+  comment_url: ''
+  date_scraped: '2019-05-14'
+  date_received: '2019-05-13'
+  on_notice_from: 
+  on_notice_to: 
+  authority_label: bathurst
+- council_reference: 010.2017.00000347.002
+  address: 23 Farmer ST, KIAMA, NSW 2533
+  description: modified - three (3) townhouses & three (3) torrens title subdivision
+  info_url: https://da.kiama.nsw.gov.au/Application/ApplicationDetails/010.2017.00000347.002/
+  comment_url: ''
+  date_scraped: '2019-05-14'
+  date_received: '2019-05-03'
+  on_notice_from: 
+  on_notice_to: 
+  authority_label: kiama
+- council_reference: 010.2017.00000474.002
+  address: 6 Adele ST, ALSTONVILLE, NSW 2477
+  description: S4.55 - Alterations/Additions to Dwelling - Single Residence Carport
+    forward of the building line and rear Patio
+  info_url: http://da.ballina.nsw.gov.au/Application/ApplicationDetails/010.2017.00000474.002/
+  comment_url: ''
+  date_scraped: '2019-05-14'
+  date_received: '2019-04-30'
+  on_notice_from: 
+  on_notice_to: 
+  authority_label: ballina
+- council_reference: 010.2017.00000531.002
+  address: Fernleigh RD, BROOKLET, NSW 2479
+  description: 'Section 4.55:  New Dwelling - Single Residence Dwelling as depicted
+    in plans by Straightedge Architectural Drafting dated 22 September 2017, including
+    the addition of a new lower floor area, as depicted in amended plans by Colin
+    Morris and Associates, Project No. 18.08'
+  info_url: http://da.ballina.nsw.gov.au/Application/ApplicationDetails/010.2017.00000531.002/
+  comment_url: ''
+  date_scraped: '2019-05-14'
+  date_received: '2019-04-16'
+  on_notice_from: 
+  on_notice_to: 
+  authority_label: ballina
+- council_reference: 010.2017.00000659.002
+  address: 64 Railway ST, WONGARBON, NSW 2831
+  description: Modified application - Two (2) lot subdivision
+  info_url: https://planning.dubbo.nsw.gov.au/Application/ApplicationDetails/010.2017.00000659.002/
+  comment_url: ''
+  date_scraped: '2019-05-14'
+  date_received: '2019-04-29'
+  on_notice_from: 
+  on_notice_to: 
+  authority_label: dubbo
+- council_reference: 010.2017.00000671.002
+  address: 1 Church ST, DUBBO, NSW 2830
+  description: Modified application - Mixed use development comprising commercial
+    premises (restaurant and bar) on ground floor, 57 serviced apartments (floors
+    2 to 6) and 27 shop top housing units (floors 7 to 13), plus parking over four
+    (4) levels and roof terrace.  The proposal also includes a four (4) lot stratum
+    and subsequent 84 lot strata title subdivision.
+  info_url: https://planning.dubbo.nsw.gov.au/Application/ApplicationDetails/010.2017.00000671.002/
+  comment_url: ''
+  date_scraped: '2019-05-14'
+  date_received: '2019-05-02'
+  on_notice_from: 
+  on_notice_to: 
+  authority_label: dubbo
+- council_reference: 010.2018.00000066.002
+  address: 2053 Princes HWY, WOLUMLA, NSW 2550
+  description: Modification Erection of a dwelling
+  info_url: http://datracker.begavalley.nsw.gov.au/Application/ApplicationDetails/010.2018.00000066.002/
+  comment_url: ''
+  date_scraped: '2019-05-14'
+  date_received: '2019-04-26'
+  on_notice_from: 
+  on_notice_to: 
+  authority_label: bega_valley
+- council_reference: 010.2018.00000080.002
+  address: 30 Bentwing PL, TINTENBAR, NSW 2478
+  description: 'Section 4.55:  New Dual Occupancy & New Swimming Pool To amend development
+    consent 2018/80 by modifying the carport to be a garage as depicted in the marked
+    up Site Plan by Crestwood Drafting and Design, Sheet 1 lodged with Council on
+    14 May 2019'
+  info_url: http://da.ballina.nsw.gov.au/Application/ApplicationDetails/010.2018.00000080.002/
+  comment_url: ''
+  date_scraped: '2019-05-14'
+  date_received: '2019-05-14'
+  on_notice_from: 
+  on_notice_to: 
+  authority_label: ballina
+- council_reference: 010.2018.00000093.002
+  address: 42 Manning ST, KIAMA, NSW 2533
+  description: modified - staged development - stage 1, demolition of existing dwelling,
+    small shed and awning & erection of replacement dwelling, stage 2 - demolition
+    of existing workshop
+  info_url: https://da.kiama.nsw.gov.au/Application/ApplicationDetails/010.2018.00000093.002/
+  comment_url: ''
+  date_scraped: '2019-05-14'
+  date_received: '2019-05-13'
+  on_notice_from: 
+  on_notice_to: 
+  authority_label: kiama
+- council_reference: 010.2018.00000125.002
+  address: 26 Stonehenge PL, LENNOX HEAD, NSW 2478
+  description: s4.55 - Alterations/Additions to Dwelling Modification to consent for
+    dwelling alterations/additions and detached shed as depicted in plans prepared
+    by AMORESDESIGN dated 24 January 2018 by way of the inclusion of a retaining wall
+    to the western boundary as depicted in the marked up plans lodged with Council
+    on 16 April 2019
+  info_url: http://da.ballina.nsw.gov.au/Application/ApplicationDetails/010.2018.00000125.002/
+  comment_url: ''
+  date_scraped: '2019-05-14'
+  date_received: '2019-04-16'
+  on_notice_from: 
+  on_notice_to: 
+  authority_label: ballina
+- council_reference: 010.2018.00000205.002
+  address: 16 Croft PL, GERRINGONG, NSW 2534
+  description: modified - screened room addition to the rear of the dwelling & front
+    stairs
+  info_url: https://da.kiama.nsw.gov.au/Application/ApplicationDetails/010.2018.00000205.002/
+  comment_url: ''
+  date_scraped: '2019-05-14'
+  date_received: '2019-05-08'
+  on_notice_from: 
+  on_notice_to: 
+  authority_label: kiama
+- council_reference: 010.2018.00000246.002
+  address: 175 Mirador DR, MIRADOR, NSW 2548
+  description: Modification erection of a two storey dwelling with attached garage
+  info_url: http://datracker.begavalley.nsw.gov.au/Application/ApplicationDetails/010.2018.00000246.002/
+  comment_url: ''
+  date_scraped: '2019-05-14'
+  date_received: '2019-04-18'
+  on_notice_from: 
+  on_notice_to: 
+  authority_label: bega_valley
+- council_reference: 010.2018.00000262.002
+  address: 8 Paterson CRCT, DUBBO, NSW 2830
+  description: Modified application - Erection of dwelling with attached garage, verandah,
+    patio and detached garage and front fence
+  info_url: https://planning.dubbo.nsw.gov.au/Application/ApplicationDetails/010.2018.00000262.002/
+  comment_url: ''
+  date_scraped: '2019-05-14'
+  date_received: '2019-04-26'
+  on_notice_from: 
+  on_notice_to: 
+  authority_label: dubbo
+- council_reference: 010.2018.00000436.002
+  address: 44 Oaklands RD, PAMBULA, NSW 2549
+  description: Modification erect dwelling, detached garage & studio
+  info_url: http://datracker.begavalley.nsw.gov.au/Application/ApplicationDetails/010.2018.00000436.002/
+  comment_url: ''
+  date_scraped: '2019-05-14'
+  date_received: '2019-05-13'
+  on_notice_from: 
+  on_notice_to: 
+  authority_label: bega_valley
+- council_reference: 010.2018.00000494.002
+  address: 4 Virginia DR, BEGA, NSW 2550
+  description: Modification clinical training facility education & student accomm
+  info_url: http://datracker.begavalley.nsw.gov.au/Application/ApplicationDetails/010.2018.00000494.002/
+  comment_url: ''
+  date_scraped: '2019-05-14'
+  date_received: '2019-04-17'
+  on_notice_from: 
+  on_notice_to: 
+  authority_label: bega_valley
+- council_reference: 010.2019.00000031.002
+  address: 88 Macquarie ST, DUBBO, NSW 2830
+  description: Modified application - Commercial premises (alterations)
+  info_url: https://planning.dubbo.nsw.gov.au/Application/ApplicationDetails/010.2019.00000031.002/
+  comment_url: ''
+  date_scraped: '2019-05-14'
+  date_received: '2019-05-01'
+  on_notice_from: 
+  on_notice_to: 
+  authority_label: dubbo
+- council_reference: 010.2019.00000059.001
+  address: 46 Donovan RD, TOOLIJOOA, NSW 2534
+  description: shed
+  info_url: https://da.kiama.nsw.gov.au/Application/ApplicationDetails/010.2019.00000059.001/
+  comment_url: ''
+  date_scraped: '2019-05-14'
+  date_received: '2019-04-15'
+  on_notice_from: 
+  on_notice_to: 
+  authority_label: kiama
+- council_reference: 010.2019.00000060.001
+  address: 1 Gwinganna AV, KIAMA, NSW 2533
+  description: construction of secondary dwelling & removal of one (1) tree
+  info_url: https://da.kiama.nsw.gov.au/Application/ApplicationDetails/010.2019.00000060.001/
+  comment_url: ''
+  date_scraped: '2019-05-14'
+  date_received: '2019-04-15'
+  on_notice_from: 
+  on_notice_to: 
+  authority_label: kiama
+- council_reference: 010.2019.00000061.001
+  address: Fern ST, GERRINGONG, NSW 2534
+  description: change of use involving extension of existing cafe and minor demolition
+  info_url: https://da.kiama.nsw.gov.au/Application/ApplicationDetails/010.2019.00000061.001/
+  comment_url: ''
+  date_scraped: '2019-05-14'
+  date_received: '2019-04-16'
+  on_notice_from: 
+  on_notice_to: 
+  authority_label: kiama
+- council_reference: 010.2019.00000062.001
+  address: 81 Attunga AV, KIAMA HEIGHTS, NSW 2533
+  description: demolition of above ground pool and adjoining deck on one side of pool
+  info_url: https://da.kiama.nsw.gov.au/Application/ApplicationDetails/010.2019.00000062.001/
+  comment_url: ''
+  date_scraped: '2019-05-14'
+  date_received: '2019-04-16'
+  on_notice_from: 
+  on_notice_to: 
+  authority_label: kiama
+- council_reference: 010.2019.00000063.001
+  address: 4 Chapman ST, KIAMA, NSW 2533
+  description: construct upper storey extension, primarily above existing residence,
+    construct ground floor and upper level decks
+  info_url: https://da.kiama.nsw.gov.au/Application/ApplicationDetails/010.2019.00000063.001/
+  comment_url: ''
+  date_scraped: '2019-05-14'
+  date_received: '2019-04-16'
+  on_notice_from: 
+  on_notice_to: 
+  authority_label: kiama
+- council_reference: 010.2019.00000064.001
+  address: 4 Hanrahan PL, KIAMA, NSW 2533
+  description: dwelling & garage
+  info_url: https://da.kiama.nsw.gov.au/Application/ApplicationDetails/010.2019.00000064.001/
+  comment_url: ''
+  date_scraped: '2019-05-14'
+  date_received: '2019-04-17'
+  on_notice_from: 
+  on_notice_to: 
+  authority_label: kiama
+- council_reference: 010.2019.00000065.001
+  address: 2 Surfleet PL, KIAMA, NSW 2533
+  description: demolition of existing structures, construction of sixty two (62) residential
+    apartments and sixty two (62) lot strata subdivision
+  info_url: https://da.kiama.nsw.gov.au/Application/ApplicationDetails/010.2019.00000065.001/
+  comment_url: ''
+  date_scraped: '2019-05-14'
+  date_received: '2019-04-17'
+  on_notice_from: 
+  on_notice_to: 
+  authority_label: kiama
+- council_reference: 010.2019.00000066.001
+  address: 5 The Circuit, KIAMA DOWNS, NSW 2533
+  description: partial demolition of existing dwelling, construction of secondary
+    detached dwelling to create detached dual occupancy
+  info_url: https://da.kiama.nsw.gov.au/Application/ApplicationDetails/010.2019.00000066.001/
+  comment_url: ''
+  date_scraped: '2019-05-14'
+  date_received: '2019-04-18'
+  on_notice_from: 
+  on_notice_to: 
+  authority_label: kiama
+- council_reference: 010.2019.00000067.001
+  address: 7B David Smith PL, KIAMA HEIGHTS, NSW 2533
+  description: attached deck & awning
+  info_url: https://da.kiama.nsw.gov.au/Application/ApplicationDetails/010.2019.00000067.001/
+  comment_url: ''
+  date_scraped: '2019-05-14'
+  date_received: '2019-04-23'
+  on_notice_from: 
+  on_notice_to: 
+  authority_label: kiama
+- council_reference: 010.2019.00000068.001
+  address: 40 Anembo CR, KIAMA HEIGHTS, NSW 2533
+  description: above ground concrete pool & timber deck
+  info_url: https://da.kiama.nsw.gov.au/Application/ApplicationDetails/010.2019.00000068.001/
+  comment_url: ''
+  date_scraped: '2019-05-14'
+  date_received: '2019-04-24'
+  on_notice_from: 
+  on_notice_to: 
+  authority_label: kiama
+- council_reference: 010.2019.00000069.001
+  address: 10/65 Manning ST, KIAMA, NSW 2533
+  description: change of use from retail to indoor recreational
+  info_url: https://da.kiama.nsw.gov.au/Application/ApplicationDetails/010.2019.00000069.001/
+  comment_url: ''
+  date_scraped: '2019-05-14'
+  date_received: '2019-04-30'
+  on_notice_from: 
+  on_notice_to: 
+  authority_label: kiama
+- council_reference: 010.2019.00000070.001
+  address: 76 Oxley AV, KIAMA DOWNS, NSW 2533
+  description: dwelling alterations and additions
+  info_url: https://da.kiama.nsw.gov.au/Application/ApplicationDetails/010.2019.00000070.001/
+  comment_url: ''
+  date_scraped: '2019-05-14'
+  date_received: '2019-05-01'
+  on_notice_from: 
+  on_notice_to: 
+  authority_label: kiama
+- council_reference: 010.2019.00000071.001
+  address: 143 Belinda ST, GERRINGONG, NSW 2534
+  description: torrens title subdivision into two (2) lots, works on the southern
+    elevation of the existing corner dwelling, retention of existing dual occupancy
+    on proposed lot one (1), installation of swimming pool, erection of semi-detached
+    dwelling on proposed lot two (2), installation of swimming pool and strata subdivision
+    of existing dual occupancy dwellings on proposed lot one (1) into two (2) strata
+    lots.
+  info_url: https://da.kiama.nsw.gov.au/Application/ApplicationDetails/010.2019.00000071.001/
+  comment_url: ''
+  date_scraped: '2019-05-14'
+  date_received: '2019-05-01'
+  on_notice_from: 
+  on_notice_to: 
+  authority_label: kiama
+- council_reference: 010.2019.00000072.001
+  address: 6 Dido ST, KIAMA, NSW 2533
+  description: demolition of existing brick piers and stairs - and addition of new
+    stairs and roof over deck - new privacy screen for existing deck
+  info_url: https://da.kiama.nsw.gov.au/Application/ApplicationDetails/010.2019.00000072.001/
+  comment_url: ''
+  date_scraped: '2019-05-14'
+  date_received: '2019-05-01'
+  on_notice_from: 
+  on_notice_to: 
+  authority_label: kiama
+- council_reference: 010.2019.00000073.001
+  address: 58 Bong Bong ST, KIAMA, NSW 2533
+  description: alterations & additions to existing single dwelling, new secondary
+    dwelling (conversion of existing building), swimming pool and associated landscaping.
+  info_url: https://da.kiama.nsw.gov.au/Application/ApplicationDetails/010.2019.00000073.001/
+  comment_url: ''
+  date_scraped: '2019-05-14'
+  date_received: '2019-05-01'
+  on_notice_from: 
+  on_notice_to: 
+  authority_label: kiama
+- council_reference: 010.2019.00000074.001
+  address: 18 Elambra PDE, GERRINGONG, NSW 2534
+  description: dwelling alterations and additions - guest bedroom, deck and stairs
+  info_url: https://da.kiama.nsw.gov.au/Application/ApplicationDetails/010.2019.00000074.001/
+  comment_url: ''
+  date_scraped: '2019-05-14'
+  date_received: '2019-05-02'
+  on_notice_from: 
+  on_notice_to: 
+  authority_label: kiama
+- council_reference: 010.2019.00000074.002
+  address: 1 Jacks CL, KELSO, NSW 2795
+  description: Two business identification signs (freestanding blade signs)
+  info_url: http://masterview.bathurst.nsw.gov.au/Application/ApplicationDetails/010.2019.00000074.002/
+  comment_url: ''
+  date_scraped: '2019-05-14'
+  date_received: '2019-04-29'
+  on_notice_from: 
+  on_notice_to: 
+  authority_label: bathurst
+- council_reference: 010.2019.00000075.001
+  address: 50 Old Saddleback RD, KIAMA, NSW 2533
+  description: awning
+  info_url: https://da.kiama.nsw.gov.au/Application/ApplicationDetails/010.2019.00000075.001/
+  comment_url: ''
+  date_scraped: '2019-05-14'
+  date_received: '2019-05-03'
+  on_notice_from: 
+  on_notice_to: 
+  authority_label: kiama
+- council_reference: 010.2019.00000076.001
+  address: 45 Merrick CCT, KIAMA, NSW 2533
+  description: retaining walls, extension of deck & relocation of swimming pool
+  info_url: https://da.kiama.nsw.gov.au/Application/ApplicationDetails/010.2019.00000076.001/
+  comment_url: ''
+  date_scraped: '2019-05-14'
+  date_received: '2019-05-07'
+  on_notice_from: 
+  on_notice_to: 
+  authority_label: kiama
+- council_reference: 010.2019.00000077.001
+  address: 21 Cliff DR, KIAMA DOWNS, NSW 2533
+  description: demolition of existing fence, construction of swimming pool, front
+    gate and retaining wall
+  info_url: https://da.kiama.nsw.gov.au/Application/ApplicationDetails/010.2019.00000077.001/
+  comment_url: ''
+  date_scraped: '2019-05-14'
+  date_received: '2019-05-07'
+  on_notice_from: 
+  on_notice_to: 
+  authority_label: kiama
+- council_reference: 010.2019.00000078.001
+  address: 21 Boyd ST, MINNAMURRA, NSW 2533
+  description: dwelling & air conditioning unit
+  info_url: https://da.kiama.nsw.gov.au/Application/ApplicationDetails/010.2019.00000078.001/
+  comment_url: ''
+  date_scraped: '2019-05-14'
+  date_received: '2019-05-07'
+  on_notice_from: 
+  on_notice_to: 
+  authority_label: kiama
+- council_reference: 010.2019.00000079.001
+  address: 30 McClelland RD, FOXGROUND, NSW 2534
+  description: equine boarding and training establishment, demolition and removal
+    of an existing farm building
+  info_url: https://da.kiama.nsw.gov.au/Application/ApplicationDetails/010.2019.00000079.001/
+  comment_url: ''
+  date_scraped: '2019-05-14'
+  date_received: '2019-05-07'
+  on_notice_from: 
+  on_notice_to: 
+  authority_label: kiama
+- council_reference: 010.2019.00000080.001
+  address: 133 Headland DR, GERROA, NSW 2534
+  description: detached storage shed
+  info_url: https://da.kiama.nsw.gov.au/Application/ApplicationDetails/010.2019.00000080.001/
+  comment_url: ''
+  date_scraped: '2019-05-14'
+  date_received: '2019-05-07'
+  on_notice_from: '2019-05-23'
+  on_notice_to: '2019-06-06'
+  authority_label: kiama
+- council_reference: 010.2019.00000081.001
+  address: 14 Bland ST, KIAMA, NSW 2533
+  description: demolition of existing dwelling, construction of multi dwelling consisting
+    of four (4) attached dwellings and community title subdivision
+  info_url: https://da.kiama.nsw.gov.au/Application/ApplicationDetails/010.2019.00000081.001/
+  comment_url: ''
+  date_scraped: '2019-05-14'
+  date_received: '2019-05-08'
+  on_notice_from: '2019-05-22'
+  on_notice_to: '2019-06-05'
+  authority_label: kiama
+- council_reference: 010.2019.00000082.001
+  address: 273 Willowvale RD, WILLOW VALE, NSW 2534
+  description: dwelling alterations and additions
+  info_url: https://da.kiama.nsw.gov.au/Application/ApplicationDetails/010.2019.00000082.001/
+  comment_url: ''
+  date_scraped: '2019-05-14'
+  date_received: '2019-05-10'
+  on_notice_from: 
+  on_notice_to: 
+  authority_label: kiama
+- council_reference: 010.2019.00000083.001
+  address: 16 River ST, MINNAMURRA, NSW 2533
+  description: alterations and additions to existing dwelling
+  info_url: https://da.kiama.nsw.gov.au/Application/ApplicationDetails/010.2019.00000083.001/
+  comment_url: ''
+  date_scraped: '2019-05-14'
+  date_received: '2019-05-14'
+  on_notice_from: '2019-05-23'
+  on_notice_to: '2019-06-06'
+  authority_label: kiama
+- council_reference: 010.2019.00000118.001
+  address: 12 Croft CL, THE LAGOON, NSW 2795
+  description: two storey dwelling with attached garage
+  info_url: http://masterview.bathurst.nsw.gov.au/Application/ApplicationDetails/010.2019.00000118.001/
+  comment_url: ''
+  date_scraped: '2019-05-14'
+  date_received: '2019-04-16'
+  on_notice_from: 
+  on_notice_to: 
+  authority_label: bathurst
+- council_reference: 010.2019.00000119.001
+  address: 3 Pat O'Leary DR, KELSO, NSW 2795
+  description: Business identification sign (one internally illuminated wall sign)
+  info_url: http://masterview.bathurst.nsw.gov.au/Application/ApplicationDetails/010.2019.00000119.001/
+  comment_url: ''
+  date_scraped: '2019-05-14'
+  date_received: '2019-04-16'
+  on_notice_from: 
+  on_notice_to: 
+  authority_label: bathurst
+- council_reference: 010.2019.00000120.001
+  address: 103 Samuel WAY, THE LAGOON, NSW 2795
+  description: cut and fill
+  info_url: http://masterview.bathurst.nsw.gov.au/Application/ApplicationDetails/010.2019.00000120.001/
+  comment_url: ''
+  date_scraped: '2019-05-14'
+  date_received: '2019-04-17'
+  on_notice_from: 
+  on_notice_to: 
+  authority_label: bathurst
+- council_reference: 010.2019.00000121.001
+  address: 5 Croft CL, THE LAGOON, NSW 2795
+  description: single storey dwelling
+  info_url: http://masterview.bathurst.nsw.gov.au/Application/ApplicationDetails/010.2019.00000121.001/
+  comment_url: ''
+  date_scraped: '2019-05-14'
+  date_received: '2019-04-18'
+  on_notice_from: 
+  on_notice_to: 
+  authority_label: bathurst
+- council_reference: 010.2019.00000122.001
+  address: 250 Stewart ST, BATHURST, NSW 2795
+  description: Commercial LED illuminated sign
+  info_url: http://masterview.bathurst.nsw.gov.au/Application/ApplicationDetails/010.2019.00000122.001/
+  comment_url: ''
+  date_scraped: '2019-05-14'
+  date_received: '2019-04-18'
+  on_notice_from: 
+  on_notice_to: 
+  authority_label: bathurst
+- council_reference: 010.2019.00000123.001
+  address: 16 Albert ST, BATHURST, NSW 2795
+  description: Dual Occupancy (second dwelling) & two lot residential subdivision
+  info_url: http://masterview.bathurst.nsw.gov.au/Application/ApplicationDetails/010.2019.00000123.001/
+  comment_url: ''
+  date_scraped: '2019-05-14'
+  date_received: '2019-04-23'
+  on_notice_from: 
+  on_notice_to: 
+  authority_label: bathurst
+- council_reference: 010.2019.00000124.001
+  address: 292 William ST, BATHURST, NSW 2795
+  description: "1. Demolition of existing carport \n2. Double garage with first floor
+    secondary dwelling"
+  info_url: http://masterview.bathurst.nsw.gov.au/Application/ApplicationDetails/010.2019.00000124.001/
+  comment_url: ''
+  date_scraped: '2019-05-14'
+  date_received: '2019-04-23'
+  on_notice_from: 
+  on_notice_to: 
+  authority_label: bathurst
+- council_reference: 010.2019.00000125.001
+  address: 253 George ST, BATHURST, NSW 2795
+  description: Change of use - Hair salon and 3 associated signs
+  info_url: http://masterview.bathurst.nsw.gov.au/Application/ApplicationDetails/010.2019.00000125.001/
+  comment_url: ''
+  date_scraped: '2019-05-14'
+  date_received: '2019-04-24'
+  on_notice_from: 
+  on_notice_to: 
+  authority_label: bathurst
+- council_reference: 010.2019.00000126.001
+  address: 27 Bowen ST, SOFALA, NSW 2795
+  description: Shed
+  info_url: http://masterview.bathurst.nsw.gov.au/Application/ApplicationDetails/010.2019.00000126.001/
+  comment_url: ''
+  date_scraped: '2019-05-14'
+  date_received: '2019-04-24'
+  on_notice_from: 
+  on_notice_to: 
+  authority_label: bathurst
+- council_reference: 010.2019.00000127.001
+  address: 260 Boundary RD, ROBIN HILL, NSW 2795
+  description: Single storey dwelling with attached garage, detached shed and swimming
+    pool
+  info_url: http://masterview.bathurst.nsw.gov.au/Application/ApplicationDetails/010.2019.00000127.001/
+  comment_url: ''
+  date_scraped: '2019-05-14'
+  date_received: '2019-04-24'
+  on_notice_from: 
+  on_notice_to: 
+  authority_label: bathurst
+- council_reference: 010.2019.00000128.001
+  address: 1944 Mitchell HWY, THE ROCKS, NSW 2795
+  description: Two lot rural subdivision ( boundary adjustment)
+  info_url: http://masterview.bathurst.nsw.gov.au/Application/ApplicationDetails/010.2019.00000128.001/
+  comment_url: ''
+  date_scraped: '2019-05-14'
+  date_received: '2019-04-26'
+  on_notice_from: 
+  on_notice_to: 
+  authority_label: bathurst
+- council_reference: 010.2019.00000129.001
+  address: 8 Connolly DR, KELSO, NSW 2795
+  description: Dual occupancy and two lot residential subdivision
+  info_url: http://masterview.bathurst.nsw.gov.au/Application/ApplicationDetails/010.2019.00000129.001/
+  comment_url: ''
+  date_scraped: '2019-05-14'
+  date_received: '2019-04-26'
+  on_notice_from: 
+  on_notice_to: 
+  authority_label: bathurst
+- council_reference: 010.2019.00000130.001
+  address: 3 Leo Grant DR, KELSO, NSW 2795
+  description: Construction of a shed
+  info_url: http://masterview.bathurst.nsw.gov.au/Application/ApplicationDetails/010.2019.00000130.001/
+  comment_url: ''
+  date_scraped: '2019-05-14'
+  date_received: '2019-04-29'
+  on_notice_from: 
+  on_notice_to: 
+  authority_label: bathurst
+- council_reference: 010.2019.00000131.001
+  address: 1 Cutler ST, WEST BATHURST, NSW 2795
+  description: Granny flat
+  info_url: http://masterview.bathurst.nsw.gov.au/Application/ApplicationDetails/010.2019.00000131.001/
+  comment_url: ''
+  date_scraped: '2019-05-14'
+  date_received: '2019-04-30'
+  on_notice_from: 
+  on_notice_to: 
+  authority_label: bathurst
+- council_reference: 010.2019.00000132.001
+  address: 7 Keppel ST, BATHURST, NSW 2795
+  description: Establishment of use (shops 1 & 2)
+  info_url: http://masterview.bathurst.nsw.gov.au/Application/ApplicationDetails/010.2019.00000132.001/
+  comment_url: ''
+  date_scraped: '2019-05-14'
+  date_received: '2019-04-30'
+  on_notice_from: 
+  on_notice_to: 
+  authority_label: bathurst
+- council_reference: 010.2019.00000133.001
+  address: 19 Durham ST, BATHURST, NSW 2795
+  description: Demoltion of two residences and associated structures and construction
+    of 38 residential units
+  info_url: http://masterview.bathurst.nsw.gov.au/Application/ApplicationDetails/010.2019.00000133.001/
+  comment_url: ''
+  date_scraped: '2019-05-14'
+  date_received: '2019-04-30'
+  on_notice_from: 
+  on_notice_to: 
+  authority_label: bathurst
+- council_reference: 010.2019.00000134.001
+  address: 4 Cox LA, EGLINTON, NSW 2795
+  description: Shed addition
+  info_url: http://masterview.bathurst.nsw.gov.au/Application/ApplicationDetails/010.2019.00000134.001/
+  comment_url: ''
+  date_scraped: '2019-05-14'
+  date_received: '2019-05-01'
+  on_notice_from: 
+  on_notice_to: 
+  authority_label: bathurst
+- council_reference: 010.2019.00000134.002
+  address: 9 Mosman CH, LENNOX HEAD, NSW 2478
+  description: New Dwelling - Single Residence To amend development consent 2019/134
+    by modifying the study nook to include an additional window as depicted in the
+    plans by Coral Homes Project No. J28852 amendment dated 1 May 2019
+  info_url: http://da.ballina.nsw.gov.au/Application/ApplicationDetails/010.2019.00000134.002/
+  comment_url: ''
+  date_scraped: '2019-05-14'
+  date_received: '2019-05-13'
+  on_notice_from: 
+  on_notice_to: 
+  authority_label: ballina
+- council_reference: 010.2019.00000135.001
+  address: 251 Piper ST, BATHURST, NSW 2795
+  description: |-
+    1.  Demolition of existing garage and later rear additions to dwelling
+    2.  Additions and alterations to dwelling including attached garage
+    3.  Tree removal
+  info_url: http://masterview.bathurst.nsw.gov.au/Application/ApplicationDetails/010.2019.00000135.001/
+  comment_url: ''
+  date_scraped: '2019-05-14'
+  date_received: '2019-05-02'
+  on_notice_from: 
+  on_notice_to: 
+  authority_label: bathurst
+- council_reference: 010.2019.00000136.001
+  address: 26 Stanley ST, BATHURST, NSW 2795
+  description: Demolition, dual occupancy (second dwelling) and two lot residential
+    subdivision
+  info_url: http://masterview.bathurst.nsw.gov.au/Application/ApplicationDetails/010.2019.00000136.001/
+  comment_url: ''
+  date_scraped: '2019-05-14'
+  date_received: '2019-05-03'
+  on_notice_from: 
+  on_notice_to: 
+  authority_label: bathurst
+- council_reference: 010.2019.00000137.001
+  address: 4B Delaware CR, ROBIN HILL, NSW 2795
+  description: Construction of a shed
+  info_url: http://masterview.bathurst.nsw.gov.au/Application/ApplicationDetails/010.2019.00000137.001/
+  comment_url: ''
+  date_scraped: '2019-05-14'
+  date_received: '2019-05-03'
+  on_notice_from: 
+  on_notice_to: 
+  authority_label: bathurst
+- council_reference: 010.2019.00000138.001
+  address: 82 Graham DR, KELSO, NSW 2795
+  description: Dual Occupancy and two lot residential subdivision
+  info_url: http://masterview.bathurst.nsw.gov.au/Application/ApplicationDetails/010.2019.00000138.001/
+  comment_url: ''
+  date_scraped: '2019-05-14'
+  date_received: '2019-05-07'
+  on_notice_from: 
+  on_notice_to: 
+  authority_label: bathurst
+- council_reference: 010.2019.00000139.001
+  address: 35 Cobargo Bermagui RD, COBARGO, NSW 2550
+  description: Alterations and additions to existing dwelling
+  info_url: http://datracker.begavalley.nsw.gov.au/Application/ApplicationDetails/010.2019.00000139.001/
+  comment_url: ''
+  date_scraped: '2019-05-14'
+  date_received: '2019-04-15'
+  on_notice_from: 
+  on_notice_to: 
+  authority_label: bega_valley
+- council_reference: 010.2019.00000139.001
+  address: 141 Keppel ST, BATHURST, NSW 2795
+  description: |-
+    Stage 1 - Five lot torens title subdivision (four residential lots and one development lot)
+    Stage 2 - Seven lot strata title subdivision
+  info_url: http://masterview.bathurst.nsw.gov.au/Application/ApplicationDetails/010.2019.00000139.001/
+  comment_url: ''
+  date_scraped: '2019-05-14'
+  date_received: '2019-05-07'
+  on_notice_from: 
+  on_notice_to: 
+  authority_label: bathurst
+- council_reference: 010.2019.00000140.001
+  address: 91 Devils Hole RD, WYNDHAM, NSW 2550
+  description: Alterations & additions to existing dwelling
+  info_url: http://datracker.begavalley.nsw.gov.au/Application/ApplicationDetails/010.2019.00000140.001/
+  comment_url: ''
+  date_scraped: '2019-05-14'
+  date_received: '2019-04-15'
+  on_notice_from: 
+  on_notice_to: 
+  authority_label: bega_valley
+- council_reference: 010.2019.00000140.001
+  address: Limekilns RD, KELSO, NSW 2795
+  description: 17 Lot residential subdivision and new roads
+  info_url: http://masterview.bathurst.nsw.gov.au/Application/ApplicationDetails/010.2019.00000140.001/
+  comment_url: ''
+  date_scraped: '2019-05-14'
+  date_received: '2019-05-08'
+  on_notice_from: 
+  on_notice_to: 
+  authority_label: bathurst
+- council_reference: 010.2019.00000141.001
+  address: 3 Corkhill PL, BEGA, NSW 2550
+  description: Alterations & additions to Old Bega Hospital as Community Facility
+  info_url: http://datracker.begavalley.nsw.gov.au/Application/ApplicationDetails/010.2019.00000141.001/
+  comment_url: ''
+  date_scraped: '2019-05-14'
+  date_received: '2019-04-15'
+  on_notice_from: 
+  on_notice_to: 
+  authority_label: bega_valley
+- council_reference: 010.2019.00000141.001
+  address: 58 Mendel DR, KELSO, NSW 2795
+  description: Dual occupancy and two lot residential subdivision
+  info_url: http://masterview.bathurst.nsw.gov.au/Application/ApplicationDetails/010.2019.00000141.001/
+  comment_url: ''
+  date_scraped: '2019-05-14'
+  date_received: '2019-05-09'
+  on_notice_from: 
+  on_notice_to: 
+  authority_label: bathurst
+- council_reference: 010.2019.00000142.001
+  address: 29-31 Mogareeka AVE, MOGAREEKA, NSW 2550
+  description: Alts & adds to existing dwelling - Erection of Deck and Awning
+  info_url: http://datracker.begavalley.nsw.gov.au/Application/ApplicationDetails/010.2019.00000142.001/
+  comment_url: ''
+  date_scraped: '2019-05-14'
+  date_received: '2019-04-15'
+  on_notice_from: 
+  on_notice_to: 
+  authority_label: bega_valley
+- council_reference: 010.2019.00000142.001
+  address: 1 Darvall DR, KELSO, NSW 2795
+  description: dual occupancy and two lot residential subdivision
+  info_url: http://masterview.bathurst.nsw.gov.au/Application/ApplicationDetails/010.2019.00000142.001/
+  comment_url: ''
+  date_scraped: '2019-05-14'
+  date_received: '2019-05-09'
+  on_notice_from: 
+  on_notice_to: 
+  authority_label: bathurst
+- council_reference: 010.2019.00000143.001
+  address: 21 Sharpe ST, CANDELO, NSW 2550
+  description: Change of use to secondary dwelling
+  info_url: http://datracker.begavalley.nsw.gov.au/Application/ApplicationDetails/010.2019.00000143.001/
+  comment_url: ''
+  date_scraped: '2019-05-14'
+  date_received: '2019-04-16'
+  on_notice_from: 
+  on_notice_to: 
+  authority_label: bega_valley
+- council_reference: 010.2019.00000143.001
+  address: 65 Corporation AVE, ROBIN HILL, NSW 2795
+  description: Change of use of premises (unit 8) for vehicle body repair shop
+  info_url: http://masterview.bathurst.nsw.gov.au/Application/ApplicationDetails/010.2019.00000143.001/
+  comment_url: ''
+  date_scraped: '2019-05-14'
+  date_received: '2019-05-10'
+  on_notice_from: 
+  on_notice_to: 
+  authority_label: bathurst
+- council_reference: 010.2019.00000144.001
+  address: 31-33 Victoria TCE, EDEN, NSW 2551
+  description: Alterations & additions to existing two storey dwelling
+  info_url: http://datracker.begavalley.nsw.gov.au/Application/ApplicationDetails/010.2019.00000144.001/
+  comment_url: ''
+  date_scraped: '2019-05-14'
+  date_received: '2019-04-16'
+  on_notice_from: 
+  on_notice_to: 
+  authority_label: bega_valley
+- council_reference: 010.2019.00000144.001
+  address: 30 Newlands CR, KELSO, NSW 2795
+  description: Single storey dwelling with attached garage
+  info_url: http://masterview.bathurst.nsw.gov.au/Application/ApplicationDetails/010.2019.00000144.001/
+  comment_url: ''
+  date_scraped: '2019-05-14'
+  date_received: '2019-05-13'
+  on_notice_from: 
+  on_notice_to: 
+  authority_label: bathurst
+- council_reference: 010.2019.00000145.001
+  address: 21A Hill ST, MERIMBULA, NSW 2548
+  description: Extension of deck to exisiting dwelling
+  info_url: http://datracker.begavalley.nsw.gov.au/Application/ApplicationDetails/010.2019.00000145.001/
+  comment_url: ''
+  date_scraped: '2019-05-14'
+  date_received: '2019-04-16'
+  on_notice_from: 
+  on_notice_to: 
+  authority_label: bega_valley
+- council_reference: 010.2019.00000146.001
+  address: 48 Springvale CL, BUCKAJO, NSW 2550
+  description: Erection of single storey dwelling
+  info_url: http://datracker.begavalley.nsw.gov.au/Application/ApplicationDetails/010.2019.00000146.001/
+  comment_url: ''
+  date_scraped: '2019-05-14'
+  date_received: '2019-04-16'
+  on_notice_from: 
+  on_notice_to: 
+  authority_label: bega_valley
+- council_reference: 010.2019.00000146.001
+  address: Havannah ST, BATHURST, NSW 2795
+  description: 10 Lot industrial subdivision
+  info_url: http://masterview.bathurst.nsw.gov.au/Application/ApplicationDetails/010.2019.00000146.001/
+  comment_url: ''
+  date_scraped: '2019-05-14'
+  date_received: '2019-05-14'
+  on_notice_from: '2019-06-03'
+  on_notice_to: '2019-07-03'
+  authority_label: bathurst
+- council_reference: 010.2019.00000147.001
+  address: 170 Vimy Ridge RD, CHINNOCK, NSW 2550
+  description: Erection of a studio
+  info_url: http://datracker.begavalley.nsw.gov.au/Application/ApplicationDetails/010.2019.00000147.001/
+  comment_url: ''
+  date_scraped: '2019-05-14'
+  date_received: '2019-04-17'
+  on_notice_from: 
+  on_notice_to: 
+  authority_label: bega_valley
+- council_reference: 010.2019.00000148.001
+  address: 133 Hore Laceys RD, BROGO, NSW 2550
+  description: Installation of a transportable dwelling
+  info_url: http://datracker.begavalley.nsw.gov.au/Application/ApplicationDetails/010.2019.00000148.001/
+  comment_url: ''
+  date_scraped: '2019-05-14'
+  date_received: '2019-04-17'
+  on_notice_from: 
+  on_notice_to: 
+  authority_label: bega_valley
+- council_reference: 010.2019.00000149.001
+  address: 79 Carp ST, BEGA, NSW 2550
+  description: Change of Use - beauty therapy and shop fit out
+  info_url: http://datracker.begavalley.nsw.gov.au/Application/ApplicationDetails/010.2019.00000149.001/
+  comment_url: ''
+  date_scraped: '2019-05-14'
+  date_received: '2019-04-18'
+  on_notice_from: 
+  on_notice_to: 
+  authority_label: bega_valley
+- council_reference: 010.2019.00000150.001
+  address: 40 Lynjohn DR, BEGA, NSW 2550
+  description: 2 Lot Subdivision
+  info_url: http://datracker.begavalley.nsw.gov.au/Application/ApplicationDetails/010.2019.00000150.001/
+  comment_url: ''
+  date_scraped: '2019-05-14'
+  date_received: '2019-04-24'
+  on_notice_from: 
+  on_notice_to: 
+  authority_label: bega_valley
+- council_reference: 010.2019.00000151.001
+  address: 92 Lakewood DR, MERIMBULA, NSW 2548
+  description: Erection of a two storey dwelling with attached garage
+  info_url: http://datracker.begavalley.nsw.gov.au/Application/ApplicationDetails/010.2019.00000151.001/
+  comment_url: ''
+  date_scraped: '2019-05-14'
+  date_received: '2019-04-30'
+  on_notice_from: 
+  on_notice_to: 
+  authority_label: bega_valley
+- council_reference: 010.2019.00000152.001
+  address: 68-76 Main ST, MERIMBULA, NSW 2548
+  description: Alterations to existing commercial building
+  info_url: http://datracker.begavalley.nsw.gov.au/Application/ApplicationDetails/010.2019.00000152.001/
+  comment_url: ''
+  date_scraped: '2019-05-14'
+  date_received: '2019-04-30'
+  on_notice_from: 
+  on_notice_to: 
+  authority_label: bega_valley
+- council_reference: 010.2019.00000153.001
+  address: 17 Bournda CCT, TURA BEACH, NSW 2548
+  description: Erection of a two storey dwelling with attached garage
+  info_url: http://datracker.begavalley.nsw.gov.au/Application/ApplicationDetails/010.2019.00000153.001/
+  comment_url: ''
+  date_scraped: '2019-05-14'
+  date_received: '2019-04-30'
+  on_notice_from: 
+  on_notice_to: 
+  authority_label: bega_valley
+- council_reference: 010.2019.00000154.001
+  address: 7 Tristania CT, TURA BEACH, NSW 2548
+  description: Covered Deck addition
+  info_url: http://datracker.begavalley.nsw.gov.au/Application/ApplicationDetails/010.2019.00000154.001/
+  comment_url: ''
+  date_scraped: '2019-05-14'
+  date_received: '2019-05-01'
+  on_notice_from: 
+  on_notice_to: 
+  authority_label: bega_valley
+- council_reference: 010.2019.00000155.001
+  address: 51-53 Auckland ST, BEGA, NSW 2550
+  description: Specialised retail premises (Plant Hire)
+  info_url: http://datracker.begavalley.nsw.gov.au/Application/ApplicationDetails/010.2019.00000155.001/
+  comment_url: ''
+  date_scraped: '2019-05-14'
+  date_received: '2019-05-01'
+  on_notice_from: 
+  on_notice_to: 
+  authority_label: bega_valley
+- council_reference: 010.2019.00000156.001
+  address: Valencia PL, BALD HILLS, NSW 2549
+  description: Erection of a new dwelling with attached garage
+  info_url: http://datracker.begavalley.nsw.gov.au/Application/ApplicationDetails/010.2019.00000156.001/
+  comment_url: ''
+  date_scraped: '2019-05-14'
+  date_received: '2019-05-01'
+  on_notice_from: 
+  on_notice_to: 
+  authority_label: bega_valley
+- council_reference: 010.2019.00000157.001
+  address: 10-14 Merimbola ST, PAMBULA, NSW 2549
+  description: Convert dual occ to residence, regularise unauthorised works
+  info_url: http://datracker.begavalley.nsw.gov.au/Application/ApplicationDetails/010.2019.00000157.001/
+  comment_url: ''
+  date_scraped: '2019-05-14'
+  date_received: '2019-05-01'
+  on_notice_from: 
+  on_notice_to: 
+  authority_label: bega_valley
+- council_reference: 010.2019.00000158.001
+  address: 1551 Nungatta RD, NUNGATTA, NSW 2551
+  description: Erection of a Farm Shed
+  info_url: http://datracker.begavalley.nsw.gov.au/Application/ApplicationDetails/010.2019.00000158.001/
+  comment_url: ''
+  date_scraped: '2019-05-14'
+  date_received: '2019-05-02'
+  on_notice_from: 
+  on_notice_to: 
+  authority_label: bega_valley
+- council_reference: 010.2019.00000159.001
+  address: 185 Pericoe RD, TOWAMBA, NSW 2550
+  description: Detached dual occupancy
+  info_url: http://datracker.begavalley.nsw.gov.au/Application/ApplicationDetails/010.2019.00000159.001/
+  comment_url: ''
+  date_scraped: '2019-05-14'
+  date_received: '2019-05-03'
+  on_notice_from: 
+  on_notice_to: 
+  authority_label: bega_valley
+- council_reference: 010.2019.00000160.001
+  address: 279 Verona RD, VERONA, NSW 2550
+  description: Erection of a single storey dwelling
+  info_url: http://datracker.begavalley.nsw.gov.au/Application/ApplicationDetails/010.2019.00000160.001/
+  comment_url: ''
+  date_scraped: '2019-05-14'
+  date_received: '2019-05-03'
+  on_notice_from: 
+  on_notice_to: 
+  authority_label: bega_valley
+- council_reference: 010.2019.00000161.001
+  address: 7 Kanangra ST, PAMBULA BEACH, NSW 2549
+  description: Erection of a Deck
+  info_url: http://datracker.begavalley.nsw.gov.au/Application/ApplicationDetails/010.2019.00000161.001/
+  comment_url: ''
+  date_scraped: '2019-05-14'
+  date_received: '2019-05-03'
+  on_notice_from: 
+  on_notice_to: 
+  authority_label: bega_valley
+- council_reference: 010.2019.00000162.001
+  address: 1/54 Pacific WY, TURA BEACH, NSW 2548
+  description: Alterations & additions to dwelling, erect deck & awning
+  info_url: http://datracker.begavalley.nsw.gov.au/Application/ApplicationDetails/010.2019.00000162.001/
+  comment_url: ''
+  date_scraped: '2019-05-14'
+  date_received: '2019-05-06'
+  on_notice_from: 
+  on_notice_to: 
+  authority_label: bega_valley
+- council_reference: 010.2019.00000163.001
+  address: 2/54 Pacific WY, TURA BEACH, NSW 2548
+  description: Alterations & additions to dwelling, deck addition & awning
+  info_url: http://datracker.begavalley.nsw.gov.au/Application/ApplicationDetails/010.2019.00000163.001/
+  comment_url: ''
+  date_scraped: '2019-05-14'
+  date_received: '2019-05-06'
+  on_notice_from: 
+  on_notice_to: 
+  authority_label: bega_valley
+- council_reference: 010.2019.00000163.001
+  address: 12 Durum CRCT, DUBBO, NSW 2830
+  description: Erection of detached garage
+  info_url: https://planning.dubbo.nsw.gov.au/Application/ApplicationDetails/010.2019.00000163.001/
+  comment_url: ''
+  date_scraped: '2019-05-14'
+  date_received: '2019-04-15'
+  on_notice_from: 
+  on_notice_to: 
+  authority_label: dubbo
+- council_reference: 010.2019.00000164.001
+  address: 119 Lochview Farm RD, LOCHIEL, NSW 2549
+  description: Installation of above ground swimming pool
+  info_url: http://datracker.begavalley.nsw.gov.au/Application/ApplicationDetails/010.2019.00000164.001/
+  comment_url: ''
+  date_scraped: '2019-05-14'
+  date_received: '2019-05-07'
+  on_notice_from: 
+  on_notice_to: 
+  authority_label: bega_valley
+- council_reference: 010.2019.00000164.001
+  address: 46 Lincoln PKY, DUBBO, NSW 2830
+  description: Erection of patio cover
+  info_url: https://planning.dubbo.nsw.gov.au/Application/ApplicationDetails/010.2019.00000164.001/
+  comment_url: ''
+  date_scraped: '2019-05-14'
+  date_received: '2019-04-15'
+  on_notice_from: 
+  on_notice_to: 
+  authority_label: dubbo
+- council_reference: 010.2019.00000165.001
+  address: Upper Brogo RD, BROGO, NSW 2550
+  description: Boundary adjustment
+  info_url: http://datracker.begavalley.nsw.gov.au/Application/ApplicationDetails/010.2019.00000165.001/
+  comment_url: ''
+  date_scraped: '2019-05-14'
+  date_received: '2019-05-08'
+  on_notice_from: 
+  on_notice_to: 
+  authority_label: bega_valley
+- council_reference: 010.2019.00000165.001
+  address: 1155 Uungula RD, WUULUMAN, NSW 2820
+  description: Meteorological mast
+  info_url: https://planning.dubbo.nsw.gov.au/Application/ApplicationDetails/010.2019.00000165.001/
+  comment_url: ''
+  date_scraped: '2019-05-14'
+  date_received: '2019-04-15'
+  on_notice_from: 
+  on_notice_to: 
+  authority_label: dubbo
+- council_reference: 010.2019.00000166.001
+  address: 69 Monaro ST, MERIMBULA, NSW 2548
+  description: Alterations & additions to existing dwelling
+  info_url: http://datracker.begavalley.nsw.gov.au/Application/ApplicationDetails/010.2019.00000166.001/
+  comment_url: ''
+  date_scraped: '2019-05-14'
+  date_received: '2019-05-08'
+  on_notice_from: 
+  on_notice_to: 
+  authority_label: bega_valley
+- council_reference: 010.2019.00000166.001
+  address: 145 Yarragal RD, WUULUMAN, NSW 2820
+  description: Meteorological mast
+  info_url: https://planning.dubbo.nsw.gov.au/Application/ApplicationDetails/010.2019.00000166.001/
+  comment_url: ''
+  date_scraped: '2019-05-14'
+  date_received: '2019-04-15'
+  on_notice_from: 
+  on_notice_to: 
+  authority_label: dubbo
+- council_reference: 010.2019.00000167.001
+  address: 1972 Mount Darragh RD, WYNDHAM, NSW 2550
+  description: Installation of a transportable home & erection of detached garage
+  info_url: http://datracker.begavalley.nsw.gov.au/Application/ApplicationDetails/010.2019.00000167.001/
+  comment_url: ''
+  date_scraped: '2019-05-14'
+  date_received: '2019-05-08'
+  on_notice_from: 
+  on_notice_to: 
+  authority_label: bega_valley
+- council_reference: 010.2019.00000167.001
+  address: 11 Snowy CR, DUBBO, NSW 2830
+  description: Erection of freestanding shed with attached awning
+  info_url: https://planning.dubbo.nsw.gov.au/Application/ApplicationDetails/010.2019.00000167.001/
+  comment_url: ''
+  date_scraped: '2019-05-14'
+  date_received: '2019-04-15'
+  on_notice_from: 
+  on_notice_to: 
+  authority_label: dubbo
+- council_reference: 010.2019.00000168.001
+  address: 8 Golf RD, BERMAGUI, NSW 2546
+  description: Erection of detached shed & roof over existing deck
+  info_url: http://datracker.begavalley.nsw.gov.au/Application/ApplicationDetails/010.2019.00000168.001/
+  comment_url: ''
+  date_scraped: '2019-05-14'
+  date_received: '2019-05-08'
+  on_notice_from: 
+  on_notice_to: 
+  authority_label: bega_valley
+- council_reference: 010.2019.00000168.001
+  address: 59 Lincoln PKY, DUBBO, NSW 2830
+  description: Erection of dwelling with attached garage, patio and alfresco
+  info_url: https://planning.dubbo.nsw.gov.au/Application/ApplicationDetails/010.2019.00000168.001/
+  comment_url: ''
+  date_scraped: '2019-05-14'
+  date_received: '2019-04-16'
+  on_notice_from: 
+  on_notice_to: 
+  authority_label: dubbo
+- council_reference: 010.2019.00000169.001
+  address: 47 Mount Pleasant RD, COOPERS GULLY, NSW 2550
+  description: Carport & retaining wall
+  info_url: http://datracker.begavalley.nsw.gov.au/Application/ApplicationDetails/010.2019.00000169.001/
+  comment_url: ''
+  date_scraped: '2019-05-14'
+  date_received: '2019-05-09'
+  on_notice_from: 
+  on_notice_to: 
+  authority_label: bega_valley
+- council_reference: 010.2019.00000169.001
+  address: 4 Spring CT, DUBBO, NSW 2830
+  description: Erection of freestanding garage
+  info_url: https://planning.dubbo.nsw.gov.au/Application/ApplicationDetails/010.2019.00000169.001/
+  comment_url: ''
+  date_scraped: '2019-05-14'
+  date_received: '2019-04-18'
+  on_notice_from: 
+  on_notice_to: 
+  authority_label: dubbo
+- council_reference: 010.2019.00000170.001
+  address: 7 Carolynne ST, MERIMBULA, NSW 2548
+  description: Alterations & additions to dwelling & deck addition
+  info_url: http://datracker.begavalley.nsw.gov.au/Application/ApplicationDetails/010.2019.00000170.001/
+  comment_url: ''
+  date_scraped: '2019-05-14'
+  date_received: '2019-05-09'
+  on_notice_from: 
+  on_notice_to: 
+  authority_label: bega_valley
+- council_reference: 010.2019.00000170.001
+  address: 15 Mangrove CRES, DUBBO, NSW 2830
+  description: Erection of dwelling with attached garage, porch and patio
+  info_url: https://planning.dubbo.nsw.gov.au/Application/ApplicationDetails/010.2019.00000170.001/
+  comment_url: ''
+  date_scraped: '2019-05-14'
+  date_received: '2019-04-18'
+  on_notice_from: 
+  on_notice_to: 
+  authority_label: dubbo
+- council_reference: 010.2019.00000171.001
+  address: 3 Oakleaf PL, MILLINGANDI, NSW 2549
+  description: Two storey dwelling, detached shed & pool
+  info_url: http://datracker.begavalley.nsw.gov.au/Application/ApplicationDetails/010.2019.00000171.001/
+  comment_url: ''
+  date_scraped: '2019-05-14'
+  date_received: '2019-05-10'
+  on_notice_from: '2019-05-29'
+  on_notice_to: '2019-06-12'
+  authority_label: bega_valley
+- council_reference: 010.2019.00000171.001
+  address: 100-102 Arthur ST, WELLINGTON, NSW 2820
+  description: Business identification signage
+  info_url: https://planning.dubbo.nsw.gov.au/Application/ApplicationDetails/010.2019.00000171.001/
+  comment_url: ''
+  date_scraped: '2019-05-14'
+  date_received: '2019-04-18'
+  on_notice_from: 
+  on_notice_to: 
+  authority_label: dubbo
+- council_reference: 010.2019.00000172.001
+  address: 9 Ocean View TCE, TATHRA, NSW 2550
+  description: Alts & Adds to existing dwelling and rebuild of fire damaged deck
+  info_url: http://datracker.begavalley.nsw.gov.au/Application/ApplicationDetails/010.2019.00000172.001/
+  comment_url: ''
+  date_scraped: '2019-05-14'
+  date_received: '2019-05-10'
+  on_notice_from: '2019-05-22'
+  on_notice_to: '2019-06-05'
+  authority_label: bega_valley
+- council_reference: 010.2019.00000172.001
+  address: 5 Naman ST, DUBBO, NSW 2830
+  description: Home business (catering)
+  info_url: https://planning.dubbo.nsw.gov.au/Application/ApplicationDetails/010.2019.00000172.001/
+  comment_url: ''
+  date_scraped: '2019-05-14'
+  date_received: '2019-04-26'
+  on_notice_from: 
+  on_notice_to: 
+  authority_label: dubbo
+- council_reference: 010.2019.00000173.001
+  address: 4 Mangrove CRES, DUBBO, NSW 2830
+  description: Erection of dwelling with attached garage, carport and porch
+  info_url: https://planning.dubbo.nsw.gov.au/Application/ApplicationDetails/010.2019.00000173.001/
+  comment_url: ''
+  date_scraped: '2019-05-14'
+  date_received: '2019-04-26'
+  on_notice_from: 
+  on_notice_to: 
+  authority_label: dubbo
+- council_reference: 010.2019.00000174.001
+  address: 29 Market ST, MERIMBULA, NSW 2548
+  description: Establishment of Tourism & Educational Facility
+  info_url: http://datracker.begavalley.nsw.gov.au/Application/ApplicationDetails/010.2019.00000174.001/
+  comment_url: ''
+  date_scraped: '2019-05-14'
+  date_received: '2019-05-14'
+  on_notice_from: 
+  on_notice_to: 
+  authority_label: bega_valley
+- council_reference: 010.2019.00000175.001
+  address: 59 Nadgee RD, WONBOYN, NSW 2551
+  description: Alterations & additons to existing dwelling & remove existing garage
+  info_url: http://datracker.begavalley.nsw.gov.au/Application/ApplicationDetails/010.2019.00000175.001/
+  comment_url: ''
+  date_scraped: '2019-05-14'
+  date_received: '2019-05-14'
+  on_notice_from: 
+  on_notice_to: 
+  authority_label: bega_valley
+- council_reference: 010.2019.00000175.001
+  address: 4535 Burrendong WY, EUCHAREENA, NSW 2866
+  description: Additions to dwelling
+  info_url: https://planning.dubbo.nsw.gov.au/Application/ApplicationDetails/010.2019.00000175.001/
+  comment_url: ''
+  date_scraped: '2019-05-14'
+  date_received: '2019-04-30'
+  on_notice_from: 
+  on_notice_to: 
+  authority_label: dubbo
+- council_reference: 010.2019.00000176.001
+  address: 4 Beatrice PL, DUBBO, NSW 2830
+  description: Erection of pergola
+  info_url: https://planning.dubbo.nsw.gov.au/Application/ApplicationDetails/010.2019.00000176.001/
+  comment_url: ''
+  date_scraped: '2019-05-14'
+  date_received: '2019-04-30'
+  on_notice_from: 
+  on_notice_to: 
+  authority_label: dubbo
+- council_reference: 010.2019.00000177.001
+  address: 16 Aqua CT, DUBBO, NSW 2830
+  description: Installation of inground swimming pool
+  info_url: https://planning.dubbo.nsw.gov.au/Application/ApplicationDetails/010.2019.00000177.001/
+  comment_url: ''
+  date_scraped: '2019-05-14'
+  date_received: '2019-05-01'
+  on_notice_from: 
+  on_notice_to: 
+  authority_label: dubbo
+- council_reference: 010.2019.00000178.001
+  address: 11 Wave CT, DUBBO, NSW 2830
+  description: Erection of dwelling with attached garage, porch and patio
+  info_url: https://planning.dubbo.nsw.gov.au/Application/ApplicationDetails/010.2019.00000178.001/
+  comment_url: ''
+  date_scraped: '2019-05-14'
+  date_received: '2019-05-01'
+  on_notice_from: 
+  on_notice_to: 
+  authority_label: dubbo
+- council_reference: 010.2019.00000179.001
+  address: 42 St Andrews DR, DUBBO, NSW 2830
+  description: Erection of carport
+  info_url: https://planning.dubbo.nsw.gov.au/Application/ApplicationDetails/010.2019.00000179.001/
+  comment_url: ''
+  date_scraped: '2019-05-14'
+  date_received: '2019-05-02'
+  on_notice_from: 
+  on_notice_to: 
+  authority_label: dubbo
+- council_reference: 010.2019.00000180.001
+  address: 196 Brisbane ST, DUBBO, NSW 2830
+  description: Business identification signage
+  info_url: https://planning.dubbo.nsw.gov.au/Application/ApplicationDetails/010.2019.00000180.001/
+  comment_url: ''
+  date_scraped: '2019-05-14'
+  date_received: '2019-05-02'
+  on_notice_from: 
+  on_notice_to: 
+  authority_label: dubbo
+- council_reference: 010.2019.00000181.001
+  address: 8L Bungoona RD, DUBBO, NSW 2830
+  description: Alterations and additions to existing dwelling and freestanding shed
+  info_url: https://planning.dubbo.nsw.gov.au/Application/ApplicationDetails/010.2019.00000181.001/
+  comment_url: ''
+  date_scraped: '2019-05-14'
+  date_received: '2019-05-03'
+  on_notice_from: 
+  on_notice_to: 
+  authority_label: dubbo
+- council_reference: 010.2019.00000182.001
+  address: 35 Amadeus AVE, DUBBO, NSW 2830
+  description: Installation of inground swimming pool
+  info_url: https://planning.dubbo.nsw.gov.au/Application/ApplicationDetails/010.2019.00000182.001/
+  comment_url: ''
+  date_scraped: '2019-05-14'
+  date_received: '2019-05-03'
+  on_notice_from: 
+  on_notice_to: 
+  authority_label: dubbo
+- council_reference: 010.2019.00000183.001
+  address: 21R Bulwarra DR, DUBBO, NSW 2830
+  description: Two (2) lot subdivision
+  info_url: https://planning.dubbo.nsw.gov.au/Application/ApplicationDetails/010.2019.00000183.001/
+  comment_url: ''
+  date_scraped: '2019-05-14'
+  date_received: '2019-05-06'
+  on_notice_from: 
+  on_notice_to: 
+  authority_label: dubbo
+- council_reference: 010.2019.00000184.001
+  address: Boundary RD, DUBBO, NSW 2830
+  description: Boundary adjustment
+  info_url: https://planning.dubbo.nsw.gov.au/Application/ApplicationDetails/010.2019.00000184.001/
+  comment_url: ''
+  date_scraped: '2019-05-14'
+  date_received: '2019-05-06'
+  on_notice_from: 
+  on_notice_to: 
+  authority_label: dubbo
+- council_reference: 010.2019.00000185.001
+  address: 55 Lakeside CRCT, DUBBO, NSW 2830
+  description: Installation of inground swimming pool
+  info_url: https://planning.dubbo.nsw.gov.au/Application/ApplicationDetails/010.2019.00000185.001/
+  comment_url: ''
+  date_scraped: '2019-05-14'
+  date_received: '2019-05-06'
+  on_notice_from: 
+  on_notice_to: 
+  authority_label: dubbo
+- council_reference: 010.2019.00000186.001
+  address: 52 Lincoln PKY, DUBBO, NSW 2830
+  description: Erection of dwelling with attached garage, porch and alfresco
+  info_url: https://planning.dubbo.nsw.gov.au/Application/ApplicationDetails/010.2019.00000186.001/
+  comment_url: ''
+  date_scraped: '2019-05-14'
+  date_received: '2019-05-06'
+  on_notice_from: 
+  on_notice_to: 
+  authority_label: dubbo
+- council_reference: 010.2019.00000187.001
+  address: 9 Mangrove CRES, DUBBO, NSW 2830
+  description: Erection of dwelling with attached garage, porch and patio
+  info_url: https://planning.dubbo.nsw.gov.au/Application/ApplicationDetails/010.2019.00000187.001/
+  comment_url: ''
+  date_scraped: '2019-05-14'
+  date_received: '2019-05-08'
+  on_notice_from: 
+  on_notice_to: 
+  authority_label: dubbo
+- council_reference: 010.2019.00000188.001
+  address: 19 Noccundra PL, DUBBO, NSW 2830
+  description: Erection of freestanding shed
+  info_url: https://planning.dubbo.nsw.gov.au/Application/ApplicationDetails/010.2019.00000188.001/
+  comment_url: ''
+  date_scraped: '2019-05-14'
+  date_received: '2019-05-08'
+  on_notice_from: 
+  on_notice_to: 
+  authority_label: dubbo
+- council_reference: 010.2019.00000189.001
+  address: 3 Naman ST, DUBBO, NSW 2830
+  description: Demoliton of dwelling and erection of dual occupancy (attached)
+  info_url: https://planning.dubbo.nsw.gov.au/Application/ApplicationDetails/010.2019.00000189.001/
+  comment_url: ''
+  date_scraped: '2019-05-14'
+  date_received: '2019-05-09'
+  on_notice_from: 
+  on_notice_to: 
+  authority_label: dubbo
+- council_reference: 010.2019.00000190.001
+  address: 1 Noccundra PL, DUBBO, NSW 2830
+  description: Erection of freestanding cubby house
+  info_url: https://planning.dubbo.nsw.gov.au/Application/ApplicationDetails/010.2019.00000190.001/
+  comment_url: ''
+  date_scraped: '2019-05-14'
+  date_received: '2019-05-09'
+  on_notice_from: 
+  on_notice_to: 
+  authority_label: dubbo
+- council_reference: 010.2019.00000191.001
+  address: 35 Azure AVE, DUBBO, NSW 2830
+  description: Exhibition home
+  info_url: https://planning.dubbo.nsw.gov.au/Application/ApplicationDetails/010.2019.00000191.001/
+  comment_url: ''
+  date_scraped: '2019-05-14'
+  date_received: '2019-05-10'
+  on_notice_from: 
+  on_notice_to: 
+  authority_label: dubbo
+- council_reference: 010.2019.00000192.001
+  address: 33 Azure AVE, DUBBO, NSW 2830
+  description: Exhibition home
+  info_url: https://planning.dubbo.nsw.gov.au/Application/ApplicationDetails/010.2019.00000192.001/
+  comment_url: ''
+  date_scraped: '2019-05-14'
+  date_received: '2019-05-10'
+  on_notice_from: 
+  on_notice_to: 
+  authority_label: dubbo
+- council_reference: 010.2019.00000193.001
+  address: 17 Purvis LA, DUBBO, NSW 2830
+  description: Warehouse (Wool storage)
+  info_url: https://planning.dubbo.nsw.gov.au/Application/ApplicationDetails/010.2019.00000193.001/
+  comment_url: ''
+  date_scraped: '2019-05-14'
+  date_received: '2019-05-10'
+  on_notice_from: 
+  on_notice_to: 
+  authority_label: dubbo
+- council_reference: 010.2019.00000194.001
+  address: 84 Murrayfield DR, DUBBO, NSW 2830
+  description: Erection of freestanding garage
+  info_url: https://planning.dubbo.nsw.gov.au/Application/ApplicationDetails/010.2019.00000194.001/
+  comment_url: ''
+  date_scraped: '2019-05-14'
+  date_received: '2019-05-10'
+  on_notice_from: 
+  on_notice_to: 
+  authority_label: dubbo
+- council_reference: 010.2019.00000195.001
+  address: 154R Narromine RD, DUBBO, NSW 2830
+  description: Boundary adjustment
+  info_url: https://planning.dubbo.nsw.gov.au/Application/ApplicationDetails/010.2019.00000195.001/
+  comment_url: ''
+  date_scraped: '2019-05-14'
+  date_received: '2019-05-13'
+  on_notice_from: 
+  on_notice_to: 
+  authority_label: dubbo
+- council_reference: 010.2019.00000196.001
+  address: 8 Ivy CT, DUBBO, NSW 2830
+  description: Erection of dwelling with attached garage, porch and patio
+  info_url: https://planning.dubbo.nsw.gov.au/Application/ApplicationDetails/010.2019.00000196.001/
+  comment_url: ''
+  date_scraped: '2019-05-14'
+  date_received: '2019-05-14'
+  on_notice_from: 
+  on_notice_to: 
+  authority_label: dubbo
+- council_reference: 010.2019.00000197.001
+  address: 3 Lesmurdie PDE, DUBBO, NSW 2830
+  description: Dual occupancy (attached)
+  info_url: https://planning.dubbo.nsw.gov.au/Application/ApplicationDetails/010.2019.00000197.001/
+  comment_url: ''
+  date_scraped: '2019-05-14'
+  date_received: '2019-05-14'
+  on_notice_from: 
+  on_notice_to: 
+  authority_label: dubbo
+- council_reference: 010.2019.00000231.001
+  address: 57 Norton ST, BALLINA, NSW 2478
+  description: Aboveground spa - Installation of a spa as depicted in plans by CAW
+    Building Design Services, for 57 Norton Street Ballina dated 8 April 2019
+  info_url: http://da.ballina.nsw.gov.au/Application/ApplicationDetails/010.2019.00000231.001/
+  comment_url: ''
+  date_scraped: '2019-05-14'
+  date_received: '2019-04-15'
+  on_notice_from: 
+  on_notice_to: 
+  authority_label: ballina
+- council_reference: 010.2019.00000232.001
+  address: 8 Teal St, BALLINA, NSW 2478
+  description: New Dwelling - Single Residence Single storey dwelling and associated
+    earthworks as depicted in plans by Perry Homes, Project No. 9538A
+  info_url: http://da.ballina.nsw.gov.au/Application/ApplicationDetails/010.2019.00000232.001/
+  comment_url: ''
+  date_scraped: '2019-05-14'
+  date_received: '2019-04-15'
+  on_notice_from: 
+  on_notice_to: 
+  authority_label: ballina
+- council_reference: 010.2019.00000233.001
+  address: 550-578 River St, WEST BALLINA, NSW 2478
+  description: Trial Fill Embankments & Settlement Monitoring Plates To establish
+    trial fill embankments and installation of settlement monitoring plates
+  info_url: http://da.ballina.nsw.gov.au/Application/ApplicationDetails/010.2019.00000233.001/
+  comment_url: ''
+  date_scraped: '2019-05-14'
+  date_received: '2019-04-15'
+  on_notice_from: 
+  on_notice_to: 
+  authority_label: ballina
+- council_reference: 010.2019.00000234.001
+  address: 858 River DR, EMPIRE VALE, NSW 2478
+  description: Alterations/Additions to Dwelling Patio roof as depicted in plans for
+    858 River Drive, Empire Vale lodged with Council on 16 April 2019
+  info_url: http://da.ballina.nsw.gov.au/Application/ApplicationDetails/010.2019.00000234.001/
+  comment_url: ''
+  date_scraped: '2019-05-14'
+  date_received: '2019-04-15'
+  on_notice_from: 
+  on_notice_to: 
+  authority_label: ballina
+- council_reference: 010.2019.00000235.001
+  address: 3 Sunway PL, BALLINA, NSW 2478
+  description: Alterations/Additions to Dwelling Carport forward of the building line
+    as depicted in plans by Tony James Building Design for 3 Sunway Place Ballina
+    dated 15 April 2019
+  info_url: http://da.ballina.nsw.gov.au/Application/ApplicationDetails/010.2019.00000235.001/
+  comment_url: ''
+  date_scraped: '2019-05-14'
+  date_received: '2019-04-16'
+  on_notice_from: 
+  on_notice_to: 
+  authority_label: ballina
+- council_reference: 010.2019.00000236.001
+  address: 5 Nixon PL, LENNOX HEAD, NSW 2478
+  description: New Clearing - Lennox Head VMO Vegetation management works comprising
+    the removal of one tree
+  info_url: http://da.ballina.nsw.gov.au/Application/ApplicationDetails/010.2019.00000236.001/
+  comment_url: ''
+  date_scraped: '2019-05-14'
+  date_received: '2019-04-16'
+  on_notice_from: 
+  on_notice_to: 
+  authority_label: ballina
+- council_reference: 010.2019.00000237.001
+  address: 5 Nixon PL, LENNOX HEAD, NSW 2478
+  description: Alterations/Additions to Dwelling Alterations and additions to a dwelling,
+    a patio roof, a shed and a carport forward of the building line as depicted in
+    plans by AEW Drafting and Design, Project No. 19-0125
+  info_url: http://da.ballina.nsw.gov.au/Application/ApplicationDetails/010.2019.00000237.001/
+  comment_url: ''
+  date_scraped: '2019-05-14'
+  date_received: '2019-04-16'
+  on_notice_from: 
+  on_notice_to: 
+  authority_label: ballina
+- council_reference: 010.2019.00000238.001
+  address: 17 Lynton CR, WOLLONGBAR, NSW 2477
+  description: Alterations/Additions to Dwelling - Single Residence Retaining walls,
+    including a retaining wall forward of the building line, as depicted in the marked
+    up plan for 17 Lynton Crescent Wollongbar lodged with Council on 16 April 2019
+    and GEO-AM Consulting, Project No. 19/0326
+  info_url: http://da.ballina.nsw.gov.au/Application/ApplicationDetails/010.2019.00000238.001/
+  comment_url: ''
+  date_scraped: '2019-05-14'
+  date_received: '2019-04-16'
+  on_notice_from: 
+  on_notice_to: 
+  authority_label: ballina
+- council_reference: 010.2019.00000239.001
+  address: 1468 Eltham RD, TUCKOMBIL, NSW 2477
+  description: Change of Use Conversion to Dual Occupancy Change of use of an existing
+    shed to a dwelling to create a Dual Occupancy (detached) development as depicted
+    in plans drawn by “PJ” for 1468 Eltham Road, Tuckombil dated 14 February 2019
+  info_url: http://da.ballina.nsw.gov.au/Application/ApplicationDetails/010.2019.00000239.001/
+  comment_url: ''
+  date_scraped: '2019-05-14'
+  date_received: '2019-04-16'
+  on_notice_from: 
+  on_notice_to: 
+  authority_label: ballina
+- council_reference: 010.2019.00000240.001
+  address: 10 Cullen CT, CUMBALUM, NSW 2478
+  description: New Swimming Pool - Inground Swimming pool as depicted in plans by
+    Narellan Pools for 10 Cullen Court, Cumbalum dated 11 April 2019
+  info_url: http://da.ballina.nsw.gov.au/Application/ApplicationDetails/010.2019.00000240.001/
+  comment_url: ''
+  date_scraped: '2019-05-14'
+  date_received: '2019-04-16'
+  on_notice_from: 
+  on_notice_to: 
+  authority_label: ballina
+- council_reference: 010.2019.00000241.001
+  address: 3 Lawrence RI, CUMBALUM, NSW 2478
+  description: New Dwelling - Single Residence Single storey dwelling, associated
+    earthworks and temporary use as a display home and sales office and associated
+    signage as depicted in plans by Coral Homes. Project No. J27854 Revision C
+  info_url: http://da.ballina.nsw.gov.au/Application/ApplicationDetails/010.2019.00000241.001/
+  comment_url: ''
+  date_scraped: '2019-05-14'
+  date_received: '2019-04-16'
+  on_notice_from: 
+  on_notice_to: 
+  authority_label: ballina
+- council_reference: 010.2019.00000242.001
+  address: 25-43 Fenwick DR, EAST BALLINA, NSW 2478
+  description: Alterations/Additions to Miscellaneous Shade structure as depicted
+    in plans by SPF Shades & Sails, Project No. P180088  and associated documents
+    lodged with Council on 17 April 2019
+  info_url: http://da.ballina.nsw.gov.au/Application/ApplicationDetails/010.2019.00000242.001/
+  comment_url: ''
+  date_scraped: '2019-05-14'
+  date_received: '2019-04-16'
+  on_notice_from: 
+  on_notice_to: 
+  authority_label: ballina
+- council_reference: 010.2019.00000243.001
+  address: 25 Burnet ST, BALLINA, NSW 2478
+  description: Alterations/Additions to Dwelling - Single Residence Alterations and
+    additions to a dwelling and garage and a new patio a depicted in plans by AEW
+    Drafting and Design, Project No. 19-0303
+  info_url: http://da.ballina.nsw.gov.au/Application/ApplicationDetails/010.2019.00000243.001/
+  comment_url: ''
+  date_scraped: '2019-05-14'
+  date_received: '2019-04-16'
+  on_notice_from: 
+  on_notice_to: 
+  authority_label: ballina
+- council_reference: 010.2019.00000244.001
+  address: 2 Calnan CR, CUMBALUM, NSW 2478
+  description: Dual Occupancy & Strata Title Subdivision Single storey Dual Occupancy
+    (attached) and associated earthworks and retaining walls as depicted in plans
+    by Murphy, Project No. BH510 and subsequent Strata Subdivision
+  info_url: http://da.ballina.nsw.gov.au/Application/ApplicationDetails/010.2019.00000244.001/
+  comment_url: ''
+  date_scraped: '2019-05-14'
+  date_received: '2019-04-16'
+  on_notice_from: 
+  on_notice_to: 
+  authority_label: ballina
+- council_reference: 010.2019.00000245.001
+  address: 9 Lawrence RI, CUMBALUM, NSW 2478
+  description: New Dwelling - Single Residence Single storey dwelling and associated
+    earthworks and retaining walls as depicted in plans by G J Garner Homes, Project
+    No. 240531
+  info_url: http://da.ballina.nsw.gov.au/Application/ApplicationDetails/010.2019.00000245.001/
+  comment_url: ''
+  date_scraped: '2019-05-14'
+  date_received: '2019-04-17'
+  on_notice_from: 
+  on_notice_to: 
+  authority_label: ballina
+- council_reference: 010.2019.00000246.001
+  address: 2 Greenview PL, SKENNARS HEAD, NSW 2478
+  description: New Dwelling - Single Residence Single storey dwelling forward of the
+    building line and associated earthworks and retaining walls as depicted in plans
+    by G J Garner Homes, Project No. 240524
+  info_url: http://da.ballina.nsw.gov.au/Application/ApplicationDetails/010.2019.00000246.001/
+  comment_url: ''
+  date_scraped: '2019-05-14'
+  date_received: '2019-04-17'
+  on_notice_from: 
+  on_notice_to: 
+  authority_label: ballina
+- council_reference: 010.2019.00000247.001
+  address: 6 Survey ST, LENNOX HEAD, NSW 2478
+  description: Alterations/Additions to Dwelling Alterations and additions to a dwelling
+    and a carport forward of the building line as depicted in plans by PRG architects,
+    Project No. 201905
+  info_url: http://da.ballina.nsw.gov.au/Application/ApplicationDetails/010.2019.00000247.001/
+  comment_url: ''
+  date_scraped: '2019-05-14'
+  date_received: '2019-04-18'
+  on_notice_from: 
+  on_notice_to: 
+  authority_label: ballina
+- council_reference: 010.2019.00000248.001
+  address: 211B Ballina RD, ALSTONVILLE, NSW 2477
+  description: New Fence/Wall 1.8m high fencing forward of the building line as depicted
+    in plans lodged with Council on 18 April 2019 for 211B Ballina Road Alstonville
+  info_url: http://da.ballina.nsw.gov.au/Application/ApplicationDetails/010.2019.00000248.001/
+  comment_url: ''
+  date_scraped: '2019-05-14'
+  date_received: '2019-04-18'
+  on_notice_from: 
+  on_notice_to: 
+  authority_label: ballina
+- council_reference: 010.2019.00000249.001
+  address: 70 Stoneyhurst DR, LENNOX HEAD, NSW 2478
+  description: New Dwelling - Single Residence and Subdivision - Strata (Residential)
+    Two storey dual occupancy (detached) and associated earthworks and retaining walls
+    as depicted in plans by Adrian Steele Building Design and Drafting, Project No.
+    24119 and subsequent strata subdivision.
+  info_url: http://da.ballina.nsw.gov.au/Application/ApplicationDetails/010.2019.00000249.001/
+  comment_url: ''
+  date_scraped: '2019-05-14'
+  date_received: '2019-04-18'
+  on_notice_from: 
+  on_notice_to: 
+  authority_label: ballina
+- council_reference: 010.2019.00000250.001
+  address: 1/30 Southern Cross DR, BALLINA, NSW 2478
+  description: Vegetation Clearing - Industrial area Vegetation management works comprising
+    the removal of one Cook Pine Tree
+  info_url: http://da.ballina.nsw.gov.au/Application/ApplicationDetails/010.2019.00000250.001/
+  comment_url: ''
+  date_scraped: '2019-05-14'
+  date_received: '2019-04-18'
+  on_notice_from: 
+  on_notice_to: 
+  authority_label: ballina
+- council_reference: 010.2019.00000251.001
+  address: 16 Lawrence RI, CUMBALUM, NSW 2478
+  description: New Dwelling - Single Residence Single storey dwelling and associated
+    earthworks as depicted in plans by G J Garner Homes, Project No. 240530
+  info_url: http://da.ballina.nsw.gov.au/Application/ApplicationDetails/010.2019.00000251.001/
+  comment_url: ''
+  date_scraped: '2019-05-14'
+  date_received: '2019-04-18'
+  on_notice_from: 
+  on_notice_to: 
+  authority_label: ballina
+- council_reference: 010.2019.00000252.001
+  address: 32 Leach CR, WEST BALLINA, NSW 2478
+  description: New Dwelling - Single Residence Single storey dwelling and associated
+    earthworks as depicted in plans by Perry Homes, Project No. 9485
+  info_url: http://da.ballina.nsw.gov.au/Application/ApplicationDetails/010.2019.00000252.001/
+  comment_url: ''
+  date_scraped: '2019-05-14'
+  date_received: '2019-04-18'
+  on_notice_from: 
+  on_notice_to: 
+  authority_label: ballina
+- council_reference: 010.2019.00000253.001
+  address: 2 Teal St, BALLINA, NSW 2478
+  description: "New Dual Occupancy Staged dual occupancy (detached). \nStage 1: Construction
+    of single storey dwelling forward of the building line and associated earthworks
+    as depicted in plans by Metricon, Project No. 687879. Stage 2: Construction of
+    a two storey dwelling and associated earthworks as depicted in plans by Metricon,
+    Project No. 700269"
+  info_url: http://da.ballina.nsw.gov.au/Application/ApplicationDetails/010.2019.00000253.001/
+  comment_url: ''
+  date_scraped: '2019-05-14'
+  date_received: '2019-04-18'
+  on_notice_from: 
+  on_notice_to: 
+  authority_label: ballina
+- council_reference: 010.2019.00000254.001
+  address: 4 Olivia CCT, LENNOX HEAD, NSW 2478
+  description: Dual Occupancy & Strata Title Subdivision Two storey dual occupancy
+    (attached) and associated earthworks and retaining walls as depicted in plans
+    by Perry Homes, Project No. 9472 and subsequent strata subdivision
+  info_url: http://da.ballina.nsw.gov.au/Application/ApplicationDetails/010.2019.00000254.001/
+  comment_url: ''
+  date_scraped: '2019-05-14'
+  date_received: '2019-04-18'
+  on_notice_from: 
+  on_notice_to: 
+  authority_label: ballina
+- council_reference: 010.2019.00000255.001
+  address: 29 Quays DR, WEST BALLINA, NSW 2478
+  description: New Dwelling - Single Residence Single storey dwelling and associated
+    earthworks as depicted in plans by Adenbrook Homes, Project No. R0048
+  info_url: http://da.ballina.nsw.gov.au/Application/ApplicationDetails/010.2019.00000255.001/
+  comment_url: ''
+  date_scraped: '2019-05-14'
+  date_received: '2019-04-23'
+  on_notice_from: 
+  on_notice_to: 
+  authority_label: ballina
+- council_reference: 010.2019.00000256.001
+  address: 30 Northumberland DR, EAST BALLINA, NSW 2478
+  description: Alterations/Additions to Dwelling - Single Residence Carport forward
+    of the building line
+  info_url: http://da.ballina.nsw.gov.au/Application/ApplicationDetails/010.2019.00000256.001/
+  comment_url: ''
+  date_scraped: '2019-05-14'
+  date_received: '2019-04-26'
+  on_notice_from: 
+  on_notice_to: 
+  authority_label: ballina
+- council_reference: 010.2019.00000257.001
+  address: 104 Victoria Park RD, DALWOOD, NSW 2477
+  description: New Dwelling - Single Residence Agricultural preparation and drying
+    area as depicted in plans by RC, Drawing No. DB A1a, dated January 2019
+  info_url: http://da.ballina.nsw.gov.au/Application/ApplicationDetails/010.2019.00000257.001/
+  comment_url: ''
+  date_scraped: '2019-05-14'
+  date_received: '2019-04-26'
+  on_notice_from: 
+  on_notice_to: 
+  authority_label: ballina
+- council_reference: 010.2019.00000258.001
+  address: 11 Wardell RD, ALSTONVILLE, NSW 2477
+  description: New Swimming Pool - Inground Swimming pool as depicted in plans for
+    11 Wardell Road, Alstonville lodged with Council on 26 April 2019
+  info_url: http://da.ballina.nsw.gov.au/Application/ApplicationDetails/010.2019.00000258.001/
+  comment_url: ''
+  date_scraped: '2019-05-14'
+  date_received: '2019-04-26'
+  on_notice_from: 
+  on_notice_to: 
+  authority_label: ballina
+- council_reference: 010.2019.00000259.001
+  address: 5 Trinidad CT, ALSTONVILLE, NSW 2477
+  description: New Dwelling Reconstruction of a fire damaged building as depicted
+    in plans for Lot 202 Trinidad Court Alstonville dated 15 April 2019
+  info_url: http://da.ballina.nsw.gov.au/Application/ApplicationDetails/010.2019.00000259.001/
+  comment_url: ''
+  date_scraped: '2019-05-14'
+  date_received: '2019-04-29'
+  on_notice_from: 
+  on_notice_to: 
+  authority_label: ballina
+- council_reference: 010.2019.00000260.001
+  address: 28 Old Byron Bay RD, NEWRYBAR, NSW 2479
+  description: New Outbuilding - Rural (Farm Shed) Farm storage building and associated
+    earthworks as depicted in plans by Phillip Wallace Project No. 18-15 dated April
+    2019
+  info_url: http://da.ballina.nsw.gov.au/Application/ApplicationDetails/010.2019.00000260.001/
+  comment_url: ''
+  date_scraped: '2019-05-14'
+  date_received: '2019-04-29'
+  on_notice_from: 
+  on_notice_to: 
+  authority_label: ballina
+- council_reference: 010.2019.00000261.001
+  address: 78B Main ST, ALSTONVILLE, NSW 2477
+  description: Alterations/Additions to Miscellaneous Alterations to a commercial
+    building to remove a wall wetting sprinkler system and infill external openings
+    as depicted in plans by Richard Lutze Building Design, Project No. 741 dated April
+    2019
+  info_url: http://da.ballina.nsw.gov.au/Application/ApplicationDetails/010.2019.00000261.001/
+  comment_url: ''
+  date_scraped: '2019-05-14'
+  date_received: '2019-04-29'
+  on_notice_from: 
+  on_notice_to: 
+  authority_label: ballina
+- council_reference: 010.2019.00000262.001
+  address: 68 Amber DR, LENNOX HEAD, NSW 2478
+  description: New Dwelling - Single Residence Two storey dwelling and a detached
+    secondary dwelling and associated earthworks and retaining walls as depicted in
+    plans by Stroud Homes Project No. 1805312
+  info_url: http://da.ballina.nsw.gov.au/Application/ApplicationDetails/010.2019.00000262.001/
+  comment_url: ''
+  date_scraped: '2019-05-14'
+  date_received: '2019-04-29'
+  on_notice_from: 
+  on_notice_to: 
+  authority_label: ballina
+- council_reference: 010.2019.00000263.001
+  address: 62 Shaws LA, TUCKOMBIL, NSW 2477
+  description: New Outbuilding - Rural (Farm Shed) Farm storage shed as depicted in
+    plans by Traditional Timber Frames, dated 21 March 2019
+  info_url: http://da.ballina.nsw.gov.au/Application/ApplicationDetails/010.2019.00000263.001/
+  comment_url: ''
+  date_scraped: '2019-05-14'
+  date_received: '2019-04-29'
+  on_notice_from: 
+  on_notice_to: 
+  authority_label: ballina
+- council_reference: 010.2019.00000264.001
+  address: 1071 Tamarind DR, TINTENBAR, NSW 2478
+  description: Manufactured Home Installation of a transportable building as depicted
+    in plans by UNIPLAN, Project No. 2636_1A
+  info_url: http://da.ballina.nsw.gov.au/Application/ApplicationDetails/010.2019.00000264.001/
+  comment_url: ''
+  date_scraped: '2019-05-14'
+  date_received: '2019-04-29'
+  on_notice_from: 
+  on_notice_to: 
+  authority_label: ballina
+- council_reference: 010.2019.00000265.001
+  address: 31 Oakwood DR, BALLINA, NSW 2478
+  description: New Swimming Pool - Inground Swimming pool as depicted in plans for
+    Lot 35 DP 1219163 dated 23 April 2019
+  info_url: http://da.ballina.nsw.gov.au/Application/ApplicationDetails/010.2019.00000265.001/
+  comment_url: ''
+  date_scraped: '2019-05-14'
+  date_received: '2019-04-29'
+  on_notice_from: 
+  on_notice_to: 
+  authority_label: ballina
+- council_reference: 010.2019.00000266.001
+  address: 40 Millbrook TCE, WOLLONGBAR, NSW 2477
+  description: New Dwelling Two storey dwelling and associated earthworks as depicted
+    in plans by Summerland Building Design for Lot 102 (no. 40) Millbrook Terrace
+    Wollongbar dated April 2019
+  info_url: http://da.ballina.nsw.gov.au/Application/ApplicationDetails/010.2019.00000266.001/
+  comment_url: ''
+  date_scraped: '2019-05-14'
+  date_received: '2019-04-30'
+  on_notice_from: 
+  on_notice_to: 
+  authority_label: ballina
+- council_reference: 010.2019.00000267.001
+  address: 9 Eclipse CR, CUMBALUM, NSW 2478
+  description: New Dwelling - Single Residence Two storey dwelling and associated
+    earthworks as depicted in plans by GJ Gardner Homes, Project No. 240526
+  info_url: http://da.ballina.nsw.gov.au/Application/ApplicationDetails/010.2019.00000267.001/
+  comment_url: ''
+  date_scraped: '2019-05-14'
+  date_received: '2019-04-30'
+  on_notice_from: 
+  on_notice_to: 
+  authority_label: ballina
+- council_reference: 010.2019.00000268.001
+  address: 21 Allens PDE, LENNOX HEAD, NSW 2478
+  description: Alterations/Additions to Dwelling Alterations and additions to a dwelling  as
+    depicted in plans by PPDC, Project No. B1215 dated 8 April 2019
+  info_url: http://da.ballina.nsw.gov.au/Application/ApplicationDetails/010.2019.00000268.001/
+  comment_url: ''
+  date_scraped: '2019-05-14'
+  date_received: '2019-04-30'
+  on_notice_from: 
+  on_notice_to: 
+  authority_label: ballina
+- council_reference: 010.2019.00000269.001
+  address: 80 Elvery LA, ALSTONVILLE, NSW 2477
+  description: Sports Amenity & Clubhouse Facilities Erection of Sports Amenity and
+    Clubhouse Facilities
+  info_url: http://da.ballina.nsw.gov.au/Application/ApplicationDetails/010.2019.00000269.001/
+  comment_url: ''
+  date_scraped: '2019-05-14'
+  date_received: '2019-04-30'
+  on_notice_from: 
+  on_notice_to: 
+  authority_label: ballina
+- council_reference: 010.2019.00000270.001
+  address: 12 Leach CR, WEST BALLINA, NSW 2478
+  description: New Dwelling - Single Residence Single storey dwelling and associated
+    earthworks as depicted in plans by Adenbrook Homes, Project No. R0071 dated 14
+    February 2019
+  info_url: http://da.ballina.nsw.gov.au/Application/ApplicationDetails/010.2019.00000270.001/
+  comment_url: ''
+  date_scraped: '2019-05-14'
+  date_received: '2019-05-01'
+  on_notice_from: 
+  on_notice_to: 
+  authority_label: ballina
+- council_reference: 010.2019.00000271.001
+  address: 5 Westland PL, WEST BALLINA, NSW 2478
+  description: Alterations/Additions to Dwelling - Single Residence Sunroom addition
+    to a dwelling as depicted in plans for 5 Westland place West Ballina by G Pratten
+    dated 24 April 2019
+  info_url: http://da.ballina.nsw.gov.au/Application/ApplicationDetails/010.2019.00000271.001/
+  comment_url: ''
+  date_scraped: '2019-05-14'
+  date_received: '2019-05-01'
+  on_notice_from: 
+  on_notice_to: 
+  authority_label: ballina
+- council_reference: 010.2019.00000272.001
+  address: 4 Melaleuca PL, EAST BALLINA, NSW 2478
+  description: New Swimming Pool - Inground Swimming pool as depicted in plans for
+    4 Melaleuca Place East Ballina by Narellan pools dated 28 March 2019
+  info_url: http://da.ballina.nsw.gov.au/Application/ApplicationDetails/010.2019.00000272.001/
+  comment_url: ''
+  date_scraped: '2019-05-14'
+  date_received: '2019-05-01'
+  on_notice_from: 
+  on_notice_to: 
+  authority_label: ballina
+- council_reference: 010.2019.00000273.001
+  address: 29 Waratah LA, ALSTONVILLE, NSW 2477
+  description: New Dwelling - Single Residence Construction of a single storey dwelling
+    house and associated earthworks to create a Dual Occupancy (detached) development
+    as depicted in plans by Dixon Homes, Project No. 129331
+  info_url: http://da.ballina.nsw.gov.au/Application/ApplicationDetails/010.2019.00000273.001/
+  comment_url: ''
+  date_scraped: '2019-05-14'
+  date_received: '2019-05-01'
+  on_notice_from: 
+  on_notice_to: 
+  authority_label: ballina
+- council_reference: 010.2019.00000274.001
+  address: 48 Koellner RD, CUMBALUM, NSW 2478
+  description: New Dwelling to Create Dual Occupancy Construction of dwelling house
+    to create a Dual Occupancy (detached) development and continued use of an exist
+    building for the purposes of a non-habitable storage shed as depicted in plans
+    by Peter Turner and Associates Project No. 3869 dated 22 March 2019
+  info_url: http://da.ballina.nsw.gov.au/Application/ApplicationDetails/010.2019.00000274.001/
+  comment_url: ''
+  date_scraped: '2019-05-14'
+  date_received: '2019-05-01'
+  on_notice_from: 
+  on_notice_to: 
+  authority_label: ballina
+- council_reference: 010.2019.00000275.001
+  address: 2 Tea Tree PL, EAST BALLINA, NSW 2478
+  description: Alterations/Additions to Dwelling - Single Residence Deck addition
+    to a dwelling and relocation of a rainwater tank as depicted in plans for 2 Tea
+    Tree Place East Ballina dated 30 April 2019
+  info_url: http://da.ballina.nsw.gov.au/Application/ApplicationDetails/010.2019.00000275.001/
+  comment_url: ''
+  date_scraped: '2019-05-14'
+  date_received: '2019-05-02'
+  on_notice_from: 
+  on_notice_to: 
+  authority_label: ballina
+- council_reference: 010.2019.00000276.001
+  address: 19 Acacia ST, WOLLONGBAR, NSW 2477
+  description: New Clearing - Residential to undertake the removal of 15 Turpentine
+    (Syncarpia glomulifera) trees
+  info_url: http://da.ballina.nsw.gov.au/Application/ApplicationDetails/010.2019.00000276.001/
+  comment_url: ''
+  date_scraped: '2019-05-14'
+  date_received: '2019-05-03'
+  on_notice_from: 
+  on_notice_to: 
+  authority_label: ballina
+- council_reference: 010.2019.00000277.001
+  address: 115 Riverside DR, WEST BALLINA, NSW 2478
+  description: New Swimming Pool - Inground Swimming pool as depicted in plans for
+    115 Riverside Drive Ballina by Narellan pools dated 26 April 2019
+  info_url: http://da.ballina.nsw.gov.au/Application/ApplicationDetails/010.2019.00000277.001/
+  comment_url: ''
+  date_scraped: '2019-05-14'
+  date_received: '2019-05-03'
+  on_notice_from: 
+  on_notice_to: 
+  authority_label: ballina
+- council_reference: 010.2019.00000278.001
+  address: 72 Eyles DR, EAST BALLINA, NSW 2478
+  description: New Dwelling & Secondary Dwelling Single storey principal dwelling
+    and attached secondary dwelling, a carport, a storage shed and associated earthworks
+    and retaining walls as depicted in plans by Stroud Homes Project No. 122EYL19
+  info_url: http://da.ballina.nsw.gov.au/Application/ApplicationDetails/010.2019.00000278.001/
+  comment_url: ''
+  date_scraped: '2019-05-14'
+  date_received: '2019-05-03'
+  on_notice_from: 
+  on_notice_to: 
+  authority_label: ballina
+- council_reference: 010.2019.00000279.001
+  address: 76 Chesworth LA, WOLLONGBAR, NSW 2477
+  description: Alterations/Additions to Dwelling - Single Residence Alterations and
+    additions to a dwelling as depicted in plans by Northern Rivers Building for 76
+    Chesworths Lane Wollongbar
+  info_url: http://da.ballina.nsw.gov.au/Application/ApplicationDetails/010.2019.00000279.001/
+  comment_url: ''
+  date_scraped: '2019-05-14'
+  date_received: '2019-05-06'
+  on_notice_from: 
+  on_notice_to: 
+  authority_label: ballina
+- council_reference: 010.2019.00000280.001
+  address: 84 Fig Tree Hill DR, LENNOX HEAD, NSW 2478
+  description: Alterations/Additions to Dual Occupancy (previously Duplex) Alterations
+    and additions to an existing farm building and change of use to a dwelling house
+    to create a Dual Occupancy (detached) development as depicted in plans by Plant
+    Homes, drawings AW1, AW3 dated 29 April 2019
+  info_url: http://da.ballina.nsw.gov.au/Application/ApplicationDetails/010.2019.00000280.001/
+  comment_url: ''
+  date_scraped: '2019-05-14'
+  date_received: '2019-05-06'
+  on_notice_from: 
+  on_notice_to: 
+  authority_label: ballina
+- council_reference: 010.2019.00000281.001
+  address: 18 O'Rourke ST, CUMBALUM, NSW 2478
+  description: Alterations/Additions to Fence/Wall Increase the height of an existing
+    boundary fence from 1.8m to 2.2m in height as depicted in plans lodged with Council
+    on 6 May 2019 for 18 O’Rourke Street Cumbalum
+  info_url: http://da.ballina.nsw.gov.au/Application/ApplicationDetails/010.2019.00000281.001/
+  comment_url: ''
+  date_scraped: '2019-05-14'
+  date_received: '2019-05-06'
+  on_notice_from: 
+  on_notice_to: 
+  authority_label: ballina
+- council_reference: 010.2019.00000282.001
+  address: 6 Wendy ST, EAST BALLINA, NSW 2478
+  description: Alterations/Additions to Dwelling - Single Residence Front and rear
+    covered deck additions and a carport and courtyard walls forward of the building
+    line as depicted in plans by caw building design services for 6 Wendy Street East
+    Ballina dated April 2019
+  info_url: http://da.ballina.nsw.gov.au/Application/ApplicationDetails/010.2019.00000282.001/
+  comment_url: ''
+  date_scraped: '2019-05-14'
+  date_received: '2019-05-06'
+  on_notice_from: 
+  on_notice_to: 
+  authority_label: ballina
+- council_reference: 010.2019.00000283.001
+  address: 2/188-202 Southern Cross DR, BALLINA, NSW 2478
+  description: Change of Use and Alterations to Commercial Building Change of use
+    from a high technology industry to general industry involving the assembly, manufacture
+    and fitting of prosthetic limbs and alterations to the building
+  info_url: http://da.ballina.nsw.gov.au/Application/ApplicationDetails/010.2019.00000283.001/
+  comment_url: ''
+  date_scraped: '2019-05-14'
+  date_received: '2019-05-07'
+  on_notice_from: 
+  on_notice_to: 
+  authority_label: ballina
+- council_reference: 010.2019.00000284.001
+  address: 84 Meridian DR, COOLGARDIE, NSW 2478
+  description: New Dwelling - Single Residence Construction of a two storey dwelling
+    house and associated studio as depicted in plans by Dean Poile Designs for 64
+    Meridian Drive Coolgardie dated 2 May 2019
+  info_url: http://da.ballina.nsw.gov.au/Application/ApplicationDetails/010.2019.00000284.001/
+  comment_url: ''
+  date_scraped: '2019-05-14'
+  date_received: '2019-05-07'
+  on_notice_from: 
+  on_notice_to: 
+  authority_label: ballina
+- council_reference: 010.2019.00000285.001
+  address: Whytes LNW, PIMLICO, NSW 2478
+  description: Earthworks Earthworks to create a stock refuge area as depicted in
+    plans for Lot 67 DP 755731 lodged with Council on 8 May 2019
+  info_url: http://da.ballina.nsw.gov.au/Application/ApplicationDetails/010.2019.00000285.001/
+  comment_url: ''
+  date_scraped: '2019-05-14'
+  date_received: '2019-05-08'
+  on_notice_from: 
+  on_notice_to: 
+  authority_label: ballina
+- council_reference: 010.2019.00000286.001
+  address: 33 Leach CR, WEST BALLINA, NSW 2478
+  description: New Dwelling - Single Residence Single storey dwelling and associated
+    earthworks as depicted in plans by Metricon, Project No. 695748 dated 16 April
+    2019
+  info_url: http://da.ballina.nsw.gov.au/Application/ApplicationDetails/010.2019.00000286.001/
+  comment_url: ''
+  date_scraped: '2019-05-14'
+  date_received: '2019-05-08'
+  on_notice_from: 
+  on_notice_to: 
+  authority_label: ballina
+- council_reference: 010.2019.00000287.001
+  address: 6 Leach CR, WEST BALLINA, NSW 2478
+  description: New Dwelling - Single Residence Single storey dwelling and associated
+    earthworks as depicted in plans by Metricon, Project No. 699892 dated 11 April
+    2019
+  info_url: http://da.ballina.nsw.gov.au/Application/ApplicationDetails/010.2019.00000287.001/
+  comment_url: ''
+  date_scraped: '2019-05-14'
+  date_received: '2019-05-08'
+  on_notice_from: 
+  on_notice_to: 
+  authority_label: ballina
+- council_reference: 010.2019.00000288.001
+  address: 11 Leach CR, WEST BALLINA, NSW 2478
+  description: New Dwelling - Single Residence Single storey dwelling and associated
+    earthworks as depicted in plans by GJ Gardner Homes, Project No. 240508 Revision
+    D
+  info_url: http://da.ballina.nsw.gov.au/Application/ApplicationDetails/010.2019.00000288.001/
+  comment_url: ''
+  date_scraped: '2019-05-14'
+  date_received: '2019-05-08'
+  on_notice_from: 
+  on_notice_to: 
+  authority_label: ballina
+- council_reference: 010.2019.00000289.001
+  address: 28 Leach CR, WEST BALLINA, NSW 2478
+  description: New Dwelling - Single Residence Single storey dwelling and associated
+    earthworks as depicted in plans by GJ Gardner Homes, Project No. 240439 Revision
+    B
+  info_url: http://da.ballina.nsw.gov.au/Application/ApplicationDetails/010.2019.00000289.001/
+  comment_url: ''
+  date_scraped: '2019-05-14'
+  date_received: '2019-05-08'
+  on_notice_from: 
+  on_notice_to: 
+  authority_label: ballina
+- council_reference: 010.2019.00000290.001
+  address: 1/2 Pinnacle ROW, LENNOX HEAD, NSW 2478
+  description: Alterations/Additions to Dwelling Roof addition to an existing deck
+    as depicted in plans by AEW Drafting and Design, Project No.19-0307
+  info_url: http://da.ballina.nsw.gov.au/Application/ApplicationDetails/010.2019.00000290.001/
+  comment_url: ''
+  date_scraped: '2019-05-14'
+  date_received: '2019-05-08'
+  on_notice_from: 
+  on_notice_to: 
+  authority_label: ballina
+- council_reference: 010.2019.00000291.001
+  address: 127 Platypus DR, URALBA, NSW 2477
+  description: Alterations and additions to Outbuilding Additions to a shed as depicted
+    in plans for 127 Platypus Drive Uralba by B & T Garages and Sheds Project No.
+    BATG24288
+  info_url: http://da.ballina.nsw.gov.au/Application/ApplicationDetails/010.2019.00000291.001/
+  comment_url: ''
+  date_scraped: '2019-05-14'
+  date_received: '2019-05-09'
+  on_notice_from: '2019-05-22'
+  on_notice_to: '2019-06-06'
+  authority_label: ballina
+- council_reference: 010.2019.00000292.001
+  address: 477 Wardell RD, LYNWOOD, NSW 2477
+  description: Alterations/Additions to Dwelling - Single Residence Alterations and
+    additions to a dwelling as depicted in plans by Chris Burley Constructions for
+    477 Wardell Road dated April 2019
+  info_url: http://da.ballina.nsw.gov.au/Application/ApplicationDetails/010.2019.00000292.001/
+  comment_url: ''
+  date_scraped: '2019-05-14'
+  date_received: '2019-05-09'
+  on_notice_from: 
+  on_notice_to: 
+  authority_label: ballina
+- council_reference: 010.2019.00000293.001
+  address: 23 Leach CR, WEST BALLINA, NSW 2478
+  description: New Dwelling - Single Residence Single storey dwelling and associated
+    earthworks and retaining walls as depicted in plans by Metricon, Project No. 697325
+  info_url: http://da.ballina.nsw.gov.au/Application/ApplicationDetails/010.2019.00000293.001/
+  comment_url: ''
+  date_scraped: '2019-05-14'
+  date_received: '2019-05-09'
+  on_notice_from: 
+  on_notice_to: 
+  authority_label: ballina
+- council_reference: 010.2019.00000294.001
+  address: 25 Leach CR, WEST BALLINA, NSW 2478
+  description: Dwelling - Single Residence Single storey dwelling and associated earthworks
+    as depicted in plans by Coral Homes, Project No. 29223 revision dated 18 April
+    2019
+  info_url: http://da.ballina.nsw.gov.au/Application/ApplicationDetails/010.2019.00000294.001/
+  comment_url: ''
+  date_scraped: '2019-05-14'
+  date_received: '2019-05-10'
+  on_notice_from: 
+  on_notice_to: 
+  authority_label: ballina
+- council_reference: 010.2019.00000295.001
+  address: 51 Survey ST, LENNOX HEAD, NSW 2478
+  description: New Dwelling - Single Residence Three storey dwelling and associated
+    earthworks and retaining walls as depicted in plans by Bluewater Building Designs,
+    for 51 Survey Street Lennox Head dated 2 April 2019
+  info_url: http://da.ballina.nsw.gov.au/Application/ApplicationDetails/010.2019.00000295.001/
+  comment_url: ''
+  date_scraped: '2019-05-14'
+  date_received: '2019-05-10'
+  on_notice_from: 
+  on_notice_to: 
+  authority_label: ballina
+- council_reference: 010.2019.00000296.001
+  address: 59 Jameson AVE, EAST BALLINA, NSW 2478
+  description: Alterations/Additions to Dwelling - Single Residence Alterations and
+    additions to a dwelling including a second story addition and a carport forward
+    of the building line as depicted in plans for 59 Jameson Avenue, Project No. 18001
+    Revision A
+  info_url: http://da.ballina.nsw.gov.au/Application/ApplicationDetails/010.2019.00000296.001/
+  comment_url: ''
+  date_scraped: '2019-05-14'
+  date_received: '2019-05-10'
+  on_notice_from: '2019-05-23'
+  on_notice_to: '2019-06-07'
+  authority_label: ballina
+- council_reference: 010.2019.00000297.001
+  address: 557 Byron Bay RD, BROKEN HEAD, NSW 2481
+  description: Alterations/Additions to Dual Occupancy (previously Duplex) Alterations
+    and additions to an existing farm building and change of use to a dwelling house
+    to create a Dual Occupancy (detached) development as depicted in plans by C Lonergan
+    for 557 Byron Bay Road Broken Head dated 14 March 2019
+  info_url: http://da.ballina.nsw.gov.au/Application/ApplicationDetails/010.2019.00000297.001/
+  comment_url: ''
+  date_scraped: '2019-05-14'
+  date_received: '2019-05-10'
+  on_notice_from: 
+  on_notice_to: 
+  authority_label: ballina
+- council_reference: 010.2019.00000298.001
+  address: 6 Lawrence RI, CUMBALUM, NSW 2478
+  description: New Dwelling - Single Residence Single storey dwelling, a swimming
+    pool, associated earthworks and temporary use as Display Home and associated signage
+    as depicted in plans by Perry Homes, Project No. 9214
+  info_url: http://da.ballina.nsw.gov.au/Application/ApplicationDetails/010.2019.00000298.001/
+  comment_url: ''
+  date_scraped: '2019-05-14'
+  date_received: '2019-05-10'
+  on_notice_from: 
+  on_notice_to: 
+  authority_label: ballina
+- council_reference: 010.2019.00000299.001
+  address: 22-40 Commercial RD, ALSTONVILLE, NSW 2477
+  description: Vegetation Management Works Vegetation management works comprising
+    the removal of two trees and trimming of a number of trees on site
+  info_url: http://da.ballina.nsw.gov.au/Application/ApplicationDetails/010.2019.00000299.001/
+  comment_url: ''
+  date_scraped: '2019-05-14'
+  date_received: '2019-05-10'
+  on_notice_from: 
+  on_notice_to: 
+  authority_label: ballina
+- council_reference: 010.2019.00000301.001
+  address: 22-40 Commercial RD, ALSTONVILLE, NSW 2477
+  description: Alterations/Additions to Recreation Facility To undertake site levelling
+    and erection of security fencing
+  info_url: http://da.ballina.nsw.gov.au/Application/ApplicationDetails/010.2019.00000301.001/
+  comment_url: ''
+  date_scraped: '2019-05-14'
+  date_received: '2019-05-10'
+  on_notice_from: '2019-06-05'
+  on_notice_to: '2019-06-20'
+  authority_label: ballina
+- council_reference: 010.2019.00000302.001
+  address: 22-40 Commercial RD, ALSTONVILLE, NSW 2477
+  description: Alterations/Additions to Commercial Bldg Erection of machinery shed
+    and relocation of existing storage shed
+  info_url: http://da.ballina.nsw.gov.au/Application/ApplicationDetails/010.2019.00000302.001/
+  comment_url: ''
+  date_scraped: '2019-05-14'
+  date_received: '2019-05-10'
+  on_notice_from: '2019-06-05'
+  on_notice_to: '2019-06-20'
+  authority_label: ballina
+- council_reference: 010.2019.00000303.001
+  address: 22-40 Commercial RD, ALSTONVILLE, NSW 2477
+  description: Alterations/Additions to Commercial Bldg Proposed new roofed tiered
+    seating and viewing platform extension adjacent to the rodeo arena area and new
+    awnings to existing amenities building
+  info_url: http://da.ballina.nsw.gov.au/Application/ApplicationDetails/010.2019.00000303.001/
+  comment_url: ''
+  date_scraped: '2019-05-14'
+  date_received: '2019-05-10'
+  on_notice_from: '2019-06-05'
+  on_notice_to: '2019-06-20'
+  authority_label: ballina
+- council_reference: 010.2019.00000304.001
+  address: 11 Calnan CR, CUMBALUM, NSW 2478
+  description: New Dwelling - Single Residence Single storey dwelling and associated
+    earthworks as depicted in plans by Perry Homes, Project No. 9401
+  info_url: http://da.ballina.nsw.gov.au/Application/ApplicationDetails/010.2019.00000304.001/
+  comment_url: ''
+  date_scraped: '2019-05-14'
+  date_received: '2019-05-13'
+  on_notice_from: 
+  on_notice_to: 
+  authority_label: ballina
+- council_reference: 010.2019.00000305.001
+  address: 28 Calnan CR, CUMBALUM, NSW 2478
+  description: New Dwelling - Single Residence Single storey dwelling and associated
+    earthworks as depicted in plans by Perry Homes, Project No. 9457
+  info_url: http://da.ballina.nsw.gov.au/Application/ApplicationDetails/010.2019.00000305.001/
+  comment_url: ''
+  date_scraped: '2019-05-14'
+  date_received: '2019-05-14'
+  on_notice_from: 
+  on_notice_to: 
+  authority_label: ballina
+- council_reference: 010.2019.00000306.001
+  address: 107 Crane ST, BALLINA, NSW 2478
+  description: Alterations/Additions to Dwelling to create Dual Occupancy Alterations
+    and additions to a Secondary Dwelling and change of use to a dwelling house to
+    create a Dual Occupancy (detached) development as depicted in plans by RLA Building
+    Design, Project No. 824
+  info_url: http://da.ballina.nsw.gov.au/Application/ApplicationDetails/010.2019.00000306.001/
+  comment_url: ''
+  date_scraped: '2019-05-14'
+  date_received: '2019-05-14'
+  on_notice_from: 
+  on_notice_to: 
+  authority_label: ballina
+- council_reference: 010.2019.00000307.001
+  address: 13 Hickey ST, BALLINA, NSW 2478
+  description: Alterations/Additions to Dwelling & Swimming Pool Construction of a
+    shed, a swimming pool, a roofed deck and a carport forward of the building line
+    as depicted in plans by S McFarland dated 5 May 2019
+  info_url: http://da.ballina.nsw.gov.au/Application/ApplicationDetails/010.2019.00000307.001/
+  comment_url: ''
+  date_scraped: '2019-05-14'
+  date_received: '2019-05-14'
+  on_notice_from: '2019-05-28'
+  on_notice_to: '2019-06-12'
+  authority_label: ballina
+- council_reference: 016.2019.00000022.002
+  address: 3 Pindari GR, MONTEFIORES, NSW 2820
+  description: Modified application - Erection of dwelling with attached alfresco
+    and detached shed
+  info_url: https://planning.dubbo.nsw.gov.au/Application/ApplicationDetails/016.2019.00000022.002/
+  comment_url: ''
+  date_scraped: '2019-05-14'
+  date_received: '2019-05-08'
+  on_notice_from: 
+  on_notice_to: 
+  authority_label: dubbo
+- council_reference: 016.2019.00000028.001
+  address: 17R Wellington RD, DUBBO, NSW 2830
+  description: Installation of ground mounted solar installation (85kWh)
+  info_url: https://planning.dubbo.nsw.gov.au/Application/ApplicationDetails/016.2019.00000028.001/
+  comment_url: ''
+  date_scraped: '2019-05-14'
+  date_received: '2019-04-15'
+  on_notice_from: 
+  on_notice_to: 
+  authority_label: dubbo
+- council_reference: 016.2019.00000029.001
+  address: 56 Windsor PDE, DUBBO, NSW 2830
+  description: Internal fitout (Laser clinic - Tenancy 131)
+  info_url: https://planning.dubbo.nsw.gov.au/Application/ApplicationDetails/016.2019.00000029.001/
+  comment_url: ''
+  date_scraped: '2019-05-14'
+  date_received: '2019-04-16'
+  on_notice_from: 
+  on_notice_to: 
+  authority_label: dubbo
+- council_reference: 016.2019.00000030.001
+  address: 4 Cavelle DR, DUBBO, NSW 2830
+  description: Erection of dwelling with attached garage and alfresco
+  info_url: https://planning.dubbo.nsw.gov.au/Application/ApplicationDetails/016.2019.00000030.001/
+  comment_url: ''
+  date_scraped: '2019-05-14'
+  date_received: '2019-05-02'
+  on_notice_from: 
+  on_notice_to: 
+  authority_label: dubbo
+- council_reference: 016.2019.00000031.001
+  address: 4 Crown ST, DUBBO, NSW 2830
+  description: Alterations and additions to existing dwelling
+  info_url: https://planning.dubbo.nsw.gov.au/Application/ApplicationDetails/016.2019.00000031.001/
+  comment_url: ''
+  date_scraped: '2019-05-14'
+  date_received: '2019-05-06'
+  on_notice_from: 
+  on_notice_to: 
+  authority_label: dubbo
+- council_reference: 016.2019.00000032.001
+  address: 31 Bradford CRCT, DUBBO, NSW 2830
+  description: Erection of dwelling with attached garage and porch
+  info_url: https://planning.dubbo.nsw.gov.au/Application/ApplicationDetails/016.2019.00000032.001/
+  comment_url: ''
+  date_scraped: '2019-05-14'
+  date_received: '2019-05-06'
+  on_notice_from: 
+  on_notice_to: 
+  authority_label: dubbo
+- council_reference: '018.2018.00005066.002'
+  address: 14 The Grove, LENNOX HEAD, NSW 2478
+  description: Alterations/Additions to Dwelling - Single Residence
+  info_url: http://da.ballina.nsw.gov.au/Application/ApplicationDetails/018.2018.00005066.002/
+  comment_url: ''
+  date_scraped: '2019-05-14'
+  date_received: '2019-04-15'
+  on_notice_from: 
+  on_notice_to: 
+  authority_label: ballina
+- council_reference: '018.2019.00000042.002'
+  address: 20 Newlands CR, KELSO, NSW 2795
+  description: Construction of single storey dwelling with attached garage
+  info_url: http://masterview.bathurst.nsw.gov.au/Application/ApplicationDetails/018.2019.00000042.002/
+  comment_url: ''
+  date_scraped: '2019-05-14'
+  date_received: '2019-05-02'
+  on_notice_from: 
+  on_notice_to: 
+  authority_label: bathurst
+- council_reference: '018.2019.00000047.001'
+  address: 39 William ST, BATHURST, NSW 2795
+  description: Internal Alterations to a commercial premises
+  info_url: http://masterview.bathurst.nsw.gov.au/Application/ApplicationDetails/018.2019.00000047.001/
+  comment_url: ''
+  date_scraped: '2019-05-14'
+  date_received: '2019-04-26'
+  on_notice_from: 
+  on_notice_to: 
+  authority_label: bathurst
+- council_reference: '018.2019.00000048.001'
+  address: 177 Howick ST, BATHURST, NSW 2795
+  description: Internal building alterations
+  info_url: http://masterview.bathurst.nsw.gov.au/Application/ApplicationDetails/018.2019.00000048.001/
+  comment_url: ''
+  date_scraped: '2019-05-14'
+  date_received: '2019-04-29'
+  on_notice_from: 
+  on_notice_to: 
+  authority_label: bathurst
+- council_reference: '018.2019.00000049.001'
+  address: 20 Carrol AVE, EGLINTON, NSW 2795
+  description: Construction of a single storey dwelling with attached garage
+  info_url: http://masterview.bathurst.nsw.gov.au/Application/ApplicationDetails/018.2019.00000049.001/
+  comment_url: ''
+  date_scraped: '2019-05-14'
+  date_received: '2019-04-30'
+  on_notice_from: 
+  on_notice_to: 
+  authority_label: bathurst
+- council_reference: '018.2019.00000050.001'
+  address: 18 Burlington RI, KELSO, NSW 2795
+  description: Construction of a single storey dwelling with attached garage
+  info_url: http://masterview.bathurst.nsw.gov.au/Application/ApplicationDetails/018.2019.00000050.001/
+  comment_url: ''
+  date_scraped: '2019-05-14'
+  date_received: '2019-05-01'
+  on_notice_from: 
+  on_notice_to: 
+  authority_label: bathurst
+- council_reference: '018.2019.00000051.001'
+  address: 10 Newlands CR, KELSO, NSW 2795
+  description: Construction of a Single storey dwelling with attached garage
+  info_url: http://masterview.bathurst.nsw.gov.au/Application/ApplicationDetails/018.2019.00000051.001/
+  comment_url: ''
+  date_scraped: '2019-05-14'
+  date_received: '2019-05-07'
+  on_notice_from: 
+  on_notice_to: 
+  authority_label: bathurst
+- council_reference: '018.2019.00000052.001'
+  address: 17 Dovey DR, KELSO, NSW 2795
+  description: Construction of a single storey dwelling with attached garage
+  info_url: http://masterview.bathurst.nsw.gov.au/Application/ApplicationDetails/018.2019.00000052.001/
+  comment_url: ''
+  date_scraped: '2019-05-14'
+  date_received: '2019-05-08'
+  on_notice_from: 
+  on_notice_to: 
+  authority_label: bathurst
+- council_reference: '018.2019.00000053.001'
+  address: 4 Marble CL, KELSO, NSW 2795
+  description: Single storey dwelling with attached garage
+  info_url: http://masterview.bathurst.nsw.gov.au/Application/ApplicationDetails/018.2019.00000053.001/
+  comment_url: ''
+  date_scraped: '2019-05-14'
+  date_received: '2019-05-09'
+  on_notice_from: 
+  on_notice_to: 
+  authority_label: bathurst
+- council_reference: '018.2019.00000054.001'
+  address: 9 Ridgeview CL, WHITE ROCK, NSW 2795
+  description: construction of an inground swimming pool and fence
+  info_url: http://masterview.bathurst.nsw.gov.au/Application/ApplicationDetails/018.2019.00000054.001/
+  comment_url: ''
+  date_scraped: '2019-05-14'
+  date_received: '2019-05-09'
+  on_notice_from: 
+  on_notice_to: 
+  authority_label: bathurst
+- council_reference: '018.2019.00000055.001'
+  address: 42 Lew AVE, EGLINTON, NSW 2795
+  description: Construction of an Inground swimming pool & fence
+  info_url: http://masterview.bathurst.nsw.gov.au/Application/ApplicationDetails/018.2019.00000055.001/
+  comment_url: ''
+  date_scraped: '2019-05-14'
+  date_received: '2019-05-14'
+  on_notice_from: 
+  on_notice_to: 
+  authority_label: bathurst
+- council_reference: '018.2019.00000056.001'
+  address: 6 Keystone RI, KELSO, NSW 2795
+  description: Construction of a Single storey dwelling with attached garage
+  info_url: http://masterview.bathurst.nsw.gov.au/Application/ApplicationDetails/018.2019.00000056.001/
+  comment_url: ''
+  date_scraped: '2019-05-14'
+  date_received: '2019-05-14'
+  on_notice_from: 
+  on_notice_to: 
+  authority_label: bathurst
+- council_reference: '018.2019.00000057.001'
+  address: 535 White Rock RD, WHITE ROCK, NSW 2795
+  description: Construction of portico and alfresco
+  info_url: http://masterview.bathurst.nsw.gov.au/Application/ApplicationDetails/018.2019.00000057.001/
+  comment_url: ''
+  date_scraped: '2019-05-14'
+  date_received: '2019-05-14'
+  on_notice_from: 
+  on_notice_to: 
+  authority_label: bathurst
+- council_reference: '018.2019.00000058.001'
+  address: 93 Graham DR, KELSO, NSW 2795
+  description: construction of a single storey dwelling with attached garage
+  info_url: http://masterview.bathurst.nsw.gov.au/Application/ApplicationDetails/018.2019.00000058.001/
+  comment_url: ''
+  date_scraped: '2019-05-14'
+  date_received: '2019-05-14'
+  on_notice_from: 
+  on_notice_to: 
+  authority_label: bathurst
+- council_reference: '018.2019.00002028.001'
+  address: 12 Whistler CL, MIRADOR, NSW 2548
+  description: CDC by PCA - Erection of a single storey dwelling with attached garage
+  info_url: http://datracker.begavalley.nsw.gov.au/Application/ApplicationDetails/018.2019.00002028.001/
+  comment_url: ''
+  date_scraped: '2019-05-14'
+  date_received: '2019-05-06'
+  on_notice_from: 
+  on_notice_to: 
+  authority_label: bega_valley
+- council_reference: '018.2019.00002031.001'
+  address: 2 Booroo ST, PAMBULA BEACH, NSW 2549
+  description: CDC by PCA alterations & additions to existing dwelling
+  info_url: http://datracker.begavalley.nsw.gov.au/Application/ApplicationDetails/018.2019.00002031.001/
+  comment_url: ''
+  date_scraped: '2019-05-14'
+  date_received: '2019-04-29'
+  on_notice_from: 
+  on_notice_to: 
+  authority_label: bega_valley
+- council_reference: '018.2019.00005030.001'
+  address: 69 Cooke AVE, ALSTONVILLE, NSW 2477
+  description: PCA - New Swimming Pool - Inground
+  info_url: http://da.ballina.nsw.gov.au/Application/ApplicationDetails/018.2019.00005030.001/
+  comment_url: ''
+  date_scraped: '2019-05-14'
+  date_received: '2019-05-02'
+  on_notice_from: 
+  on_notice_to: 
+  authority_label: ballina
+- council_reference: '018.2019.00005031.001'
+  address: 44 Bangalow RD, BALLINA, NSW 2478
+  description: PCA sec 68 Alterations/Additions to Commercial Bldg - Pathology
+  info_url: http://da.ballina.nsw.gov.au/Application/ApplicationDetails/018.2019.00005031.001/
+  comment_url: ''
+  date_scraped: '2019-05-14'
+  date_received: '2019-05-06'
+  on_notice_from: 
+  on_notice_to: 
+  authority_label: ballina
+- council_reference: '018.2019.00005032.001'
+  address: 10 Willie Wagtail PL, ALSTONVILLE, NSW 2477
+  description: PCA CDC   - New Dwelling - Single Residence
+  info_url: http://da.ballina.nsw.gov.au/Application/ApplicationDetails/018.2019.00005032.001/
+  comment_url: ''
+  date_scraped: '2019-05-14'
+  date_received: '2019-05-07'
+  on_notice_from: 
+  on_notice_to: 
+  authority_label: ballina
+- council_reference: '018.2019.00005033.001'
+  address: 9 George Pearse PL, EAST BALLINA, NSW 2478
+  description: Alterations/Additions to Dwelling Internal alterations to a dwelling
+    as depicted in plans for 9 George Pearse Place East Ballina lodged with Council
+    on 13 May 2019
+  info_url: http://da.ballina.nsw.gov.au/Application/ApplicationDetails/018.2019.00005033.001/
+  comment_url: ''
+  date_scraped: '2019-05-14'
+  date_received: '2019-05-13'
+  on_notice_from: 
+  on_notice_to: 
+  authority_label: ballina
+- council_reference: 023.2009.00001082.002
+  address: 4741 Hunter RD, MOONAN FLAT, NSW 2337
+  description: Dwelling
+  info_url: http://onlineservices.upperhunter.nsw.gov.au/Application/ApplicationDetails/023.2009.00001082.002/
+  comment_url: ''
+  date_scraped: '2019-05-14'
+  date_received: '2019-05-01'
+  on_notice_from: 
+  on_notice_to: 
+  authority_label: upper_hunter
+- council_reference: 140.19.DA.DM
+  address: 160 MURRAY STREET, LALALTY, NSW 3644
+  description: WATER STORAGE and SUMP
+  info_url: http://datracking.berriganshire.nsw.gov.au/Horizon/logonGuest.aw?e=FxkUAB1eSSgbAR0MXx0SGBFSVh0yBwc3GV0eFxcFSUMAIQYHJARfEBMKEiNZACg9HR0CHCUfHBY1QAQsHRAVAlkcGFUPEUcrNBURWDdAAxoQAhVEHS8aNxUCUVUSGBUrWRB9RUdEWAFKWD0gWnQ5bBoWAylEEhQ%3D
+  comment_url: ''
+  date_scraped: '2019-05-14'
+  date_received: '2019-04-15'
+  on_notice_from: 
+  on_notice_to: 
+  authority_label: berrigan
+- council_reference: 141.19.DA.DM
+  address: 72 MURRAY STREET, FINLEY, NSW 2714
+  description: FITNESS STUDIO
+  info_url: http://datracking.berriganshire.nsw.gov.au/Horizon/logonGuest.aw?e=FxkUAB1eSSgbAR0MXx0SGBFSVh0yBwc3GV0eFxcFSUMAIQYHJARfEBMKEiNZACg9HR0CHCUfHBY1QAQsHRAVAlkcGFUPEUcrNBURWDdAAxoQAhVEHS8aNxUCUVUSGBUrWRB9RUdFWAFKWD0gWnQ5bBoWAylEEhQ%3D
+  comment_url: ''
+  date_scraped: '2019-05-14'
+  date_received: '2019-04-15'
+  on_notice_from: 
+  on_notice_to: 
+  authority_label: berrigan
+- council_reference: 142.19.DA.D5
+  address: 26 MURRAY STREET, FINLEY, NSW 2713
+  description: RESIDENTIAL STORAGE SHED
+  info_url: http://datracking.berriganshire.nsw.gov.au/Horizon/logonGuest.aw?e=FxkUAB1eSSgbAR0MXx0SGBFSVh0yBwc3GV0eFxcFSUMAIQYHJARfEBMKEiNZACg9HR0CHCUfHBY1QAQsHRAVAlkcGFUPEUcrNBURWDdAAxoQAhVEHS8aNxUCUVUSGBUrWRB9RUdGWAFKWD0gWnRBbBoWAylEEhQ%3D
+  comment_url: ''
+  date_scraped: '2019-05-14'
+  date_received: '2019-04-16'
+  on_notice_from: 
+  on_notice_to: 
+  authority_label: berrigan
+- council_reference: 143.19.DA.D1
+  address: MURRAY STREET, FINLEY, NSW 2714
+  description: DWELLING
+  info_url: http://datracking.berriganshire.nsw.gov.au/Horizon/logonGuest.aw?e=FxkUAB1eSSgbAR0MXx0SGBFSVh0yBwc3GV0eFxcFSUMAIQYHJARfEBMKEiNZACg9HR0CHCUfHBY1QAQsHRAVAlkcGFUPEUcrNBURWDdAAxoQAhVEHS8aNxUCUVUSGBUrWRB9RUdHWAFKWD0gWnRFbBoWAylEEhQ%3D
+  comment_url: ''
+  date_scraped: '2019-05-14'
+  date_received: '2019-04-16'
+  on_notice_from: 
+  on_notice_to: 
+  authority_label: berrigan
+- council_reference: 144.19.DA.D5
+  address: 15 MURRAY STREET, FINLEY, NSW 2714
+  description: RESIDENTIAL STORAGE SHED
+  info_url: http://datracking.berriganshire.nsw.gov.au/Horizon/logonGuest.aw?e=FxkUAB1eSSgbAR0MXx0SGBFSVh0yBwc3GV0eFxcFSUMAIQYHJARfEBMKEiNZACg9HR0CHCUfHBY1QAQsHRAVAlkcGFUPEUcrNBURWDdAAxoQAhVEHS8aNxUCUVUSGBUrWRB9RUdAWAFKWD0gWnRBbBoWAylEEhQ%3D
+  comment_url: ''
+  date_scraped: '2019-05-14'
+  date_received: '2019-04-17'
+  on_notice_from: 
+  on_notice_to: 
+  authority_label: berrigan
+- council_reference: 147.19.DA.D3
+  address: 5 MURRAY STREET, FINLEY, NSW 2714
+  description: STORAGE SHED
+  info_url: http://datracking.berriganshire.nsw.gov.au/Horizon/logonGuest.aw?e=FxkUAB1eSSgbAR0MXx0SGBFSVh0yBwc3GV0eFxcFSUMAIQYHJARfEBMKEiNZACg9HR0CHCUfHBY1QAQsHRAVAlkcGFUPEUcrNBURWDdAAxoQAhVEHS8aNxUCUVUSGBUrWRB9RUdDWAFKWD0gWnRHbBoWAylEEhQ%3D
+  comment_url: ''
+  date_scraped: '2019-05-14'
+  date_received: '2019-04-29'
+  on_notice_from: 
+  on_notice_to: 
+  authority_label: berrigan
+- council_reference: 148.19.DA.D5
+  address: 118 MURRAY STREET, FINLEY, NSW 2713
+  description: RESIDENTIAL STORAGE SHED
+  info_url: http://datracking.berriganshire.nsw.gov.au/Horizon/logonGuest.aw?e=FxkUAB1eSSgbAR0MXx0SGBFSVh0yBwc3GV0eFxcFSUMAIQYHJARfEBMKEiNZACg9HR0CHCUfHBY1QAQsHRAVAlkcGFUPEUcrNBURWDdAAxoQAhVEHS8aNxUCUVUSGBUrWRB9RUdMWAFKWD0gWnRBbBoWAylEEhQ%3D
+  comment_url: ''
+  date_scraped: '2019-05-14'
+  date_received: '2019-04-30'
+  on_notice_from: 
+  on_notice_to: 
+  authority_label: berrigan
+- council_reference: 151.19.DA.D1
+  address: 8 MURRAY STREET, FINLEY, NSW 3644
+  description: BV DWELLING and ATTACHED GARAGE
+  info_url: http://datracking.berriganshire.nsw.gov.au/Horizon/logonGuest.aw?e=FxkUAB1eSSgbAR0MXx0SGBFSVh0yBwc3GV0eFxcFSUMAIQYHJARfEBMKEiNZACg9HR0CHCUfHBY1QAQsHRAVAlkcGFUPEUcrNBURWDdAAxoQAhVEHS8aNxUCUVUSGBUrWRB9RUZFWAFKWD0gWnRFbBoWAylEEhQ%3D
+  comment_url: ''
+  date_scraped: '2019-05-14'
+  date_received: '2019-05-09'
+  on_notice_from: 
+  on_notice_to: 
+  authority_label: berrigan
+- council_reference: 152.19.DA.D5
+  address: 53 MURRAY STREET, TOCUMWAL, NSW 2714
+  description: RESIDENTIAL STORAGE SHED
+  info_url: http://datracking.berriganshire.nsw.gov.au/Horizon/logonGuest.aw?e=FxkUAB1eSSgbAR0MXx0SGBFSVh0yBwc3GV0eFxcFSUMAIQYHJARfEBMKEiNZACg9HR0CHCUfHBY1QAQsHRAVAlkcGFUPEUcrNBURWDdAAxoQAhVEHS8aNxUCUVUSGBUrWRB9RUZGWAFKWD0gWnRBbBoWAylEEhQ%3D
+  comment_url: ''
+  date_scraped: '2019-05-14'
+  date_received: '2019-05-13'
+  on_notice_from: 
+  on_notice_to: 
+  authority_label: berrigan
+- council_reference: 153.19.DA.DM
+  address: 12 MURRAY STREET, FINLEY, NSW 2713
+  description: REPAIR OF FIRE DAMAGE
+  info_url: http://datracking.berriganshire.nsw.gov.au/Horizon/logonGuest.aw?e=FxkUAB1eSSgbAR0MXx0SGBFSVh0yBwc3GV0eFxcFSUMAIQYHJARfEBMKEiNZACg9HR0CHCUfHBY1QAQsHRAVAlkcGFUPEUcrNBURWDdAAxoQAhVEHS8aNxUCUVUSGBUrWRB9RUZHWAFKWD0gWnQ5bBoWAylEEhQ%3D
+  comment_url: ''
+  date_scraped: '2019-05-14'
+  date_received: '2019-05-13'
+  on_notice_from: 
+  on_notice_to: 
+  authority_label: berrigan
+- council_reference: 154.19.DA.D5
+  address: 48 MURRAY STREET, FINLEY, NSW 3644
+  description: RESIDENTIAL STORAGE SHED
+  info_url: http://datracking.berriganshire.nsw.gov.au/Horizon/logonGuest.aw?e=FxkUAB1eSSgbAR0MXx0SGBFSVh0yBwc3GV0eFxcFSUMAIQYHJARfEBMKEiNZACg9HR0CHCUfHBY1QAQsHRAVAlkcGFUPEUcrNBURWDdAAxoQAhVEHS8aNxUCUVUSGBUrWRB9RUZAWAFKWD0gWnRBbBoWAylEEhQ%3D
+  comment_url: ''
+  date_scraped: '2019-05-14'
+  date_received: '2019-05-14'
+  on_notice_from: 
+  on_notice_to: 
+  authority_label: berrigan
