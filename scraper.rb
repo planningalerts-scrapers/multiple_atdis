@@ -26,6 +26,7 @@ AUTHORITIES.each do |authority_label, url|
   # the Sydney timezone
   ATDISPlanningAlertsFeed.fetch(url, "Sydney") do |record|
     record[:authority_label] = authority_label.to_s
+    puts "Storing #{record[:council_reference]} - #{record[:address]}"
     ScraperWikiMorph.save_sqlite([:authority_label, :council_reference], record)
   end
 end
