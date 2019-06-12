@@ -401,6 +401,16 @@
   on_notice_from: 
   on_notice_to: 
   authority_label: bega_valley
+- council_reference: 010.2019.00000008.002
+  address: 81 Almond Road, LEETON, NSW 2705
+  description: Torrens Title Subdivision
+  info_url: http://203.58.97.252/Horizon/logonGuest.aw?e=FxkUAB1eSSgbAR0MXx0SGBFSVh0yBwc3GV0eFxcFSUMAIQYHJARfEBMKEiNZACg9HR0CHCUfHBY1QAQsHRAVAlkcGFUPEUcrNBURWDdAAxoQAhVEHS8aNxUCUVUSGBUrWRB9REJEWAJDR0BPRABEcERDRE4eQ0ZLTRpVAx8AEhY%3D
+  comment_url: ''
+  date_scraped: '2019-05-14'
+  date_received: '2019-05-10'
+  on_notice_from: 
+  on_notice_to: 
+  authority_label: leeton
 - council_reference: 010.2019.00000031.002
   address: 88 Macquarie ST, DUBBO, NSW 2830
   description: Modified application - Commercial premises (alterations)
@@ -411,6 +421,86 @@
   on_notice_from: 
   on_notice_to: 
   authority_label: dubbo
+- council_reference: 010.2019.00000036.001
+  address: 6 Coolibah Street, LEETON, NSW 2705
+  description: Erection of Shed
+  info_url: http://203.58.97.252/Horizon/logonGuest.aw?e=FxkUAB1eSSgbAR0MXx0SGBFSVh0yBwc3GV0eFxcFSUMAIQYHJARfEBMKEiNZACg9HR0CHCUfHBY1QAQsHRAVAlkcGFUPEUcrNBURWDdAAxoQAhVEHS8aNxUCUVUSGBUrWRB9REJEWAJDR0BPRABEcERDR0AeQ0ZITRpVAx8AEhY%3D
+  comment_url: ''
+  date_scraped: '2019-05-14'
+  date_received: '2019-04-17'
+  on_notice_from: 
+  on_notice_to: 
+  authority_label: leeton
+- council_reference: 010.2019.00000037.001
+  address: 265 Petersham Road, LEETON, NSW 2705
+  description: Demolition of Dwelling House
+  info_url: http://203.58.97.252/Horizon/logonGuest.aw?e=FxkUAB1eSSgbAR0MXx0SGBFSVh0yBwc3GV0eFxcFSUMAIQYHJARfEBMKEiNZACg9HR0CHCUfHBY1QAQsHRAVAlkcGFUPEUcrNBURWDdAAxoQAhVEHS8aNxUCUVUSGBUrWRB9REJEWAJDR0BPRABEcERDR0EeQ0ZITRpVAx8AEhY%3D
+  comment_url: ''
+  date_scraped: '2019-05-14'
+  date_received: '2019-04-23'
+  on_notice_from: 
+  on_notice_to: 
+  authority_label: leeton
+- council_reference: 010.2019.00000038.001
+  address: 48 Church Street, LEETON, NSW 2705
+  description: Erection of Shed
+  info_url: http://203.58.97.252/Horizon/logonGuest.aw?e=FxkUAB1eSSgbAR0MXx0SGBFSVh0yBwc3GV0eFxcFSUMAIQYHJARfEBMKEiNZACg9HR0CHCUfHBY1QAQsHRAVAlkcGFUPEUcrNBURWDdAAxoQAhVEHS8aNxUCUVUSGBUrWRB9REJEWAJDR0BPRABEcERDR04eQ0ZITRpVAx8AEhY%3D
+  comment_url: ''
+  date_scraped: '2019-05-14'
+  date_received: '2019-04-24'
+  on_notice_from: 
+  on_notice_to: 
+  authority_label: leeton
+- council_reference: 010.2019.00000039.001
+  address: 2 Lily Lane, LEETON, NSW 2705
+  description: Demolition of Dwelling House
+  info_url: http://203.58.97.252/Horizon/logonGuest.aw?e=FxkUAB1eSSgbAR0MXx0SGBFSVh0yBwc3GV0eFxcFSUMAIQYHJARfEBMKEiNZACg9HR0CHCUfHBY1QAQsHRAVAlkcGFUPEUcrNBURWDdAAxoQAhVEHS8aNxUCUVUSGBUrWRB9REJEWAJDR0BPRABEcERDR08eQ0ZITRpVAx8AEhY%3D
+  comment_url: ''
+  date_scraped: '2019-05-14'
+  date_received: '2019-04-30'
+  on_notice_from: 
+  on_notice_to: 
+  authority_label: leeton
+- council_reference: 010.2019.00000040.001
+  address: 12 Lansdowne Road, LEETON, NSW 2705
+  description: Installation of spa
+  info_url: http://203.58.97.252/Horizon/logonGuest.aw?e=FxkUAB1eSSgbAR0MXx0SGBFSVh0yBwc3GV0eFxcFSUMAIQYHJARfEBMKEiNZACg9HR0CHCUfHBY1QAQsHRAVAlkcGFUPEUcrNBURWDdAAxoQAhVEHS8aNxUCUVUSGBUrWRB9REJEWAJDR0BPRABEcERDQEYeQ0ZITRpVAx8AEhY%3D
+  comment_url: ''
+  date_scraped: '2019-05-14'
+  date_received: '2019-05-02'
+  on_notice_from: 
+  on_notice_to: 
+  authority_label: leeton
+- council_reference: 010.2019.00000041.001
+  address: 100 Calorafield Road, MURRAMI, NSW 2705
+  description: Installation of organic processing facility
+  info_url: http://203.58.97.252/Horizon/logonGuest.aw?e=FxkUAB1eSSgbAR0MXx0SGBFSVh0yBwc3GV0eFxcFSUMAIQYHJARfEBMKEiNZACg9HR0CHCUfHBY1QAQsHRAVAlkcGFUPEUcrNBURWDdAAxoQAhVEHS8aNxUCUVUSGBUrWRB9REJEWAJDR0BPRABEcERDQEceQ0ZITRpVAx8AEhY%3D
+  comment_url: ''
+  date_scraped: '2019-05-14'
+  date_received: '2019-05-08'
+  on_notice_from: 
+  on_notice_to: 
+  authority_label: leeton
+- council_reference: 010.2019.00000042.001
+  address: 27 Chelmsford Place, LEETON, NSW 2705
+  description: Renovations to Ground Floor
+  info_url: http://203.58.97.252/Horizon/logonGuest.aw?e=FxkUAB1eSSgbAR0MXx0SGBFSVh0yBwc3GV0eFxcFSUMAIQYHJARfEBMKEiNZACg9HR0CHCUfHBY1QAQsHRAVAlkcGFUPEUcrNBURWDdAAxoQAhVEHS8aNxUCUVUSGBUrWRB9REJEWAJDR0BPRABEcERDQEQeQ0ZITRpVAx8AEhY%3D
+  comment_url: ''
+  date_scraped: '2019-05-14'
+  date_received: '2019-05-08'
+  on_notice_from: 
+  on_notice_to: 
+  authority_label: leeton
+- council_reference: 010.2019.00000043.001
+  address: 61 Acacia Avenue, LEETON, NSW 2705
+  description: Erection of Shed
+  info_url: http://203.58.97.252/Horizon/logonGuest.aw?e=FxkUAB1eSSgbAR0MXx0SGBFSVh0yBwc3GV0eFxcFSUMAIQYHJARfEBMKEiNZACg9HR0CHCUfHBY1QAQsHRAVAlkcGFUPEUcrNBURWDdAAxoQAhVEHS8aNxUCUVUSGBUrWRB9REJEWAJDR0BPRABEcERDQEUeQ0ZITRpVAx8AEhY%3D
+  comment_url: ''
+  date_scraped: '2019-05-14'
+  date_received: '2019-05-09'
+  on_notice_from: 
+  on_notice_to: 
+  authority_label: leeton
 - council_reference: 010.2019.00000059.001
   address: 46 Donovan RD, TOOLIJOOA, NSW 2534
   description: shed
