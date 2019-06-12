@@ -1,4 +1,97 @@
 ---
+- council_reference: 005.1999.00010173.002
+  address: 3 Flanders AVE, MUSWELLBROOK, NSW 2333
+  description: S4.55 (1A) Modification - Carport
+  info_url: http://datracker.muswellbrook.nsw.gov.au/Application/ApplicationDetails/005.1999.00010173.002/
+  comment_url: ''
+  date_scraped: '2019-05-14'
+  date_received: '2019-05-03'
+  on_notice_from: 
+  on_notice_to: 
+  authority_label: muswellbrook
+- council_reference: 005.2019.00000034.001
+  address: 53 Palace ST, DENMAN, NSW 2328
+  description: Ancillary Development - Garage
+  info_url: http://datracker.muswellbrook.nsw.gov.au/Application/ApplicationDetails/005.2019.00000034.001/
+  comment_url: ''
+  date_scraped: '2019-05-14'
+  date_received: '2019-04-15'
+  on_notice_from: 
+  on_notice_to: 
+  authority_label: muswellbrook
+- council_reference: 005.2019.00000035.001
+  address: 16 Sheppard AVE, MUSWELLBROOK, NSW 2333
+  description: Ancillary Structure (Installation of a 45 Square Metre Electronic Big
+    Screen)
+  info_url: http://datracker.muswellbrook.nsw.gov.au/Application/ApplicationDetails/005.2019.00000035.001/
+  comment_url: ''
+  date_scraped: '2019-05-14'
+  date_received: '2019-04-15'
+  on_notice_from: 
+  on_notice_to: 
+  authority_label: muswellbrook
+- council_reference: 005.2019.00000036.001
+  address: Sandy Creek RD, MCCULLYS GAP, NSW 2333
+  description: Installation of a 120m Tall Wind Monitoring Mast
+  info_url: http://datracker.muswellbrook.nsw.gov.au/Application/ApplicationDetails/005.2019.00000036.001/
+  comment_url: ''
+  date_scraped: '2019-05-14'
+  date_received: '2019-04-16'
+  on_notice_from: 
+  on_notice_to: 
+  authority_label: muswellbrook
+- council_reference: 005.2019.00000037.001
+  address: New England HWY, MUSWELLBROOK, NSW 2333
+  description: Construction of Pipes and Pump Infrastructure to Return Seepage Water
+    from Lake Liddell Dam Wall to Lake Liddell
+  info_url: http://datracker.muswellbrook.nsw.gov.au/Application/ApplicationDetails/005.2019.00000037.001/
+  comment_url: ''
+  date_scraped: '2019-05-14'
+  date_received: '2019-04-16'
+  on_notice_from: 
+  on_notice_to: 
+  authority_label: muswellbrook
+- council_reference: 005.2019.00000038.001
+  address: 43-45 Enterprise CR, MUSWELLBROOK, NSW 2333
+  description: Site Preparation Works and Installation (Storage) of Asphalt Plant
+    (no production proposed)
+  info_url: http://datracker.muswellbrook.nsw.gov.au/Application/ApplicationDetails/005.2019.00000038.001/
+  comment_url: ''
+  date_scraped: '2019-05-14'
+  date_received: '2019-04-18'
+  on_notice_from: 
+  on_notice_to: 
+  authority_label: muswellbrook
+- council_reference: 005.2019.00000039.001
+  address: 211 Kayuga RD, MUSWELLBROOK, NSW 2333
+  description: Boundary Adjustment
+  info_url: http://datracker.muswellbrook.nsw.gov.au/Application/ApplicationDetails/005.2019.00000039.001/
+  comment_url: ''
+  date_scraped: '2019-05-14'
+  date_received: '2019-05-01'
+  on_notice_from: 
+  on_notice_to: 
+  authority_label: muswellbrook
+- council_reference: 005.2019.00000040.001
+  address: 13B Grey Gum RD, DENMAN, NSW 2328
+  description: Dwelling House
+  info_url: http://datracker.muswellbrook.nsw.gov.au/Application/ApplicationDetails/005.2019.00000040.001/
+  comment_url: ''
+  date_scraped: '2019-05-14'
+  date_received: '2019-05-01'
+  on_notice_from: 
+  on_notice_to: 
+  authority_label: muswellbrook
+- council_reference: 005.2019.00000041.001
+  address: Castlerock RD, MUSWELLBROOK, NSW 2333
+  description: Subdivision - Nine (9) Lots into Six (6) Lots
+  info_url: http://datracker.muswellbrook.nsw.gov.au/Application/ApplicationDetails/005.2019.00000041.001/
+  comment_url: ''
+  date_scraped: '2019-05-14'
+  date_received: '2019-05-09'
+  on_notice_from: 
+  on_notice_to: 
+  authority_label: muswellbrook
 - council_reference: 010.1971.00000097.003
   address: Panama ST, BOMBO, NSW 2533
   description: modified - update consent details to describe the title and applicant
@@ -2777,6 +2870,16 @@
   on_notice_from: 
   on_notice_to: 
   authority_label: dubbo
+- council_reference: 017.2019.00000031.001
+  address: 28 Cousins ST, MUSWELLBROOK, NSW 2333
+  description: Attached Development - Deck
+  info_url: http://datracker.muswellbrook.nsw.gov.au/Application/ApplicationDetails/017.2019.00000031.001/
+  comment_url: ''
+  date_scraped: '2019-05-14'
+  date_received: '2019-05-06'
+  on_notice_from: 
+  on_notice_to: 
+  authority_label: muswellbrook
 - council_reference: '018.2018.00005066.002'
   address: 14 The Grove, LENNOX HEAD, NSW 2478
   description: Alterations/Additions to Dwelling - Single Residence

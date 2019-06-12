@@ -7043,4 +7043,155 @@ http_interactions:
         1}\r\n}\r\n"
     http_version: 
   recorded_at: Mon, 13 May 2019 14:00:00 GMT
+- request:
+    method: get
+    uri: https://datracker.muswellbrook.nsw.gov.au/atdis/1.0/applications.json?lodgement_date_end=2019-05-14&lodgement_date_start=2019-04-14
+    body:
+      encoding: US-ASCII
+      string: ''
+    headers:
+      Accept:
+      - "*/*"
+      Accept-Encoding:
+      - gzip, deflate
+      User-Agent:
+      - rest-client/2.0.2 (darwin17.4.0 x86_64) ruby/2.5.1p57
+      Host:
+      - datracker.muswellbrook.nsw.gov.au
+  response:
+    status:
+      code: 200
+      message: OK
+    headers:
+      Cache-Control:
+      - private
+      Transfer-Encoding:
+      - chunked
+      Content-Type:
+      - application/json; charset=utf-8
+      Server:
+      - Microsoft-IIS/8.5
+      X-Aspnet-Version:
+      - 4.0.30319
+      X-Powered-By:
+      - ASP.NET
+      Date:
+      - Wed, 12 Jun 2019 06:25:43 GMT
+    body:
+      encoding: UTF-8
+      string: '{"response":[{"application":{"info":{"dat_id":"005.1999.00010173.002","development_type":"Residential
+        - Alterations & Additions","application_type":"Section 96 Application","last_modified_date":"2019-06-03T09:51:15+10:00","description":"S4.55
+        (1A) Modification - Carport","authority":{"ref":"http://datracker.muswellbrook.nsw.gov.au/atdis/1.0","name":"Muswellbrook
+        Shire Council"},"lodgement_date":"2019-05-03T00:00:00+10:00","determination_date":"2019-05-06T00:00:00+10:00","determination_type":"Approved
+        under delegation","status":"Determined","notification_start_date":null,"notification_end_date":null,"officer":"John
+        Rix","estimated_cost":"$0.00","related_apps":[]},"reference":{"more_info_url":"http://datracker.muswellbrook.nsw.gov.au/Application/ApplicationDetails/005.1999.00010173.002/","comments_url":null},"locations":[{"land_title_ref":{"torrens":{"lot":"1","section":null,"dpsp_id":"DP
+        1091640"}},"address":{"street":"3 Flanders AVE","suburb":"MUSWELLBROOK","state":"NSW","postcode":"2333"},"geometry":null}],"events":[{"id":"494287","timestamp":"2019-05-03T11:20:00+10:00","description":"Registration","event_type":"DA01","status":"COM"},{"id":"494297","timestamp":"2019-05-03T11:33:00+10:00","description":"CC
+        Application  Received","event_type":"DA83","status":"COM"},{"id":"494642","timestamp":"2019-05-06T12:42:00+10:00","description":"S4.55
+        Amendment Determination","event_type":"DA81","status":"COM"},{"id":"494644","timestamp":"2019-05-06T12:49:00+10:00","description":"CC
+        Determination","event_type":"DA65","status":"COM"},{"id":"495780","timestamp":"2019-05-31T09:38:00+10:00","description":"Final
+        Inspection","event_type":"DA34","status":"SAT"},{"id":"495783","timestamp":"2019-05-31T10:04:00+10:00","description":"Occupation
+        certificate - final","event_type":"OCC1","status":"COM"}],"documents":[],"people":[{"name":"Derek
+        Wild","role":"Applicant","contact":null},{"name":"Maree Wild","role":"Applicant","contact":null},{"name":"Derek
+        Wild","role":"Builder","contact":null},{"name":"Muswellbrook Shire Council","role":"Principal
+        Certifying Authority","contact":"0265493700"}],"extended":{"software_vendor":"Civica","software_vendor_url":"http://www.civica.com.au"}}},{"application":{"info":{"dat_id":"005.2019.00000038.001","development_type":"Other","application_type":"DA","last_modified_date":"2019-05-22T18:25:21+10:00","description":"Site
+        Preparation Works and Installation (Storage) of Asphalt Plant (no production
+        proposed)","authority":{"ref":"http://datracker.muswellbrook.nsw.gov.au/atdis/1.0","name":"Muswellbrook
+        Shire Council"},"lodgement_date":"2019-04-18T00:00:00+10:00","determination_date":null,"determination_type":"Pending","status":"In
+        Progress","notification_start_date":null,"notification_end_date":null,"officer":"Alisa
+        Evans","estimated_cost":"$390,500.00","related_apps":[]},"reference":{"more_info_url":"http://datracker.muswellbrook.nsw.gov.au/Application/ApplicationDetails/005.2019.00000038.001/","comments_url":null},"locations":[{"land_title_ref":{"torrens":{"lot":"14","section":null,"dpsp_id":"DP
+        1119843"}},"address":{"street":"43-45 Enterprise CR","suburb":"MUSWELLBROOK","state":"NSW","postcode":"2333"},"geometry":null}],"events":[{"id":"493693","timestamp":"2019-04-18T12:43:00+10:00","description":"Registration","event_type":"DA01","status":"COM"},{"id":"494134","timestamp":"2019-04-30T16:08:00+10:00","description":"Advertisement
+        - Proposal","event_type":"DA09","status":"COM"},{"id":"494577","timestamp":"2019-05-08T12:33:00+10:00","description":"Notify
+        Adjoining Owners","event_type":"DA08","status":"COM"}],"documents":[],"people":[{"name":"Adw
+        Johnson","role":"Applicant","contact":null},{"name":"Newpave Asphalt","role":"Applicant","contact":"02-4959
+        2002"},{"name":"TBA - Certifier","role":"Principal Certifying Authority","contact":null}],"extended":{"software_vendor":"Civica","software_vendor_url":"http://www.civica.com.au"}}},{"application":{"info":{"dat_id":"005.2019.00000041.001","development_type":"Subdivision
+        Only","application_type":"DA","last_modified_date":"2019-05-15T09:32:48+10:00","description":"Subdivision
+        - Nine (9) Lots into Six (6) Lots","authority":{"ref":"http://datracker.muswellbrook.nsw.gov.au/atdis/1.0","name":"Muswellbrook
+        Shire Council"},"lodgement_date":"2019-05-09T00:00:00+10:00","determination_date":null,"determination_type":"Pending","status":"In
+        Progress","notification_start_date":null,"notification_end_date":null,"officer":"Alisa
+        Evans","estimated_cost":"$10,000.00","related_apps":[]},"reference":{"more_info_url":"http://datracker.muswellbrook.nsw.gov.au/Application/ApplicationDetails/005.2019.00000041.001/","comments_url":null},"locations":[{"land_title_ref":{"torrens":{"lot":"1","section":null,"dpsp_id":"DP
+        136249"}},"address":{"street":"Castlerock RD","suburb":"MUSWELLBROOK","state":"NSW","postcode":"2333"},"geometry":null},{"land_title_ref":{"torrens":{"lot":"2","section":null,"dpsp_id":"DP
+        136249"}},"address":{"street":"Castlerock RD","suburb":"MUSWELLBROOK","state":"NSW","postcode":"2333"},"geometry":null},{"land_title_ref":{"torrens":{"lot":"5","section":null,"dpsp_id":"DP
+        750926"}},"address":{"street":"Castlerock RD","suburb":"MUSWELLBROOK","state":"NSW","postcode":"2333"},"geometry":null},{"land_title_ref":{"torrens":{"lot":"61","section":null,"dpsp_id":"DP
+        750926"}},"address":{"street":"Castlerock RD","suburb":"MUSWELLBROOK","state":"NSW","postcode":"2333"},"geometry":null},{"land_title_ref":{"torrens":{"lot":"62","section":null,"dpsp_id":"DP
+        750926"}},"address":{"street":"Castlerock RD","suburb":"MUSWELLBROOK","state":"NSW","postcode":"2333"},"geometry":null},{"land_title_ref":{"torrens":{"lot":"63","section":null,"dpsp_id":"DP
+        750926"}},"address":{"street":"Castlerock RD","suburb":"MUSWELLBROOK","state":"NSW","postcode":"2333"},"geometry":null},{"land_title_ref":{"torrens":{"lot":"4","section":null,"dpsp_id":"DP
+        21335"}},"address":{"street":"Ellis PH","suburb":"COUNTY BRISBANE","state":"NSW","postcode":"2333"},"geometry":null},{"land_title_ref":{"torrens":{"lot":"2","section":null,"dpsp_id":"DP
+        1102585"}},"address":{"street":"Castlerock RD","suburb":"MUSWELLBROOK","state":"NSW","postcode":"2333"},"geometry":null},{"land_title_ref":{"torrens":{"lot":"1","section":null,"dpsp_id":"DP
+        1102585"}},"address":{"street":"Castlerock RD","suburb":"MUSWELLBROOK","state":"NSW","postcode":"2333"},"geometry":null}],"events":[{"id":"494645","timestamp":"2019-05-09T13:26:00+10:00","description":"Registration","event_type":"DA01","status":"COM"},{"id":"494935","timestamp":"2019-05-15T10:08:00+10:00","description":"Advertisement
+        - Proposal","event_type":"DA09","status":"COM"},{"id":"494995","timestamp":"2019-05-16T11:12:00+10:00","description":"Notify
+        Adjoining Owners","event_type":"DA08","status":"COM"}],"documents":[],"people":[{"name":"Mm
+        Hyndes Bailey & Co","role":"Applicant","contact":"0265432475"},{"name":"TBA
+        - Certifier","role":"Principal Certifying Authority","contact":null}],"extended":{"software_vendor":"Civica","software_vendor_url":"http://www.civica.com.au"}}},{"application":{"info":{"dat_id":"017.2019.00000031.001","development_type":"Residential
+        - Alterations & Additions","application_type":"CDC","last_modified_date":"2019-05-13T12:53:23+10:00","description":"Attached
+        Development - Deck","authority":{"ref":"http://datracker.muswellbrook.nsw.gov.au/atdis/1.0","name":"Muswellbrook
+        Shire Council"},"lodgement_date":"2019-05-06T00:00:00+10:00","determination_date":"2019-05-09T00:00:00+10:00","determination_type":"Approved
+        under delegation","status":"Determined","notification_start_date":null,"notification_end_date":null,"officer":"John
+        Rix","estimated_cost":"$7,265.00","related_apps":[]},"reference":{"more_info_url":"http://datracker.muswellbrook.nsw.gov.au/Application/ApplicationDetails/017.2019.00000031.001/","comments_url":null},"locations":[{"land_title_ref":{"torrens":{"lot":"14","section":null,"dpsp_id":"DP
+        237998"}},"address":{"street":"28 Cousins ST","suburb":"MUSWELLBROOK","state":"NSW","postcode":"2333"},"geometry":null}],"events":[{"id":"494796","timestamp":"2019-05-09T13:05:00+10:00","description":"CDC
+        Determination","event_type":"CDC5","status":"COM"}],"documents":[],"people":[{"name":"Andrea
+        Dale","role":"Applicant","contact":null},{"name":"Stevie-Lea Turpeinen","role":"Applicant","contact":null},{"name":"Andrea
+        Dale","role":"Builder","contact":null},{"name":"TBA - Certifier","role":"Principal
+        Certifying Authority","contact":null}],"extended":{"software_vendor":"Civica","software_vendor_url":"http://www.civica.com.au"}}},{"application":{"info":{"dat_id":"005.2019.00000040.001","development_type":"Residential
+        - Single new dwelling","application_type":"DA","last_modified_date":"2019-05-08T08:40:06+10:00","description":"Dwelling
+        House","authority":{"ref":"http://datracker.muswellbrook.nsw.gov.au/atdis/1.0","name":"Muswellbrook
+        Shire Council"},"lodgement_date":"2019-05-01T00:00:00+10:00","determination_date":null,"determination_type":"Pending","status":"In
+        Progress","notification_start_date":null,"notification_end_date":null,"officer":"Taraqual
+        Bhuiya","estimated_cost":"$427,405.00","related_apps":[]},"reference":{"more_info_url":"http://datracker.muswellbrook.nsw.gov.au/Application/ApplicationDetails/005.2019.00000040.001/","comments_url":null},"locations":[{"land_title_ref":{"torrens":{"lot":"2102","section":null,"dpsp_id":"DP
+        1186437"}},"address":{"street":"13B Grey Gum RD","suburb":"DENMAN","state":"NSW","postcode":"2328"},"geometry":null}],"events":[{"id":"494174","timestamp":"2019-05-01T15:58:00+10:00","description":"Registration","event_type":"DA01","status":"COM"},{"id":"494557","timestamp":"2019-05-08T10:14:00+10:00","description":"Advertisement
+        - Proposal","event_type":"DA09","status":"COM"},{"id":"494602","timestamp":"2019-05-08T15:47:00+10:00","description":"Notify
+        Adjoining Owners","event_type":"DA08","status":"COM"}],"documents":[],"people":[{"name":"Justin
+        Perry","role":"Applicant","contact":null},{"name":"Julia Wahl","role":"Applicant","contact":null},{"name":"Newcastle
+        Quality Constructions P/L","role":"Builder","contact":"0249655944"},{"name":"TBA
+        - Certifier","role":"Principal Certifying Authority","contact":null}],"extended":{"software_vendor":"Civica","software_vendor_url":"http://www.civica.com.au"}}},{"application":{"info":{"dat_id":"005.2019.00000039.001","development_type":"Subdivision
+        Only","application_type":"DA","last_modified_date":"2019-05-08T08:38:58+10:00","description":"Boundary
+        Adjustment","authority":{"ref":"http://datracker.muswellbrook.nsw.gov.au/atdis/1.0","name":"Muswellbrook
+        Shire Council"},"lodgement_date":"2019-05-01T00:00:00+10:00","determination_date":null,"determination_type":"Pending","status":"In
+        Progress","notification_start_date":null,"notification_end_date":null,"officer":"Alisa
+        Evans","estimated_cost":"$0.00","related_apps":[]},"reference":{"more_info_url":"http://datracker.muswellbrook.nsw.gov.au/Application/ApplicationDetails/005.2019.00000039.001/","comments_url":null},"locations":[{"land_title_ref":{"torrens":{"lot":"51","section":null,"dpsp_id":"DP
+        811580"}},"address":{"street":"211 Kayuga RD","suburb":"MUSWELLBROOK","state":"NSW","postcode":"2333"},"geometry":null},{"land_title_ref":{"torrens":{"lot":"52","section":null,"dpsp_id":"DP
+        811580"}},"address":{"street":"207 Kayuga RD","suburb":"MUSWELLBROOK","state":"NSW","postcode":"2333"},"geometry":null}],"events":[{"id":"494154","timestamp":"2019-05-01T12:44:00+10:00","description":"Registration","event_type":"DA01","status":"COM"},{"id":"494558","timestamp":"2019-05-08T10:15:00+10:00","description":"Advertisement
+        - Proposal","event_type":"DA09","status":"COM"},{"id":"494595","timestamp":"2019-05-08T14:58:00+10:00","description":"Notify
+        Adjoining Owners","event_type":"DA08","status":"COM"}],"documents":[],"people":[{"name":"Perception
+        Planning","role":"Applicant","contact":null},{"name":"TBA - Certifier","role":"Principal
+        Certifying Authority","contact":null}],"extended":{"software_vendor":"Civica","software_vendor_url":"http://www.civica.com.au"}}},{"application":{"info":{"dat_id":"005.2019.00000037.001","development_type":"Industrial","application_type":"DA","last_modified_date":"2019-04-17T09:18:32+10:00","description":"Construction
+        of Pipes and Pump Infrastructure to Return Seepage Water from Lake Liddell
+        Dam Wall to Lake Liddell","authority":{"ref":"http://datracker.muswellbrook.nsw.gov.au/atdis/1.0","name":"Muswellbrook
+        Shire Council"},"lodgement_date":"2019-04-16T00:00:00+10:00","determination_date":null,"determination_type":"Pending","status":"In
+        Progress","notification_start_date":null,"notification_end_date":null,"officer":"Hamish
+        McTaggart","estimated_cost":"$250,000.00","related_apps":[]},"reference":{"more_info_url":"http://datracker.muswellbrook.nsw.gov.au/Application/ApplicationDetails/005.2019.00000037.001/","comments_url":null},"locations":[{"land_title_ref":{"torrens":{"lot":"102","section":null,"dpsp_id":"DP
+        1053098"}},"address":{"street":"New England HWY","suburb":"MUSWELLBROOK","state":"NSW","postcode":"2333"},"geometry":null},{"land_title_ref":{"torrens":{"lot":"14","section":null,"dpsp_id":"DP
+        1193430"}},"address":{"street":"New England HWY","suburb":"MUSWELLBROOK","state":"NSW","postcode":"2333"},"geometry":null}],"events":[{"id":"493562","timestamp":"2019-04-16T12:41:00+10:00","description":"Registration","event_type":"DA01","status":"COM"},{"id":"493640","timestamp":"2019-04-17T10:08:00+10:00","description":"Advertisement
+        - Proposal","event_type":"DA09","status":"COM"}],"documents":[],"people":[{"name":"AGL
+        Macquarie Pty Ltd","role":"Applicant","contact":"02 6542 0536"},{"name":"TBA
+        - Certifier","role":"Principal Certifying Authority","contact":null}],"extended":{"software_vendor":"Civica","software_vendor_url":"http://www.civica.com.au"}}},{"application":{"info":{"dat_id":"005.2019.00000036.001","development_type":"Industrial","application_type":"DA","last_modified_date":"2019-04-16T15:56:32+10:00","description":"Installation
+        of a 120m Tall Wind Monitoring Mast","authority":{"ref":"http://datracker.muswellbrook.nsw.gov.au/atdis/1.0","name":"Muswellbrook
+        Shire Council"},"lodgement_date":"2019-04-16T00:00:00+10:00","determination_date":null,"determination_type":"Pending","status":"In
+        Progress","notification_start_date":null,"notification_end_date":null,"officer":"Atef
+        Kazi","estimated_cost":"$150,000.00","related_apps":[]},"reference":{"more_info_url":"http://datracker.muswellbrook.nsw.gov.au/Application/ApplicationDetails/005.2019.00000036.001/","comments_url":null},"locations":[{"land_title_ref":{"torrens":{"lot":"197","section":null,"dpsp_id":"DP
+        752444"}},"address":{"street":"Sandy Creek RD","suburb":"MCCULLYS GAP","state":"NSW","postcode":"2333"},"geometry":null},{"land_title_ref":{"torrens":{"lot":"199","section":null,"dpsp_id":"DP
+        752444"}},"address":{"street":"Sandy Creek RD","suburb":"MCCULLYS GAP","state":"NSW","postcode":"2333"},"geometry":null}],"events":[{"id":"493553","timestamp":"2019-04-16T11:47:00+10:00","description":"Registration","event_type":"DA01","status":"COM"},{"id":"493592","timestamp":"2019-04-16T16:17:00+10:00","description":"Advertisement
+        - Proposal","event_type":"DA09","status":"COM"},{"id":"493681","timestamp":"2019-04-18T09:22:00+10:00","description":"Notify
+        Adjoining Owners","event_type":"DA08","status":"COM"}],"documents":[],"people":[{"name":"Epuron
+        Projects Pty Ltd","role":"Applicant","contact":"02 8456 7400"},{"name":"Australian
+        Radio Towers (Renewables) Pty Ltd","role":"Builder","contact":"02 6672 6200"},{"name":"TBA
+        - Certifier","role":"Principal Certifying Authority","contact":null}],"extended":{"software_vendor":"Civica","software_vendor_url":"http://www.civica.com.au"}}},{"application":{"info":{"dat_id":"005.2019.00000035.001","development_type":"Commercial
+        / retail / office","application_type":"DA","last_modified_date":"2019-04-16T15:54:35+10:00","description":"Ancillary
+        Structure (Installation of a 45 Square Metre Electronic Big Screen)","authority":{"ref":"http://datracker.muswellbrook.nsw.gov.au/atdis/1.0","name":"Muswellbrook
+        Shire Council"},"lodgement_date":"2019-04-15T00:00:00+10:00","determination_date":null,"determination_type":"Pending","status":"In
+        Progress","notification_start_date":null,"notification_end_date":null,"officer":"Taraqual
+        Bhuiya","estimated_cost":"$200,000.00","related_apps":[]},"reference":{"more_info_url":"http://datracker.muswellbrook.nsw.gov.au/Application/ApplicationDetails/005.2019.00000035.001/","comments_url":null},"locations":[{"land_title_ref":{"torrens":{"lot":"150","section":null,"dpsp_id":"DP
+        708030"}},"address":{"street":"16 Sheppard AVE","suburb":"MUSWELLBROOK","state":"NSW","postcode":"2333"},"geometry":null}],"events":[{"id":"493538","timestamp":"2019-04-16T09:36:00+10:00","description":"Registration","event_type":"DA01","status":"COM"}],"documents":[],"people":[{"name":"Muswellbrook
+        Race Club Limited","role":"Applicant","contact":null},{"name":"TBA - Certifier","role":"Principal
+        Certifying Authority","contact":null}],"extended":{"software_vendor":"Civica","software_vendor_url":"http://www.civica.com.au"}}},{"application":{"info":{"dat_id":"005.2019.00000034.001","development_type":"Residential
+        - Alterations & Additions","application_type":"DA","last_modified_date":"2019-04-16T15:53:42+10:00","description":"Ancillary
+        Development - Garage","authority":{"ref":"http://datracker.muswellbrook.nsw.gov.au/atdis/1.0","name":"Muswellbrook
+        Shire Council"},"lodgement_date":"2019-04-15T00:00:00+10:00","determination_date":null,"determination_type":"Pending","status":"In
+        Progress","notification_start_date":null,"notification_end_date":null,"officer":"Taraqual
+        Bhuiya","estimated_cost":"$21,294.00","related_apps":[]},"reference":{"more_info_url":"http://datracker.muswellbrook.nsw.gov.au/Application/ApplicationDetails/005.2019.00000034.001/","comments_url":null},"locations":[{"land_title_ref":{"torrens":{"lot":"102","section":null,"dpsp_id":"DP
+        1189782"}},"address":{"street":"53 Palace ST","suburb":"DENMAN","state":"NSW","postcode":"2328"},"geometry":null}],"events":[{"id":"493497","timestamp":"2019-04-15T14:00:00+10:00","description":"Registration","event_type":"DA01","status":"COM"},{"id":"493676","timestamp":"2019-04-18T08:48:00+10:00","description":"Notify
+        Adjoining Owners","event_type":"DA08","status":"COM"}],"documents":[],"people":[{"name":"Stephen
+        Andrews","role":"Applicant","contact":null},{"name":"TBA - Certifier","role":"Principal
+        Certifying Authority","contact":null}],"extended":{"software_vendor":"Civica","software_vendor_url":"http://www.civica.com.au"}}}],"count":10,"pagination":{"previous":null,"next":null,"current":1,"per_page":10,"count":10,"pages":1}}'
+    http_version: 
+  recorded_at: Mon, 13 May 2019 14:00:00 GMT
 recorded_with: VCR 5.0.0
