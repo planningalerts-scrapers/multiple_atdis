@@ -16,7 +16,6 @@ AUTHORITIES = {
 
   # Commenting out ATDIS feeds that used to work but do not appear
   # to be working anymore
-  # cootamundra: "http://myhorizon.cootamundra.nsw.gov.au/Horizon/@@horizondap@@/atdis/1.0/",
   # walgett: "http://myhorizon.walgett.nsw.gov.au/Horizon/@@horizondap@@/atdis/1.0/"
 }
 
