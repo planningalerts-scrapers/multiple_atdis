@@ -3082,6 +3082,26 @@
   on_notice_from: 
   on_notice_to: 
   authority_label: ballina
+- council_reference: 020.2019.00000008.001
+  address: Mining, LIGHTNING RIDGE, NSW 2834
+  description: Class 10b - Fence
+  info_url: http://myhorizon.walgett.nsw.gov.au/Horizon/logonGuest.aw?e=FxkUAB1eSSgbAR0MXx0SGBFSVh0yBwc3GV0eFxcFSUMAIQYHJARfEBMKEiNZACg9HR0CHCUfHBY1QAQsHRAVAlkcGFUPEUcrNBURWDdAAxoQAhVEHS8aNxUCUVUSGBUrWRB9REFEWAJDR0BPRABEcERDRE4eQ0ZITRpVAx8AEhY%3D
+  comment_url: ''
+  date_scraped: '2019-05-14'
+  date_received: '2019-04-24'
+  on_notice_from: 
+  on_notice_to: 
+  authority_label: walgett
+- council_reference: 020.2019.00000009.001
+  address: 18 Morilla Street, LIGHTNING RIDGE, NSW 2834
+  description: Class 10b - Fence
+  info_url: http://myhorizon.walgett.nsw.gov.au/Horizon/logonGuest.aw?e=FxkUAB1eSSgbAR0MXx0SGBFSVh0yBwc3GV0eFxcFSUMAIQYHJARfEBMKEiNZACg9HR0CHCUfHBY1QAQsHRAVAlkcGFUPEUcrNBURWDdAAxoQAhVEHS8aNxUCUVUSGBUrWRB9REFEWAJDR0BPRABEcERDRE8eQ0ZITRpVAx8AEhY%3D
+  comment_url: ''
+  date_scraped: '2019-05-14'
+  date_received: '2019-05-08'
+  on_notice_from: 
+  on_notice_to: 
+  authority_label: walgett
 - council_reference: 023.2009.00001082.002
   address: 4741 Hunter RD, MOONAN FLAT, NSW 2337
   description: Dwelling

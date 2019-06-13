@@ -7194,4 +7194,98 @@ http_interactions:
         Certifying Authority","contact":null}],"extended":{"software_vendor":"Civica","software_vendor_url":"http://www.civica.com.au"}}}],"count":10,"pagination":{"previous":null,"next":null,"current":1,"per_page":10,"count":10,"pages":1}}'
     http_version: 
   recorded_at: Mon, 13 May 2019 14:00:00 GMT
+- request:
+    method: get
+    uri: http://myhorizon.walgett.nsw.gov.au/Horizon/@@horizondap@@/atdis/1.0//applications.json?lodgement_date_end=2019-05-14&lodgement_date_start=2019-04-14
+    body:
+      encoding: US-ASCII
+      string: ''
+    headers:
+      Accept:
+      - "*/*"
+      Accept-Encoding:
+      - gzip, deflate
+      User-Agent:
+      - rest-client/2.0.2 (darwin17.4.0 x86_64) ruby/2.5.1p57
+      Host:
+      - myhorizon.walgett.nsw.gov.au
+  response:
+    status:
+      code: 200
+      message: OK
+    headers:
+      Server:
+      - Apache-Coyote/1.1
+      Set-Cookie:
+      - JSESSIONID=6DF1EF52D46A33CBE2312E234AD2590B; Path=/Horizon/; HttpOnly
+      Content-Type:
+      - application/json;charset=UTF-8
+      Transfer-Encoding:
+      - chunked
+      Date:
+      - Thu, 13 Jun 2019 06:47:35 GMT
+    body:
+      encoding: UTF-8
+      string: "{\r\n\"response\": [ \r\n{\r\n\"application\": {\r\n\"locations\":
+        [ \r\n{\r\n\"address\": {\r\n\"suburb\": \"LIGHTNING RIDGE\", \r\n\"postcode\":
+        \"2834\", \r\n\"state\": \"NSW\", \r\n\"street\": \"18 Morilla Street\"}\r\n,
+        \r\n\"land_title_ref\": {\r\n\"torrens\": {\r\n\"dpsp_id\": \"DP758612\",
+        \r\n\"lot\": \"9\", \r\n\"section\": \"16\"}\r\n}\r\n, \r\n\"geometry\": {\r\n\"type\":
+        \"Point\", \r\n\"coordinates\": \"147.9766#-29.4292\"}\r\n}\r\n] \r\n, \r\n\"extended\":
+        {\r\n\"version\": \"Online Application Tracking Data Interchange Specification
+        1.02 \", \r\n\"software_vendor\": \"SolOrient Pty Ltd\", \r\n\"software_vendor_url\":
+        \"http:\\/\\/www.solorient.com.au\", \r\n\"product\": \"Horizon DA Portal
+        - Build 4.01 Copyright 2017\"}\r\n, \r\n\"reference\": {\r\n\"more_info_url\":
+        \"http:\\/\\/myhorizon.walgett.nsw.gov.au\\/Horizon\\/logonGuest.aw?e=FxkUAB1eSSgbAR0MXx0SGBFSVh0yBwc3GV0eFxcFSUMAIQYHJARfEBMKEiNZACg9HR0CHCUfHBY1QAQsHRAVAlkcGFUPEUcrNBURWDdAAxoQAhVEHS8aNxUCUVUSGBUrWRB9REFEWAJDR0BPRABEcERDRE8eQ0ZITRpVAx8AEhY%3D\"}\r\n,
+        \r\n\"events\": [ \r\n{\r\n\"status\": \"C\", \r\n\"description\": \"Lodged
+        \\/ Referral  to RO\", \r\n\"id\": \"170904\", \r\n\"timestamp\": \"2019-05-08T00:00:00Z\",
+        \r\n\"event_type\": \"LODG\"}\r\n,\r\n{\r\n\"description\": \"Assessment\",
+        \r\n\"id\": \"170905\", \r\n\"timestamp\": \"2019-05-08T00:00:00Z\", \r\n\"event_type\":
+        \"ASST\"}\r\n,\r\n{\r\n\"description\": \"Refer Heritage Advisor\", \r\n\"id\":
+        \"170906\", \r\n\"timestamp\": \"2019-05-09T00:00:00Z\", \r\n\"event_type\":
+        \"RHA\"}\r\n] \r\n, \r\n\"people\": [ \r\n{\r\n\"contact\": \"Council`s Customer
+        Information on (02) 6828 1399.\", \r\n\"name\": \"Walgett Shire Council\",
+        \r\n\"role\": \"PCA\"}\r\n,\r\n{\r\n\"name\": \"Ms J Doyle\", \r\n\"role\":
+        \"Applicant\"}\r\n] \r\n, \r\n\"documents\": [], \r\n\"info\": {\r\n\"development_type\":
+        \"unknown\", \r\n\"notification_end_date\": null, \r\n\"determination_type\":
+        \"Pending\", \r\n\"estimated_cost\": \"$1,595\", \r\n\"status\": \"Open\",
+        \r\n\"lodgement_date\": \"2019-05-08T00:00:00Z\", \r\n\"last_modified_date\":
+        \"2019-05-08T10:10:22Z\", \r\n\"authority\": {\r\n\"name\": \"Walgett Shire
+        Council\", \r\n\"ref\": \"http:\\/\\/myhorizon.walgett.nsw.gov.au\\/Horizon%40%40horizondap%40%40\\/atdis\\/1.0\"}\r\n,
+        \r\n\"officer\": \"Mrs J L McDonald\", \r\n\"dat_id\": \"020.2019.00000009.001\",
+        \r\n\"description\": \"Class 10b - Fence\", \r\n\"determination_date\": null,
+        \r\n\"application_type\": \"DA\"}\r\n}\r\n}\r\n,\r\n{\r\n\"application\":
+        {\r\n\"locations\": [ \r\n{\r\n\"address\": {\r\n\"suburb\": \"LIGHTNING RIDGE\",
+        \r\n\"postcode\": \"2834\", \r\n\"state\": \"NSW\", \r\n\"street\": \"Mining\"}\r\n,
+        \r\n\"land_title_ref\": {\r\n\"torrens\": {\r\n\"dpsp_id\": \"DP1120765\",
+        \r\n\"lot\": \"4\", \r\n\"section\": null}\r\n}\r\n, \r\n\"geometry\": {\r\n\"type\":
+        \"Point\", \r\n\"coordinates\": \"147.9892#-29.4293\"}\r\n}\r\n] \r\n, \r\n\"extended\":
+        {\r\n\"version\": \"Online Application Tracking Data Interchange Specification
+        1.02 \", \r\n\"software_vendor\": \"SolOrient Pty Ltd\", \r\n\"software_vendor_url\":
+        \"http:\\/\\/www.solorient.com.au\", \r\n\"product\": \"Horizon DA Portal
+        - Build 4.01 Copyright 2017\"}\r\n, \r\n\"reference\": {\r\n\"more_info_url\":
+        \"http:\\/\\/myhorizon.walgett.nsw.gov.au\\/Horizon\\/logonGuest.aw?e=FxkUAB1eSSgbAR0MXx0SGBFSVh0yBwc3GV0eFxcFSUMAIQYHJARfEBMKEiNZACg9HR0CHCUfHBY1QAQsHRAVAlkcGFUPEUcrNBURWDdAAxoQAhVEHS8aNxUCUVUSGBUrWRB9REFEWAJDR0BPRABEcERDRE4eQ0ZITRpVAx8AEhY%3D\"}\r\n,
+        \r\n\"events\": [ \r\n{\r\n\"status\": \"APSD\", \r\n\"description\": \"Determination
+        Made\", \r\n\"id\": \"170915\", \r\n\"timestamp\": \"2019-05-24T00:00:00Z\",
+        \r\n\"event_type\": \"DISS\"}\r\n,\r\n{\r\n\"status\": \"C\", \r\n\"description\":
+        \"Lodged \\/ Referral  to RO\", \r\n\"id\": \"170897\", \r\n\"timestamp\":
+        \"2019-04-24T00:00:00Z\", \r\n\"event_type\": \"LODG\"}\r\n,\r\n{\r\n\"status\":
+        \"C\", \r\n\"description\": \"Assessment\", \r\n\"id\": \"170898\", \r\n\"timestamp\":
+        \"2019-04-26T00:00:00Z\", \r\n\"event_type\": \"ASST\"}\r\n] \r\n, \r\n\"people\":
+        [ \r\n{\r\n\"contact\": \"Council`s Customer Information on (02) 6828 1399.\",
+        \r\n\"name\": \"Walgett Shire Council\", \r\n\"role\": \"PCA\"}\r\n,\r\n{\r\n\"name\":
+        \"Mr D Rafferty\", \r\n\"role\": \"Applicant\"}\r\n] \r\n, \r\n\"documents\":
+        [], \r\n\"info\": {\r\n\"development_type\": \"unknown\", \r\n\"notification_end_date\":
+        null, \r\n\"determination_type\": \"Approved - Staff Delegation\", \r\n\"estimated_cost\":
+        \"$4,000\", \r\n\"status\": \"Approved - Staff Delegation\", \r\n\"lodgement_date\":
+        \"2019-04-24T00:00:00Z\", \r\n\"last_modified_date\": \"2019-05-24T16:18:38Z\",
+        \r\n\"authority\": {\r\n\"name\": \"Walgett Shire Council\", \r\n\"ref\":
+        \"http:\\/\\/myhorizon.walgett.nsw.gov.au\\/Horizon%40%40horizondap%40%40\\/atdis\\/1.0\"}\r\n,
+        \r\n\"officer\": \"Mr G Petersen\", \r\n\"dat_id\": \"020.2019.00000008.001\",
+        \r\n\"description\": \"Class 10b - Fence\", \r\n\"determination_date\": \"2019-05-24T00:00:00Z\",
+        \r\n\"application_type\": \"DA\"}\r\n}\r\n}\r\n] \r\n, \r\n\"count\": 2, \r\n\"pagination\":
+        {\r\n\"pages\": 1, \r\n\"per_page\": 20, \r\n\"count\": 2, \r\n\"current\":
+        1}\r\n}\r\n"
+    http_version: 
+  recorded_at: Mon, 13 May 2019 14:00:00 GMT
 recorded_with: VCR 5.0.0
