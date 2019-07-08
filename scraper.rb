@@ -13,7 +13,8 @@ AUTHORITIES = {
   ashfield: "http://mycouncil.solorient.com.au/Horizon/@@horizondap_ashfield@@/atdis/1.0/",
   leeton: "http://203.58.97.252/Horizon/@@horizondap@@/atdis/1.0/",
   muswellbrook: "https://datracker.muswellbrook.nsw.gov.au/atdis/1.0",
-  walgett: "http://myhorizon.walgett.nsw.gov.au/Horizon/@@horizondap@@/atdis/1.0/"
+  walgett: "http://myhorizon.walgett.nsw.gov.au/Horizon/@@horizondap@@/atdis/1.0/",
+  newcastle: "https://property.ncc.nsw.gov.au/T1PRPROD/WebAppServices/ATDIS/atdis/1.0"
 }
 
 exceptions = []
