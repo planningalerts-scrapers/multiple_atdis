@@ -1,4 +1,5 @@
 #!/usr/bin/env ruby
+# frozen_string_literal: true
 
 $LOAD_PATH << "./lib"
 
@@ -44,7 +45,7 @@ AUTHORITIES = {
   newcastle: {
     url: "https://property.ncc.nsw.gov.au/T1PRPROD/WebAppServices/ATDIS/atdis/1.0"
   }
-}
+}.freeze
 
 exceptions = []
 AUTHORITIES.each do |authority_label, params|
@@ -56,15 +57,13 @@ AUTHORITIES.each do |authority_label, params|
     ATDISPlanningAlertsFeed.fetch(params[:url], "Sydney") do |record|
       record[:authority_label] = authority_label.to_s
       puts "Storing #{record[:council_reference]} - #{record[:address]}"
-      ScraperWikiMorph.save_sqlite([:authority_label, :council_reference], record)
+      ScraperWikiMorph.save_sqlite(%i[authority_label council_reference], record)
     end
   rescue StandardError => e
-    STDERR.puts "#{authority_label}: ERROR: #{e}"
-    STDERR.puts e.backtrace
+    warn "#{authority_label}: ERROR: #{e}"
+    warn e.backtrace
     exceptions << e
   end
 end
 
-unless exceptions.empty?
-  raise "There were earlier errors. See output for details"
-end
+raise "There were earlier errors. See output for details" unless exceptions.empty?
