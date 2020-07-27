@@ -30,7 +30,7 @@ AUTHORITIES = {
     url: "http://mycouncil.solorient.com.au/Horizon/@@horizondap_ashfield@@/atdis/1.0/"
   },
   leeton: {
-    url: "http://203.58.97.252/Horizon/@@horizondap@@/atdis/1.0/"
+    url: "http://datracking.leeton.nsw.gov.au/Horizon/@@horizondap@@/atdis/1.0/"
   },
   muswellbrook: {
     url: "https://datracker.muswellbrook.nsw.gov.au/atdis/1.0"
