@@ -1,0 +1,59 @@
+---
+http_interactions:
+- request:
+    method: get
+    uri: http://myhorizon.cootamundra.nsw.gov.au/Horizon/@@horizondap@@/atdis/1.0//applications.json?lodgement_date_end=2016-03-22&lodgement_date_start=2016-02-21
+    body:
+      encoding: US-ASCII
+      string: ''
+    headers:
+      Accept:
+      - "*/*; q=0.5, application/xml"
+      Accept-Encoding:
+      - gzip, deflate
+      User-Agent:
+      - Ruby
+  response:
+    status:
+      code: 500
+      message: Internal Server Error
+    headers:
+      Server:
+      - Apache-Coyote/1.1
+      Content-Type:
+      - text/html;charset=utf-8
+      Content-Length:
+      - '2316'
+      Date:
+      - Tue, 22 Mar 2016 04:48:33 GMT
+      Connection:
+      - close
+    body:
+      encoding: UTF-8
+      string: "<html><head><title>Apache Tomcat/6.0.35 - Error report</title><style><!--H1
+        {font-family:Tahoma,Arial,sans-serif;color:white;background-color:#525D76;font-size:22px;}
+        H2 {font-family:Tahoma,Arial,sans-serif;color:white;background-color:#525D76;font-size:16px;}
+        H3 {font-family:Tahoma,Arial,sans-serif;color:white;background-color:#525D76;font-size:14px;}
+        BODY {font-family:Tahoma,Arial,sans-serif;color:black;background-color:white;}
+        B {font-family:Tahoma,Arial,sans-serif;color:white;background-color:#525D76;}
+        P {font-family:Tahoma,Arial,sans-serif;background:white;color:black;font-size:12px;}A
+        {color : black;}A.name {color : black;}HR {color : #525D76;}--></style> </head><body><h1>HTTP
+        Status 500 - </h1><HR size=\"1\" noshade=\"noshade\"><p><b>type</b> Exception
+        report</p><p><b>message</b> <u></u></p><p><b>description</b> <u>The server
+        encountered an internal error () that prevented it from fulfilling this request.</u></p><p><b>exception</b>
+        <pre>javax.servlet.ServletException: com.bas.connectionserver.server.D: Process
+        implementation component com.solorient.processes.ATDISStreetSelectProcess
+        is not found or has invalid format\n\tcom.bas.webapp.thin.servlets.RESTServlet.A(Unknown
+        Source)\n\tcom.bas.webapp.thin.servlets.RESTServlet.doGet(Unknown Source)\n\tjavax.servlet.http.HttpServlet.service(HttpServlet.java:617)\n\tjavax.servlet.http.HttpServlet.service(HttpServlet.java:717)\n</pre></p><p><b>root
+        cause</b> <pre>com.bas.connectionserver.server.D: Process implementation component
+        com.solorient.processes.ATDISStreetSelectProcess is not found or has invalid
+        format\n\tcom.bas.connectionserver.server.ConnectionFactory.sendMessage(Unknown
+        Source)\n\tcom.bas.webapp.common.WebAppUtils.sendMessageToExecutionEngine(Unknown
+        Source)\n\tcom.bas.webapp.common.WebAppUtils.sendMessageToExecutionEngine(Unknown
+        Source)\n\tcom.bas.webapp.thin.servlets.RESTServlet.A(Unknown Source)\n\tcom.bas.webapp.thin.servlets.RESTServlet.A(Unknown
+        Source)\n\tcom.bas.webapp.thin.servlets.RESTServlet.doGet(Unknown Source)\n\tjavax.servlet.http.HttpServlet.service(HttpServlet.java:617)\n\tjavax.servlet.http.HttpServlet.service(HttpServlet.java:717)\n</pre></p><p><b>note</b>
+        <u>The full stack trace of the root cause is available in the Apache Tomcat/6.0.35
+        logs.</u></p><HR size=\"1\" noshade=\"noshade\"><h3>Apache Tomcat/6.0.35</h3></body></html>"
+    http_version: 
+  recorded_at: Tue, 22 Mar 2016 04:48:33 GMT
+recorded_with: VCR 3.0.1

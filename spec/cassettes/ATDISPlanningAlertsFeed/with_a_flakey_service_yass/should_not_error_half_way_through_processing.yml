@@ -1,0 +1,679 @@
+---
+http_interactions:
+- request:
+    method: get
+    uri: http://mycouncil.yass.nsw.gov.au/Horizon/@@horizondap@@/atdis/1.0//applications.json?lodgement_date_end=2016-03-22&lodgement_date_start=2016-02-21
+    body:
+      encoding: US-ASCII
+      string: ''
+    headers:
+      Accept:
+      - "*/*; q=0.5, application/xml"
+      Accept-Encoding:
+      - gzip, deflate
+      User-Agent:
+      - Ruby
+  response:
+    status:
+      code: 200
+      message: OK
+    headers:
+      Server:
+      - Apache-Coyote/1.1
+      Set-Cookie:
+      - JSESSIONID=A3FA26B81FEF70E2B97BBACA71FAC046; Path=/Horizon/; HttpOnly
+      P3p:
+      - CP="NOI ADM DEV PSAi COM NAV OUR OTRo STP IND DEM"
+      Content-Type:
+      - application/json;charset=UTF-8
+      Transfer-Encoding:
+      - chunked
+      Date:
+      - Tue, 22 Mar 2016 05:18:28 GMT
+    body:
+      encoding: UTF-8
+      string: "{\r\n\"response\": [ \r\n{\r\n\"application\": {\r\n\"reference\":
+        {\r\n\"more_info_url\": \"http:\\/\\/mycouncil.yass.nsw.gov.au\\/Horizon\\/logonGuest.aw?e=FxkUAB1eSSgbAR0MXx0SGBFSVh0yBwc3GV0eFxcFSUMAIQYHJARfEBMKEiNZACg9HR0CHCUfHBY1QAQsHRAVAlkcGFUPEUcrNBURWDdAAxoQAhVEHS8aNxUCUVUSGBUrWRB9RENBWAJDR09PRABEcERDQk8eQ0ZITRpVAx8AEhY%3D\"}\r\n,
+        \r\n\"extended\": {\r\n\"sid\": 2, \r\n\"version\": \"Online Application Tracking
+        Data Interchange Specification 1.02 \", \r\n\"software_vendor_url\": \"http:\\/\\/www.solorient.com.au\",
+        \r\n\"software_vendor\": \"SolOrient Pty Ltd\", \r\n\"product\": \"Horizon
+        DA Portal - Build 3.18 Copyright 2016\"}\r\n, \r\n\"locations\": [ \r\n{\r\n\"address\":
+        {\r\n\"suburb\": \"BINALONG\", \r\n\"postcode\": \"2584\", \r\n\"state\":
+        \"NSW\", \r\n\"street\": \"14 Wellington Street\"}\r\n, \r\n\"land_title_ref\":
+        {\r\n\"torrens\": {\r\n\"dpsp_id\": \"DP818129\", \r\n\"lot\": \"1\", \r\n\"section\":
+        null}\r\n}\r\n, \r\n\"geometry\": {\r\n\"type\": \"Point\", \r\n\"coordinates\":
+        [148.635000, \r\n-34.672600]}\r\n}\r\n] \r\n, \r\n\"events\": [ \r\n{\r\n\"description\":
+        \"Distribution of DA\", \r\n\"timestamp\": \"2016-03-21T00:00:00Z\", \r\n\"id\":
+        \"249818\", \r\n\"event_type\": \"DIST\"}\r\n,\r\n{\r\n\"status\": \"COMP\",
+        \r\n\"description\": \"Acknowledgement Letter\", \r\n\"timestamp\": \"2016-03-21T00:00:00Z\",
+        \r\n\"id\": \"249825\", \r\n\"event_type\": \"ACKM\"}\r\n,\r\n{\r\n\"status\":
+        \"COMP\", \r\n\"description\": \"Lodgement of Development Appli\", \r\n\"timestamp\":
+        \"2016-03-21T00:00:00Z\", \r\n\"id\": \"249817\", \r\n\"event_type\": \"LDG\"}\r\n]
+        \r\n, \r\n\"documents\": [], \r\n\"people\": [ \r\n{\r\n\"name\": \"Builder
+        to be Advised\", \r\n\"role\": \"Builder\"}\r\n,\r\n{\r\n\"contact\": \"Council`s
+        Customer Information on (02) 6226 1477\", \r\n\"name\": \"Yass Valley Council\",
+        \r\n\"role\": \"PCA\"}\r\n,\r\n{\r\n\"name\": \"Ms W E Rowe\", \r\n\"role\":
+        \"Applicant\"}\r\n] \r\n, \r\n\"info\": {\r\n\"development_type\": \"Residential
+        - Single new dwelling\", \r\n\"notification_end_date\": null, \r\n\"determination_type\":
+        \"Pending\", \r\n\"estimated_cost\": \"$260,000\", \r\n\"status\": \"Open\",
+        \r\n\"lodgement_date\": \"2016-03-21T00:00:00Z\", \r\n\"last_modified_date\":
+        \"2016-03-21T15:33:26Z\", \r\n\"authority\": {\r\n\"name\": \"Yass Valley
+        Council\", \r\n\"ref\": \"http:\\/\\/mycouncil.yass.nsw.gov.au\\/Horizon%40%40horizondap%40%40\\/atdis\\/1.0\"}\r\n,
+        \r\n\"officer\": \"Mr J S Mannweiler\", \r\n\"dat_id\": \"005.2016.00000069.001\",
+        \r\n\"description\": \"Dwelling House and Septic Tank with Absorption Trench\",
+        \r\n\"determination_date\": null, \r\n\"application_type\": \"DA\"}\r\n}\r\n}\r\n,\r\n{\r\n\"application\":
+        {\r\n\"reference\": {\r\n\"more_info_url\": \"http:\\/\\/mycouncil.yass.nsw.gov.au\\/Horizon\\/logonGuest.aw?e=FxkUAB1eSSgbAR0MXx0SGBFSVh0yBwc3GV0eFxcFSUMAIQYHJARfEBMKEiNZACg9HR0CHCUfHBY1QAQsHRAVAlkcGFUPEUcrNBURWDdAAxoQAhVEHS8aNxUCUVUSGBUrWRB9RENBWAJDR01PRABEcERBRkQeQ0ZLTRpVAx8AEhY%3D\"}\r\n,
+        \r\n\"extended\": {\r\n\"sid\": 1, \r\n\"version\": \"Online Application Tracking
+        Data Interchange Specification 1.02 \", \r\n\"software_vendor_url\": \"http:\\/\\/www.solorient.com.au\",
+        \r\n\"software_vendor\": \"SolOrient Pty Ltd\", \r\n\"product\": \"Horizon
+        DA Portal - Build 3.18 Copyright 2016\"}\r\n, \r\n\"locations\": [ \r\n{\r\n\"address\":
+        {\r\n\"suburb\": \"YASS\", \r\n\"postcode\": \"2582\", \r\n\"state\": \"NSW\",
+        \r\n\"street\": \"62 Petit Street\"}\r\n, \r\n\"land_title_ref\": {\r\n\"torrens\":
+        {\r\n\"dpsp_id\": \"DP248285\", \r\n\"lot\": \"74\", \r\n\"section\": null}\r\n}\r\n,
+        \r\n\"geometry\": {\r\n\"type\": \"Point\", \r\n\"coordinates\": [148.913000,
+        \r\n-34.852000]}\r\n}\r\n] \r\n, \r\n\"events\": [ \r\n{\r\n\"description\":
+        \"No Events\", \r\n\"timestamp\": \"2016-03-21T00:00:00Z\", \r\n\"id\": \"0\",
+        \r\n\"event_type\": \"NIL\"}\r\n] \r\n, \r\n\"documents\": [], \r\n\"people\":
+        [ \r\n{\r\n\"name\": \"Builder to be Advised\", \r\n\"role\": \"Builder\"}\r\n,\r\n{\r\n\"name\":
+        \"Ms P M O'Neill\", \r\n\"role\": \"Applicant\"}\r\n,\r\n{\r\n\"contact\":
+        \"Council`s Customer Information on (02) 6226 1477\", \r\n\"name\": \"Yass
+        Valley Council\", \r\n\"role\": \"PCA\"}\r\n] \r\n, \r\n\"info\": {\r\n\"development_type\":
+        \"Residential - Single new dwelling\", \r\n\"notification_end_date\": null,
+        \r\n\"determination_type\": \"Pending\", \r\n\"estimated_cost\": \"$75,000\",
+        \r\n\"status\": \"Open\", \r\n\"lodgement_date\": \"2016-03-21T00:00:00Z\",
+        \r\n\"last_modified_date\": \"2016-03-21T10:37:09Z\", \r\n\"authority\": {\r\n\"name\":
+        \"Yass Valley Council\", \r\n\"ref\": \"http:\\/\\/mycouncil.yass.nsw.gov.au\\/Horizon%40%40horizondap%40%40\\/atdis\\/1.0\"}\r\n,
+        \r\n\"officer\": \"Mr J S Mannweiler\", \r\n\"dat_id\": \"005.2014.00000222.002\",
+        \r\n\"description\": \"Dwelling House\", \r\n\"determination_date\": null,
+        \r\n\"application_type\": \"DA\"}\r\n}\r\n}\r\n,\r\n{\r\n\"application\":
+        {\r\n\"reference\": {\r\n\"more_info_url\": \"http:\\/\\/mycouncil.yass.nsw.gov.au\\/Horizon\\/logonGuest.aw?e=FxkUAB1eSSgbAR0MXx0SGBFSVh0yBwc3GV0eFxcFSUMAIQYHJARfEBMKEiNZACg9HR0CHCUfHBY1QAQsHRAVAlkcGFUPEUcrNBURWDdAAxoQAhVEHS8aNxUCUVUSGBUrWRB9RENBWAJDR09PRABEcERDQ0YeQ0ZITRpVAx8AEhY%3D\"}\r\n,
+        \r\n\"extended\": {\r\n\"sid\": 3, \r\n\"version\": \"Online Application Tracking
+        Data Interchange Specification 1.02 \", \r\n\"software_vendor_url\": \"http:\\/\\/www.solorient.com.au\",
+        \r\n\"software_vendor\": \"SolOrient Pty Ltd\", \r\n\"product\": \"Horizon
+        DA Portal - Build 3.18 Copyright 2016\"}\r\n, \r\n\"locations\": [ \r\n{\r\n\"address\":
+        {\r\n\"suburb\": \"YASS\", \r\n\"postcode\": \"2582\", \r\n\"state\": \"NSW\",
+        \r\n\"street\": \"14 Barber Street\"}\r\n, \r\n\"land_title_ref\": {\r\n\"torrens\":
+        {\r\n\"dpsp_id\": \"DP1076339\", \r\n\"lot\": \"25\", \r\n\"section\": null}\r\n}\r\n,
+        \r\n\"geometry\": {\r\n\"type\": \"Point\", \r\n\"coordinates\": [148.922000,
+        \r\n-34.846600]}\r\n}\r\n] \r\n, \r\n\"events\": [ \r\n{\r\n\"status\": \"COMP\",
+        \r\n\"description\": \"Lodgement of Development Appli\", \r\n\"timestamp\":
+        \"2016-03-21T00:00:00Z\", \r\n\"id\": \"249819\", \r\n\"event_type\": \"LDG\"}\r\n,\r\n{\r\n\"description\":
+        \"Distribution of DA\", \r\n\"timestamp\": \"2016-03-21T00:00:00Z\", \r\n\"id\":
+        \"249820\", \r\n\"event_type\": \"DIST\"}\r\n] \r\n, \r\n\"documents\": [],
+        \r\n\"people\": [ \r\n{\r\n\"name\": \"Mr M J Blyss\", \r\n\"role\": \"Applicant\"}\r\n,\r\n{\r\n\"name\":
+        \"ACN 109 626 280 Pty Ltd\", \r\n\"role\": \"Builder\"}\r\n,\r\n{\r\n\"name\":
+        \"Mrs C L Blyss\", \r\n\"role\": \"Applicant\"}\r\n,\r\n{\r\n\"contact\":
+        \"Council`s Customer Information on (02) 6226 1477\", \r\n\"name\": \"Yass
+        Valley Council\", \r\n\"role\": \"PCA\"}\r\n] \r\n, \r\n\"info\": {\r\n\"development_type\":
+        \"Residential - Other\", \r\n\"notification_end_date\": null, \r\n\"determination_type\":
+        \"Pending\", \r\n\"estimated_cost\": \"$17,235\", \r\n\"status\": \"Open\",
+        \r\n\"lodgement_date\": \"2016-03-21T00:00:00Z\", \r\n\"last_modified_date\":
+        \"2016-03-21T16:03:30Z\", \r\n\"authority\": {\r\n\"name\": \"Yass Valley
+        Council\", \r\n\"ref\": \"http:\\/\\/mycouncil.yass.nsw.gov.au\\/Horizon%40%40horizondap%40%40\\/atdis\\/1.0\"}\r\n,
+        \r\n\"officer\": \"Mr J S Mannweiler\", \r\n\"dat_id\": \"005.2016.00000070.001\",
+        \r\n\"description\": \"Storage Shed\", \r\n\"determination_date\": null, \r\n\"application_type\":
+        \"DA\"}\r\n}\r\n}\r\n,\r\n{\r\n\"application\": {\r\n\"reference\": {\r\n\"more_info_url\":
+        \"http:\\/\\/mycouncil.yass.nsw.gov.au\\/Horizon\\/logonGuest.aw?e=FxkUAB1eSSgbAR0MXx0SGBFSVh0yBwc3GV0eFxcFSUMAIQYHJARfEBMKEiNZACg9HR0CHCUfHBY1QAQsHRAVAlkcGFUPEUcrNBURWDdAAxoQAhVEHS8aNxUCUVUSGBUrWRB9RENBWAJDR09PRABEcERDQkEeQ0ZITRpVAx8AEhY%3D\"}\r\n,
+        \r\n\"extended\": {\r\n\"sid\": 4, \r\n\"version\": \"Online Application Tracking
+        Data Interchange Specification 1.02 \", \r\n\"software_vendor_url\": \"http:\\/\\/www.solorient.com.au\",
+        \r\n\"software_vendor\": \"SolOrient Pty Ltd\", \r\n\"product\": \"Horizon
+        DA Portal - Build 3.18 Copyright 2016\"}\r\n, \r\n\"locations\": [ \r\n{\r\n\"address\":
+        {\r\n\"suburb\": \"MARCHMONT\", \r\n\"postcode\": \"2582\", \r\n\"state\":
+        \"NSW\", \r\n\"street\": \"1 Buckley Road\"}\r\n, \r\n\"land_title_ref\":
+        {\r\n\"torrens\": {\r\n\"dpsp_id\": \"DP270631\", \r\n\"lot\": \"36\", \r\n\"section\":
+        null}\r\n}\r\n, \r\n\"geometry\": {\r\n\"type\": \"Point\", \r\n\"coordinates\":
+        [148.945000, \r\n-34.892800]}\r\n}\r\n] \r\n, \r\n\"events\": [ \r\n{\r\n\"status\":
+        \"COMP\", \r\n\"description\": \"Lodgement of Development Appli\", \r\n\"timestamp\":
+        \"2016-03-18T00:00:00Z\", \r\n\"id\": \"249795\", \r\n\"event_type\": \"LDG\"}\r\n,\r\n{\r\n\"description\":
+        \"Distribution of DA\", \r\n\"timestamp\": \"2016-03-18T00:00:00Z\", \r\n\"id\":
+        \"249796\", \r\n\"event_type\": \"DIST\"}\r\n] \r\n, \r\n\"documents\": [],
+        \r\n\"people\": [ \r\n{\r\n\"contact\": \"Council`s Customer Information on
+        (02) 6226 1477\", \r\n\"name\": \"Yass Valley Council\", \r\n\"role\": \"PCA\"}\r\n,\r\n{\r\n\"name\":
+        \"Ms D H Hore\", \r\n\"role\": \"Applicant\"}\r\n] \r\n, \r\n\"info\": {\r\n\"development_type\":
+        \"Residential - Other\", \r\n\"notification_end_date\": null, \r\n\"determination_type\":
+        \"Pending\", \r\n\"estimated_cost\": \"$9,249\", \r\n\"status\": \"Open\",
+        \r\n\"lodgement_date\": \"2016-03-18T00:00:00Z\", \r\n\"last_modified_date\":
+        \"2016-03-18T11:56:08Z\", \r\n\"authority\": {\r\n\"name\": \"Yass Valley
+        Council\", \r\n\"ref\": \"http:\\/\\/mycouncil.yass.nsw.gov.au\\/Horizon%40%40horizondap%40%40\\/atdis\\/1.0\"}\r\n,
+        \r\n\"officer\": \"Mr J S Mannweiler\", \r\n\"dat_id\": \"005.2016.00000067.001\",
+        \r\n\"description\": \"Farm\\/Storage Shed\", \r\n\"determination_date\":
+        null, \r\n\"application_type\": \"DA\"}\r\n}\r\n}\r\n,\r\n{\r\n\"application\":
+        {\r\n\"reference\": {\r\n\"more_info_url\": \"http:\\/\\/mycouncil.yass.nsw.gov.au\\/Horizon\\/logonGuest.aw?e=FxkUAB1eSSgbAR0MXx0SGBFSVh0yBwc3GV0eFxcFSUMAIQYHJARfEBMKEiNZACg9HR0CHCUfHBY1QAQsHRAVAlkcGFUPEUcrNBURWDdAAxoQAhVEHS8aNxUCUVUSGBUrWRB9RENBWAJDR09PRABEcERDQk4eQ0ZITRpVAx8AEhY%3D\"}\r\n,
+        \r\n\"extended\": {\r\n\"sid\": 5, \r\n\"version\": \"Online Application Tracking
+        Data Interchange Specification 1.02 \", \r\n\"software_vendor_url\": \"http:\\/\\/www.solorient.com.au\",
+        \r\n\"software_vendor\": \"SolOrient Pty Ltd\", \r\n\"product\": \"Horizon
+        DA Portal - Build 3.18 Copyright 2016\"}\r\n, \r\n\"locations\": [ \r\n{\r\n\"address\":
+        {\r\n\"suburb\": \"YASS\", \r\n\"postcode\": \"2582\", \r\n\"state\": \"NSW\",
+        \r\n\"street\": \"2B Mort Lane\"}\r\n, \r\n\"land_title_ref\": {\r\n\"torrens\":
+        {\r\n\"dpsp_id\": \"DP1192707\", \r\n\"lot\": \"40\", \r\n\"section\": null}\r\n}\r\n,
+        \r\n\"geometry\": {\r\n\"type\": \"Point\", \r\n\"coordinates\": [148.928000,
+        \r\n-34.844800]}\r\n}\r\n] \r\n, \r\n\"events\": [ \r\n{\r\n\"status\": \"COMP\",
+        \r\n\"description\": \"Lodgement of Development Appli\", \r\n\"timestamp\":
+        \"2016-03-18T00:00:00Z\", \r\n\"id\": \"249806\", \r\n\"event_type\": \"LDG\"}\r\n,\r\n{\r\n\"status\":
+        \"COMP\", \r\n\"description\": \"Acknowledgement Letter\", \r\n\"timestamp\":
+        \"2016-03-18T00:00:00Z\", \r\n\"id\": \"249808\", \r\n\"event_type\": \"ACKM\"}\r\n,\r\n{\r\n\"description\":
+        \"Distribution of DA\", \r\n\"timestamp\": \"2016-03-18T00:00:00Z\", \r\n\"id\":
+        \"249807\", \r\n\"event_type\": \"DIST\"}\r\n] \r\n, \r\n\"documents\": [],
+        \r\n\"people\": [ \r\n{\r\n\"name\": \"Miss R J Pollack\", \r\n\"role\": \"Applicant\"}\r\n,\r\n{\r\n\"contact\":
+        \"Council`s Customer Information on (02) 6226 1477\", \r\n\"name\": \"Yass
+        Valley Council\", \r\n\"role\": \"PCA\"}\r\n,\r\n{\r\n\"name\": \"Builder
+        to be Advised\", \r\n\"role\": \"Builder\"}\r\n] \r\n, \r\n\"info\": {\r\n\"development_type\":
+        \"Residential - Single new dwelling\", \r\n\"notification_end_date\": null,
+        \r\n\"determination_type\": \"Pending\", \r\n\"estimated_cost\": \"$365,000\",
+        \r\n\"status\": \"Open\", \r\n\"lodgement_date\": \"2016-03-18T00:00:00Z\",
+        \r\n\"last_modified_date\": \"2016-03-18T14:26:03Z\", \r\n\"authority\": {\r\n\"name\":
+        \"Yass Valley Council\", \r\n\"ref\": \"http:\\/\\/mycouncil.yass.nsw.gov.au\\/Horizon%40%40horizondap%40%40\\/atdis\\/1.0\"}\r\n,
+        \r\n\"officer\": \"Mr J S Mannweiler\", \r\n\"dat_id\": \"005.2016.00000068.001\",
+        \r\n\"description\": \"Dwelling House\", \r\n\"determination_date\": null,
+        \r\n\"application_type\": \"DA\"}\r\n}\r\n}\r\n,\r\n{\r\n\"application\":
+        {\r\n\"reference\": {\r\n\"more_info_url\": \"http:\\/\\/mycouncil.yass.nsw.gov.au\\/Horizon\\/logonGuest.aw?e=FxkUAB1eSSgbAR0MXx0SGBFSVh0yBwc3GV0eFxcFSUMAIQYHJARfEBMKEiNZACg9HR0CHCUfHBY1QAQsHRAVAlkcGFUPEUcrNBURWDdAAxoQAhVEHS8aNxUCUVUSGBUrWRB9RENBWAJDR09PRABEcERDQkAeQ0ZITRpVAx8AEhY%3D\"}\r\n,
+        \r\n\"extended\": {\r\n\"sid\": 6, \r\n\"version\": \"Online Application Tracking
+        Data Interchange Specification 1.02 \", \r\n\"software_vendor_url\": \"http:\\/\\/www.solorient.com.au\",
+        \r\n\"software_vendor\": \"SolOrient Pty Ltd\", \r\n\"product\": \"Horizon
+        DA Portal - Build 3.18 Copyright 2016\"}\r\n, \r\n\"locations\": [ \r\n{\r\n\"address\":
+        {\r\n\"suburb\": \"GUNDAROO\", \r\n\"postcode\": \"2620\", \r\n\"state\":
+        \"NSW\", \r\n\"street\": \"71 Cork Street\"}\r\n, \r\n\"land_title_ref\":
+        {\r\n\"torrens\": {\r\n\"dpsp_id\": \"DP758488\", \r\n\"lot\": \"14\", \r\n\"section\":
+        \"17\"}\r\n}\r\n, \r\n\"geometry\": {\r\n\"type\": \"Point\", \r\n\"coordinates\":
+        [149.267000, \r\n-35.023500]}\r\n}\r\n] \r\n, \r\n\"events\": [ \r\n{\r\n\"status\":
+        \"COMP\", \r\n\"description\": \"Distribution of DA\", \r\n\"timestamp\":
+        \"2016-03-18T00:00:00Z\", \r\n\"id\": \"249784\", \r\n\"event_type\": \"DIST\"}\r\n,\r\n{\r\n\"status\":
+        \"COMP\", \r\n\"description\": \"Lodgement of Development Appli\", \r\n\"timestamp\":
+        \"2016-03-17T00:00:00Z\", \r\n\"id\": \"249783\", \r\n\"event_type\": \"LDG\"}\r\n,\r\n{\r\n\"status\":
+        \"COMP\", \r\n\"description\": \"Acknowledgement Letter\", \r\n\"timestamp\":
+        \"2016-03-18T00:00:00Z\", \r\n\"id\": \"249785\", \r\n\"event_type\": \"ACKM\"}\r\n]
+        \r\n, \r\n\"documents\": [], \r\n\"people\": [ \r\n{\r\n\"name\": \"Certifier
+        to be Advised\", \r\n\"role\": \"PCA\"}\r\n,\r\n{\r\n\"name\": \"Tim Lee Architects\",
+        \r\n\"role\": \"Applicant\"}\r\n] \r\n, \r\n\"info\": {\r\n\"development_type\":
+        \"Residential - Alterations & Additions\", \r\n\"notification_end_date\":
+        null, \r\n\"determination_type\": \"Pending\", \r\n\"estimated_cost\": \"$40,000\",
+        \r\n\"status\": \"Open\", \r\n\"lodgement_date\": \"2016-03-17T00:00:00Z\",
+        \r\n\"last_modified_date\": \"2016-03-21T16:14:17Z\", \r\n\"authority\": {\r\n\"name\":
+        \"Yass Valley Council\", \r\n\"ref\": \"http:\\/\\/mycouncil.yass.nsw.gov.au\\/Horizon%40%40horizondap%40%40\\/atdis\\/1.0\"}\r\n,
+        \r\n\"officer\": \"Mr J P Guiney\", \r\n\"dat_id\": \"005.2016.00000066.001\",
+        \r\n\"description\": \"New Sunroom and Covered Pergola\", \r\n\"determination_date\":
+        null, \r\n\"application_type\": \"DA\"}\r\n}\r\n}\r\n,\r\n{\r\n\"application\":
+        {\r\n\"reference\": {\r\n\"more_info_url\": \"http:\\/\\/mycouncil.yass.nsw.gov.au\\/Horizon\\/logonGuest.aw?e=FxkUAB1eSSgbAR0MXx0SGBFSVh0yBwc3GV0eFxcFSUMAIQYHJARfEBMKEiNZACg9HR0CHCUfHBY1QAQsHRAVAlkcGFUPEUcrNBURWDdAAxoQAhVEHS8aNxUCUVUSGBUrWRB9RENBWAJDR09PRABEcERDQkUeQ0ZITRpVAx8AEhY%3D\"}\r\n,
+        \r\n\"extended\": {\r\n\"sid\": 7, \r\n\"version\": \"Online Application Tracking
+        Data Interchange Specification 1.02 \", \r\n\"software_vendor_url\": \"http:\\/\\/www.solorient.com.au\",
+        \r\n\"software_vendor\": \"SolOrient Pty Ltd\", \r\n\"product\": \"Horizon
+        DA Portal - Build 3.18 Copyright 2016\"}\r\n, \r\n\"locations\": [ \r\n{\r\n\"address\":
+        {\r\n\"suburb\": \"GUNDAROO\", \r\n\"postcode\": \"2620\", \r\n\"state\":
+        \"NSW\", \r\n\"street\": \"591 Marked Tree Road\"}\r\n, \r\n\"land_title_ref\":
+        {\r\n\"torrens\": {\r\n\"dpsp_id\": \"DP854257\", \r\n\"lot\": \"6\", \r\n\"section\":
+        null}\r\n}\r\n, \r\n\"geometry\": {\r\n\"type\": \"Point\", \r\n\"coordinates\":
+        [149.336000, \r\n-35.018600]}\r\n}\r\n] \r\n, \r\n\"events\": [ \r\n{\r\n\"status\":
+        \"COMP\", \r\n\"description\": \"Acknowledgement Letter\", \r\n\"timestamp\":
+        \"2016-03-15T00:00:00Z\", \r\n\"id\": \"249715\", \r\n\"event_type\": \"ACKM\"}\r\n,\r\n{\r\n\"status\":
+        \"COMP\", \r\n\"description\": \"Lodgement of Development Appli\", \r\n\"timestamp\":
+        \"2016-03-15T00:00:00Z\", \r\n\"id\": \"249709\", \r\n\"event_type\": \"LDG\"}\r\n,\r\n{\r\n\"description\":
+        \"Distribution of DA\", \r\n\"timestamp\": \"2016-03-15T00:00:00Z\", \r\n\"id\":
+        \"249710\", \r\n\"event_type\": \"DIST\"}\r\n] \r\n, \r\n\"documents\": [],
+        \r\n\"people\": [ \r\n{\r\n\"contact\": \"Council`s Customer Information on
+        (02) 6226 1477\", \r\n\"name\": \"Yass Valley Council\", \r\n\"role\": \"PCA\"}\r\n,\r\n{\r\n\"name\":
+        \"Mr I A Price\", \r\n\"role\": \"Applicant\"}\r\n,\r\n{\r\n\"name\": \"Builder
+        to be Advised\", \r\n\"role\": \"Builder\"}\r\n] \r\n, \r\n\"info\": {\r\n\"development_type\":
+        \"Residential - Other\", \r\n\"notification_end_date\": null, \r\n\"determination_type\":
+        \"Pending\", \r\n\"estimated_cost\": \"$16,740\", \r\n\"status\": \"Open\",
+        \r\n\"lodgement_date\": \"2016-03-15T00:00:00Z\", \r\n\"last_modified_date\":
+        \"2016-03-15T12:21:17Z\", \r\n\"authority\": {\r\n\"name\": \"Yass Valley
+        Council\", \r\n\"ref\": \"http:\\/\\/mycouncil.yass.nsw.gov.au\\/Horizon%40%40horizondap%40%40\\/atdis\\/1.0\"}\r\n,
+        \r\n\"officer\": \"Mr J S Mannweiler\", \r\n\"dat_id\": \"005.2016.00000063.001\",
+        \r\n\"description\": \"Storage Shed\", \r\n\"determination_date\": null, \r\n\"application_type\":
+        \"DA\"}\r\n}\r\n}\r\n,\r\n{\r\n\"application\": {\r\n\"reference\": {\r\n\"more_info_url\":
+        \"http:\\/\\/mycouncil.yass.nsw.gov.au\\/Horizon\\/logonGuest.aw?e=FxkUAB1eSSgbAR0MXx0SGBFSVh0yBwc3GV0eFxcFSUMAIQYHJARfEBMKEiNZACg9HR0CHCUfHBY1QAQsHRAVAlkcGFUPEUcrNBURWDdAAxoQAhVEHS8aNxUCUVUSGBUrWRB9RENBWAJDR09PRABEcERDQkMeQ0ZITRpVAx8AEhY%3D\"}\r\n,
+        \r\n\"extended\": {\r\n\"sid\": 9, \r\n\"version\": \"Online Application Tracking
+        Data Interchange Specification 1.02 \", \r\n\"software_vendor_url\": \"http:\\/\\/www.solorient.com.au\",
+        \r\n\"software_vendor\": \"SolOrient Pty Ltd\", \r\n\"product\": \"Horizon
+        DA Portal - Build 3.18 Copyright 2016\"}\r\n, \r\n\"locations\": [ \r\n{\r\n\"address\":
+        {\r\n\"suburb\": \"YASS\", \r\n\"postcode\": \"2582\", \r\n\"state\": \"NSW\",
+        \r\n\"street\": \"38 Zouch Road\"}\r\n, \r\n\"land_title_ref\": {\r\n\"torrens\":
+        {\r\n\"dpsp_id\": \"DP1074516\", \r\n\"lot\": \"4\", \r\n\"section\": null}\r\n}\r\n,
+        \r\n\"geometry\": {\r\n\"type\": \"Point\", \r\n\"coordinates\": [148.896000,
+        \r\n-34.782100]}\r\n}\r\n] \r\n, \r\n\"events\": [ \r\n{\r\n\"description\":
+        \"Health & Env Officer Assess\", \r\n\"timestamp\": \"2016-03-18T00:00:00Z\",
+        \r\n\"id\": \"249800\", \r\n\"event_type\": \"HOA\"}\r\n,\r\n{\r\n\"description\":
+        \"Building Officer Assessment\", \r\n\"timestamp\": \"2016-03-18T00:00:00Z\",
+        \r\n\"id\": \"249802\", \r\n\"event_type\": \"BOA\"}\r\n,\r\n{\r\n\"description\":
+        \"Planning Officer Assessment\", \r\n\"timestamp\": \"2016-03-18T00:00:00Z\",
+        \r\n\"id\": \"249801\", \r\n\"event_type\": \"POA\"}\r\n,\r\n{\r\n\"status\":
+        \"COMP\", \r\n\"description\": \"Acknowledgement Letter\", \r\n\"timestamp\":
+        \"2016-03-15T00:00:00Z\", \r\n\"id\": \"249729\", \r\n\"event_type\": \"ACKM\"}\r\n,\r\n{\r\n\"status\":
+        \"COMP\", \r\n\"description\": \"Lodgement of Development Appli\", \r\n\"timestamp\":
+        \"2016-03-15T00:00:00Z\", \r\n\"id\": \"249726\", \r\n\"event_type\": \"LDG\"}\r\n,\r\n{\r\n\"status\":
+        \"COMP\", \r\n\"description\": \"Distribution of DA\", \r\n\"timestamp\":
+        \"2016-03-15T00:00:00Z\", \r\n\"id\": \"249727\", \r\n\"event_type\": \"DIST\"}\r\n]
+        \r\n, \r\n\"documents\": [], \r\n\"people\": [ \r\n{\r\n\"name\": \"Builder
+        to be Advised\", \r\n\"role\": \"Builder\"}\r\n,\r\n{\r\n\"contact\": \"Council`s
+        Customer Information on (02) 6226 1477\", \r\n\"name\": \"Yass Valley Council\",
+        \r\n\"role\": \"PCA\"}\r\n,\r\n{\r\n\"name\": \"Mrs C J Wilson\", \r\n\"role\":
+        \"Applicant\"}\r\n,\r\n{\r\n\"name\": \"Mr D L Wilson\", \r\n\"role\": \"Applicant\"}\r\n]
+        \r\n, \r\n\"info\": {\r\n\"development_type\": \"Residential - Single new
+        dwelling\", \r\n\"notification_end_date\": null, \r\n\"determination_type\":
+        \"Pending\", \r\n\"estimated_cost\": \"$300,000\", \r\n\"status\": \"Open\",
+        \r\n\"lodgement_date\": \"2016-03-15T00:00:00Z\", \r\n\"last_modified_date\":
+        \"2016-03-18T09:32:19Z\", \r\n\"authority\": {\r\n\"name\": \"Yass Valley
+        Council\", \r\n\"ref\": \"http:\\/\\/mycouncil.yass.nsw.gov.au\\/Horizon%40%40horizondap%40%40\\/atdis\\/1.0\"}\r\n,
+        \r\n\"officer\": \"Ms K A McGrath\", \r\n\"dat_id\": \"005.2016.00000065.001\",
+        \r\n\"description\": \"Dwelling House, Solid Fuel Heater and Onsite Sewerage
+        Management Facilit\", \r\n\"determination_date\": null, \r\n\"application_type\":
+        \"DA\"}\r\n}\r\n}\r\n,\r\n{\r\n\"application\": {\r\n\"reference\": {\r\n\"more_info_url\":
+        \"http:\\/\\/mycouncil.yass.nsw.gov.au\\/Horizon\\/logonGuest.aw?e=FxkUAB1eSSgbAR0MXx0SGBFSVh0yBwc3GV0eFxcFSUMAIQYHJARfEBMKEiNZACg9HR0CHCUfHBY1QAQsHRAVAlkcGFUPEUcrNBURWDdAAxoQAhVEHS8aNxUCUVUSGBUrWRB9RENBWAJDR09PRABEcERDQkIeQ0ZITRpVAx8AEhY%3D\"}\r\n,
+        \r\n\"extended\": {\r\n\"sid\": 8, \r\n\"version\": \"Online Application Tracking
+        Data Interchange Specification 1.02 \", \r\n\"software_vendor_url\": \"http:\\/\\/www.solorient.com.au\",
+        \r\n\"software_vendor\": \"SolOrient Pty Ltd\", \r\n\"product\": \"Horizon
+        DA Portal - Build 3.18 Copyright 2016\"}\r\n, \r\n\"locations\": [ \r\n{\r\n\"address\":
+        {\r\n\"suburb\": \"MURRUMBATEMAN\", \r\n\"postcode\": \"2582\", \r\n\"state\":
+        \"NSW\", \r\n\"street\": \"3 Banksia Court\"}\r\n, \r\n\"land_title_ref\":
+        {\r\n\"torrens\": {\r\n\"dpsp_id\": \"DP270008\", \r\n\"lot\": \"54\", \r\n\"section\":
+        null}\r\n}\r\n, \r\n\"geometry\": {\r\n\"type\": \"Point\", \r\n\"coordinates\":
+        [149.002000, \r\n-34.991900]}\r\n}\r\n] \r\n, \r\n\"events\": [ \r\n{\r\n\"description\":
+        \"Planning Officer Assessment\", \r\n\"timestamp\": \"2016-03-18T00:00:00Z\",
+        \r\n\"id\": \"249793\", \r\n\"event_type\": \"POA\"}\r\n,\r\n{\r\n\"status\":
+        \"COMP\", \r\n\"description\": \"Lodgement of Development Appli\", \r\n\"timestamp\":
+        \"2016-03-15T00:00:00Z\", \r\n\"id\": \"249717\", \r\n\"event_type\": \"LDG\"}\r\n,\r\n{\r\n\"description\":
+        \"Building Officer Assessment\", \r\n\"timestamp\": \"2016-03-18T00:00:00Z\",
+        \r\n\"id\": \"249794\", \r\n\"event_type\": \"BOA\"}\r\n,\r\n{\r\n\"status\":
+        \"COMP\", \r\n\"description\": \"Distribution of DA\", \r\n\"timestamp\":
+        \"2016-03-15T00:00:00Z\", \r\n\"id\": \"249718\", \r\n\"event_type\": \"DIST\"}\r\n,\r\n{\r\n\"status\":
+        \"COMP\", \r\n\"description\": \"Acknowledgement Letter\", \r\n\"timestamp\":
+        \"2016-03-15T00:00:00Z\", \r\n\"id\": \"249720\", \r\n\"event_type\": \"ACKM\"}\r\n]
+        \r\n, \r\n\"documents\": [], \r\n\"people\": [ \r\n{\r\n\"contact\": \"Council`s
+        Customer Information on (02) 6226 1477\", \r\n\"name\": \"Yass Valley Council\",
+        \r\n\"role\": \"PCA\"}\r\n,\r\n{\r\n\"name\": \"Builder to be Advised\", \r\n\"role\":
+        \"Builder\"}\r\n,\r\n{\r\n\"name\": \"Ms C J Bryant\", \r\n\"role\": \"Applicant\"}\r\n]
+        \r\n, \r\n\"info\": {\r\n\"development_type\": \"Residential - Other\", \r\n\"notification_end_date\":
+        null, \r\n\"determination_type\": \"Pending\", \r\n\"estimated_cost\": \"$5,416\",
+        \r\n\"status\": \"Open\", \r\n\"lodgement_date\": \"2016-03-15T00:00:00Z\",
+        \r\n\"last_modified_date\": \"2016-03-18T12:01:28Z\", \r\n\"authority\": {\r\n\"name\":
+        \"Yass Valley Council\", \r\n\"ref\": \"http:\\/\\/mycouncil.yass.nsw.gov.au\\/Horizon%40%40horizondap%40%40\\/atdis\\/1.0\"}\r\n,
+        \r\n\"officer\": \"Mr J P Guiney\", \r\n\"dat_id\": \"005.2016.00000064.001\",
+        \r\n\"description\": \"Extension of Existing Storage Shed\", \r\n\"determination_date\":
+        null, \r\n\"application_type\": \"DA\"}\r\n}\r\n}\r\n,\r\n{\r\n\"application\":
+        {\r\n\"reference\": {\r\n\"more_info_url\": \"http:\\/\\/mycouncil.yass.nsw.gov.au\\/Horizon\\/logonGuest.aw?e=FxkUAB1eSSgbAR0MXx0SGBFSVh0yBwc3GV0eFxcFSUMAIQYHJARfEBMKEiNZACg9HR0CHCUfHBY1QAQsHRAVAlkcGFUPEUcrNBURWDdAAxoQAhVEHS8aNxUCUVUSGBUrWRB9RENBWAJDR0pPRABEcERCRkEeQ0ZNTRpVAx8AEhY%3D\"}\r\n,
+        \r\n\"extended\": {\r\n\"sid\": 14, \r\n\"version\": \"Online Application
+        Tracking Data Interchange Specification 1.02 \", \r\n\"software_vendor_url\":
+        \"http:\\/\\/www.solorient.com.au\", \r\n\"software_vendor\": \"SolOrient
+        Pty Ltd\", \r\n\"product\": \"Horizon DA Portal - Build 3.18 Copyright 2016\"}\r\n,
+        \r\n\"locations\": [ \r\n{\r\n\"address\": {\r\n\"suburb\": \"YASS\", \r\n\"postcode\":
+        \"2582\", \r\n\"state\": \"NSW\", \r\n\"street\": \"42 Bellevale Road\"}\r\n,
+        \r\n\"land_title_ref\": {\r\n\"torrens\": {\r\n\"dpsp_id\": \"DP1169723\",
+        \r\n\"lot\": \"1\", \r\n\"section\": null}\r\n}\r\n, \r\n\"geometry\": {\r\n\"type\":
+        \"Point\", \r\n\"coordinates\": [148.880000, \r\n-34.814400]}\r\n}\r\n,\r\n{\r\n\"address\":
+        {\r\n\"suburb\": \"YASS\", \r\n\"postcode\": \"2582\", \r\n\"state\": \"NSW\",
+        \r\n\"street\": \"1653 Yass Valley Way\"}\r\n, \r\n\"land_title_ref\": {\r\n\"torrens\":
+        {\r\n\"dpsp_id\": \"DP1169723\", \r\n\"lot\": \"2\", \r\n\"section\": null}\r\n}\r\n,
+        \r\n\"geometry\": {\r\n\"type\": \"Point\", \r\n\"coordinates\": [148.884000,
+        \r\n-34.819700]}\r\n}\r\n,\r\n{\r\n\"address\": {\r\n\"suburb\": \"YASS\",
+        \r\n\"postcode\": \"2582\", \r\n\"state\": \"NSW\", \r\n\"street\": \"1653
+        Yass Valley Way\"}\r\n, \r\n\"land_title_ref\": {\r\n\"torrens\": {\r\n\"dpsp_id\":
+        \"DP1209005\", \r\n\"lot\": \"3\", \r\n\"section\": null}\r\n}\r\n, \r\n\"geometry\":
+        {\r\n\"type\": \"Point\", \r\n\"coordinates\": [148.884000, \r\n-34.819700]}\r\n}\r\n,\r\n{\r\n\"address\":
+        {\r\n\"suburb\": \"YASS\", \r\n\"postcode\": \"2582\", \r\n\"state\": \"NSW\",
+        \r\n\"street\": \"9 Bellevale Road\"}\r\n, \r\n\"land_title_ref\": {\r\n\"torrens\":
+        {\r\n\"dpsp_id\": \"DP1209005\", \r\n\"lot\": \"2\", \r\n\"section\": null}\r\n}\r\n,
+        \r\n\"geometry\": {\r\n\"type\": \"Point\", \r\n\"coordinates\": [148.884000,
+        \r\n-34.819700]}\r\n}\r\n] \r\n, \r\n\"events\": [ \r\n{\r\n\"status\": \"COMP\",
+        \r\n\"description\": \"Lodgement of Development Appli\", \r\n\"timestamp\":
+        \"2016-03-14T00:00:00Z\", \r\n\"id\": \"249692\", \r\n\"event_type\": \"LDG\"}\r\n,\r\n{\r\n\"description\":
+        \"Distribution of DA\", \r\n\"timestamp\": \"2016-03-14T00:00:00Z\", \r\n\"id\":
+        \"249693\", \r\n\"event_type\": \"DIST\"}\r\n] \r\n, \r\n\"documents\": [],
+        \r\n\"people\": [ \r\n{\r\n\"name\": \"Bellevale Cattle Company Pty Ltd\",
+        \r\n\"role\": \"Applicant\"}\r\n,\r\n{\r\n\"contact\": \"Council`s Customer
+        Information on (02) 6226 1477\", \r\n\"name\": \"Yass Valley Council\", \r\n\"role\":
+        \"PCA\"}\r\n] \r\n, \r\n\"info\": {\r\n\"development_type\": \"Subdivision
+        Only\", \r\n\"notification_end_date\": null, \r\n\"determination_type\": \"Pending\",
+        \r\n\"estimated_cost\": \"$0\", \r\n\"status\": \"Open\", \r\n\"lodgement_date\":
+        \"2016-03-14T00:00:00Z\", \r\n\"last_modified_date\": \"2016-03-21T16:18:02Z\",
+        \r\n\"authority\": {\r\n\"name\": \"Yass Valley Council\", \r\n\"ref\": \"http:\\/\\/mycouncil.yass.nsw.gov.au\\/Horizon%40%40horizondap%40%40\\/atdis\\/1.0\"}\r\n,
+        \r\n\"officer\": \"Ms K A McGrath\", \r\n\"dat_id\": \"005.2013.00000127.004\",
+        \r\n\"description\": \"Twenty Two (22) Lot Industrial Subdivision (Staged)\",
+        \r\n\"determination_date\": null, \r\n\"application_type\": \"DA\"}\r\n}\r\n}\r\n,\r\n{\r\n\"application\":
+        {\r\n\"reference\": {\r\n\"more_info_url\": \"http:\\/\\/mycouncil.yass.nsw.gov.au\\/Horizon\\/logonGuest.aw?e=FxkUAB1eSSgbAR0MXx0SGBFSVh0yBwc3GV0eFxcFSUMAIQYHJARfEBMKEiNZACg9HR0CHCUfHBY1QAQsHRAVAlkcGFUPEUcrNBURWDdAAxoQAhVEHS8aNxUCUVUSGBUrWRB9RENBWAJDR0xPRABEcERCRkUeQ0ZLTRpVAx8AEhY%3D\"}\r\n,
+        \r\n\"extended\": {\r\n\"sid\": 13, \r\n\"version\": \"Online Application
+        Tracking Data Interchange Specification 1.02 \", \r\n\"software_vendor_url\":
+        \"http:\\/\\/www.solorient.com.au\", \r\n\"software_vendor\": \"SolOrient
+        Pty Ltd\", \r\n\"product\": \"Horizon DA Portal - Build 3.18 Copyright 2016\"}\r\n,
+        \r\n\"locations\": [ \r\n{\r\n\"address\": {\r\n\"suburb\": \"GOOD HOPE\",
+        \r\n\"postcode\": \"2582\", \r\n\"state\": \"NSW\", \r\n\"street\": \"737
+        Fifeshire Road\"}\r\n, \r\n\"land_title_ref\": {\r\n\"torrens\": {\r\n\"dpsp_id\":
+        \"DP806955\", \r\n\"lot\": \"3\", \r\n\"section\": null}\r\n}\r\n, \r\n\"geometry\":
+        {\r\n\"type\": \"Point\", \r\n\"coordinates\": [148.777000, \r\n-34.934400]}\r\n}\r\n]
+        \r\n, \r\n\"events\": [ \r\n{\r\n\"description\": \"Distribution of DA\",
+        \r\n\"timestamp\": \"2016-03-14T00:00:00Z\", \r\n\"id\": \"249690\", \r\n\"event_type\":
+        \"DIST\"}\r\n,\r\n{\r\n\"status\": \"COMP\", \r\n\"description\": \"Lodgement
+        of Development Appli\", \r\n\"timestamp\": \"2016-03-14T00:00:00Z\", \r\n\"id\":
+        \"249689\", \r\n\"event_type\": \"LDG\"}\r\n] \r\n, \r\n\"documents\": [],
+        \r\n\"people\": [ \r\n{\r\n\"name\": \"Builder to be Advised\", \r\n\"role\":
+        \"Builder\"}\r\n,\r\n{\r\n\"contact\": \"Council`s Customer Information on
+        (02) 6226 1477\", \r\n\"name\": \"Yass Valley Council\", \r\n\"role\": \"PCA\"}\r\n,\r\n{\r\n\"name\":
+        \"Mr M Rolls\", \r\n\"role\": \"Applicant\"}\r\n] \r\n, \r\n\"info\": {\r\n\"development_type\":
+        \"Tourist\", \r\n\"notification_end_date\": null, \r\n\"determination_type\":
+        \"Pending\", \r\n\"estimated_cost\": \"$241,000\", \r\n\"status\": \"Open\",
+        \r\n\"lodgement_date\": \"2016-03-14T00:00:00Z\", \r\n\"last_modified_date\":
+        \"2016-03-14T16:34:27Z\", \r\n\"authority\": {\r\n\"name\": \"Yass Valley
+        Council\", \r\n\"ref\": \"http:\\/\\/mycouncil.yass.nsw.gov.au\\/Horizon%40%40horizondap%40%40\\/atdis\\/1.0\"}\r\n,
+        \r\n\"officer\": \"Mr J S Mannweiler\", \r\n\"dat_id\": \"005.2015.00000123.002\",
+        \r\n\"description\": \"Holiday Cabin (Restricted Occupation)\", \r\n\"determination_date\":
+        null, \r\n\"application_type\": \"DA\"}\r\n}\r\n}\r\n,\r\n{\r\n\"application\":
+        {\r\n\"reference\": {\r\n\"more_info_url\": \"http:\\/\\/mycouncil.yass.nsw.gov.au\\/Horizon\\/logonGuest.aw?e=FxkUAB1eSSgbAR0MXx0SGBFSVh0yBwc3GV0eFxcFSUMAIQYHJARfEBMKEiNZACg9HR0CHCUfHBY1QAQsHRAVAlkcGFUPEUcrNBURWDdAAxoQAhVEHS8aNxUCUVUSGBUrWRB9RENBWAJDR09PRABEcERDQkQeQ0ZITRpVAx8AEhY%3D\"}\r\n,
+        \r\n\"extended\": {\r\n\"sid\": 12, \r\n\"version\": \"Online Application
+        Tracking Data Interchange Specification 1.02 \", \r\n\"software_vendor_url\":
+        \"http:\\/\\/www.solorient.com.au\", \r\n\"software_vendor\": \"SolOrient
+        Pty Ltd\", \r\n\"product\": \"Horizon DA Portal - Build 3.18 Copyright 2016\"}\r\n,
+        \r\n\"locations\": [ \r\n{\r\n\"address\": {\r\n\"suburb\": \"SUTTON\", \r\n\"postcode\":
+        \"2620\", \r\n\"state\": \"NSW\", \r\n\"street\": \"1 De Salis Street\"}\r\n,
+        \r\n\"land_title_ref\": {\r\n\"torrens\": {\r\n\"dpsp_id\": \"DP1204820\",
+        \r\n\"lot\": \"1\", \r\n\"section\": null}\r\n}\r\n, \r\n\"geometry\": {\r\n\"type\":
+        \"Point\", \r\n\"coordinates\": [149.263000, \r\n-35.162800]}\r\n}\r\n] \r\n,
+        \r\n\"events\": [ \r\n{\r\n\"description\": \"Building Officer Assessment\",
+        \r\n\"timestamp\": \"2016-03-18T00:00:00Z\", \r\n\"id\": \"249792\", \r\n\"event_type\":
+        \"BOA\"}\r\n,\r\n{\r\n\"status\": \"COMP\", \r\n\"description\": \"Lodgement
+        of Development Appli\", \r\n\"timestamp\": \"2016-03-14T00:00:00Z\", \r\n\"id\":
+        \"249680\", \r\n\"event_type\": \"LDG\"}\r\n,\r\n{\r\n\"status\": \"COMP\",
+        \r\n\"description\": \"Distribution of DA\", \r\n\"timestamp\": \"2016-03-14T00:00:00Z\",
+        \r\n\"id\": \"249681\", \r\n\"event_type\": \"DIST\"}\r\n,\r\n{\r\n\"status\":
+        \"COMP\", \r\n\"description\": \"Acknowledgement Letter\", \r\n\"timestamp\":
+        \"2016-03-15T00:00:00Z\", \r\n\"id\": \"249725\", \r\n\"event_type\": \"ACKM\"}\r\n,\r\n{\r\n\"description\":
+        \"Planning Officer Assessment\", \r\n\"timestamp\": \"2016-03-18T00:00:00Z\",
+        \r\n\"id\": \"249791\", \r\n\"event_type\": \"POA\"}\r\n] \r\n, \r\n\"documents\":
+        [], \r\n\"people\": [ \r\n{\r\n\"name\": \"Builder to be Advised\", \r\n\"role\":
+        \"Builder\"}\r\n,\r\n{\r\n\"name\": \"Ms M R Allan\", \r\n\"role\": \"Applicant\"}\r\n,\r\n{\r\n\"contact\":
+        \"Council`s Customer Information on (02) 6226 1477\", \r\n\"name\": \"Yass
+        Valley Council\", \r\n\"role\": \"PCA\"}\r\n,\r\n{\r\n\"name\": \"Mr I R Towers\",
+        \r\n\"role\": \"Applicant\"}\r\n] \r\n, \r\n\"info\": {\r\n\"development_type\":
+        \"Residential - Other\", \r\n\"notification_end_date\": null, \r\n\"determination_type\":
+        \"Pending\", \r\n\"estimated_cost\": \"$12,000\", \r\n\"status\": \"Open\",
+        \r\n\"lodgement_date\": \"2016-03-14T00:00:00Z\", \r\n\"last_modified_date\":
+        \"2016-03-18T09:43:59Z\", \r\n\"authority\": {\r\n\"name\": \"Yass Valley
+        Council\", \r\n\"ref\": \"http:\\/\\/mycouncil.yass.nsw.gov.au\\/Horizon%40%40horizondap%40%40\\/atdis\\/1.0\"}\r\n,
+        \r\n\"officer\": \"Mr J T Knox\", \r\n\"dat_id\": \"005.2016.00000062.001\",
+        \r\n\"description\": \"Shelter Sheds\", \r\n\"determination_date\": null,
+        \r\n\"application_type\": \"DA\"}\r\n}\r\n}\r\n,\r\n{\r\n\"application\":
+        {\r\n\"reference\": {\r\n\"more_info_url\": \"http:\\/\\/mycouncil.yass.nsw.gov.au\\/Horizon\\/logonGuest.aw?e=FxkUAB1eSSgbAR0MXx0SGBFSVh0yBwc3GV0eFxcFSUMAIQYHJARfEBMKEiNZACg9HR0CHCUfHBY1QAQsHRAVAlkcGFUPEUcrNBURWDdAAxoQAhVEHS8aNxUCUVUSGBUrWRB9RENBWAJDR09PRABEcERDQkceQ0ZITRpVAx8AEhY%3D\"}\r\n,
+        \r\n\"extended\": {\r\n\"sid\": 11, \r\n\"version\": \"Online Application
+        Tracking Data Interchange Specification 1.02 \", \r\n\"software_vendor_url\":
+        \"http:\\/\\/www.solorient.com.au\", \r\n\"software_vendor\": \"SolOrient
+        Pty Ltd\", \r\n\"product\": \"Horizon DA Portal - Build 3.18 Copyright 2016\"}\r\n,
+        \r\n\"locations\": [ \r\n{\r\n\"address\": {\r\n\"suburb\": \"BOAMBOLO\",
+        \r\n\"postcode\": \"2582\", \r\n\"state\": \"NSW\", \r\n\"street\": \"601
+        Long Rail Gully Road\"}\r\n, \r\n\"land_title_ref\": {\r\n\"torrens\": {\r\n\"dpsp_id\":
+        \"DP1165726\", \r\n\"lot\": \"5\", \r\n\"section\": null}\r\n}\r\n, \r\n\"geometry\":
+        {\r\n\"type\": \"Point\", \r\n\"coordinates\": [148.943000, \r\n-34.946300]}\r\n}\r\n]
+        \r\n, \r\n\"events\": [ \r\n{\r\n\"status\": \"COMP\", \r\n\"description\":
+        \"Distribution of DA\", \r\n\"timestamp\": \"2016-03-14T00:00:00Z\", \r\n\"id\":
+        \"249687\", \r\n\"event_type\": \"DIST\"}\r\n,\r\n{\r\n\"status\": \"COMP\",
+        \r\n\"description\": \"Acknowledgement Letter\", \r\n\"timestamp\": \"2016-03-14T00:00:00Z\",
+        \r\n\"id\": \"249691\", \r\n\"event_type\": \"ACKM\"}\r\n,\r\n{\r\n\"status\":
+        \"COMP\", \r\n\"description\": \"Lodgement of Development Appli\", \r\n\"timestamp\":
+        \"2016-03-14T00:00:00Z\", \r\n\"id\": \"249686\", \r\n\"event_type\": \"LDG\"}\r\n]
+        \r\n, \r\n\"documents\": [], \r\n\"people\": [ \r\n{\r\n\"name\": \"Mr J P
+        Patterson\", \r\n\"role\": \"Applicant\"}\r\n,\r\n{\r\n\"name\": \"Builder
+        to be Advised\", \r\n\"role\": \"Builder\"}\r\n,\r\n{\r\n\"name\": \"Mrs T
+        J Patterson\", \r\n\"role\": \"Applicant\"}\r\n,\r\n{\r\n\"contact\": \"Council`s
+        Customer Information on (02) 6226 1477\", \r\n\"name\": \"Yass Valley Council\",
+        \r\n\"role\": \"PCA\"}\r\n] \r\n, \r\n\"info\": {\r\n\"development_type\":
+        \"Residential - Other\", \r\n\"notification_end_date\": null, \r\n\"determination_type\":
+        \"Pending\", \r\n\"estimated_cost\": \"$8,000\", \r\n\"status\": \"Open\",
+        \r\n\"lodgement_date\": \"2016-03-14T00:00:00Z\", \r\n\"last_modified_date\":
+        \"2016-03-14T16:28:35Z\", \r\n\"authority\": {\r\n\"name\": \"Yass Valley
+        Council\", \r\n\"ref\": \"http:\\/\\/mycouncil.yass.nsw.gov.au\\/Horizon%40%40horizondap%40%40\\/atdis\\/1.0\"}\r\n,
+        \r\n\"officer\": \"Mr J S Mannweiler\", \r\n\"dat_id\": \"005.2016.00000061.001\",
+        \r\n\"description\": \"Amenities in Existing Shed and Aerated Wastewater Treatment
+        System\", \r\n\"determination_date\": null, \r\n\"application_type\": \"DA\"}\r\n}\r\n}\r\n,\r\n{\r\n\"application\":
+        {\r\n\"reference\": {\r\n\"more_info_url\": \"http:\\/\\/mycouncil.yass.nsw.gov.au\\/Horizon\\/logonGuest.aw?e=FxkUAB1eSSgbAR0MXx0SGBFSVh0yBwc3GV0eFxcFSUMAIQYHJARfEBMKEiNZACg9HR0CHCUfHBY1QAQsHRAVAlkcGFUPEUcrNBURWDdAAxoQAhVEHS8aNxUCUVUSGBUrWRB9RENBWAJDRkpPRABEcERHQUQeQ0ZLTRpVAx8AEhY%3D\"}\r\n,
+        \r\n\"extended\": {\r\n\"sid\": 10, \r\n\"version\": \"Online Application
+        Tracking Data Interchange Specification 1.02 \", \r\n\"software_vendor_url\":
+        \"http:\\/\\/www.solorient.com.au\", \r\n\"software_vendor\": \"SolOrient
+        Pty Ltd\", \r\n\"product\": \"Horizon DA Portal - Build 3.18 Copyright 2016\"}\r\n,
+        \r\n\"locations\": [ \r\n{\r\n\"address\": {\r\n\"suburb\": \"YASS\", \r\n\"postcode\":
+        \"2582\", \r\n\"state\": \"NSW\", \r\n\"street\": \"48A Ford Street\"}\r\n,
+        \r\n\"land_title_ref\": {\r\n\"torrens\": {\r\n\"dpsp_id\": \"DP734843\",
+        \r\n\"lot\": \"5\", \r\n\"section\": null}\r\n}\r\n, \r\n\"geometry\": {\r\n\"type\":
+        \"Point\", \r\n\"coordinates\": [148.915000, \r\n-34.827900]}\r\n}\r\n] \r\n,
+        \r\n\"events\": [ \r\n{\r\n\"description\": \"Distribution of DA\", \r\n\"timestamp\":
+        \"2016-03-14T00:00:00Z\", \r\n\"id\": \"249667\", \r\n\"event_type\": \"DIST\"}\r\n,\r\n{\r\n\"status\":
+        \"COMP\", \r\n\"description\": \"Lodgement of Development Appli\", \r\n\"timestamp\":
+        \"2016-03-14T00:00:00Z\", \r\n\"id\": \"249666\", \r\n\"event_type\": \"LDG\"}\r\n]
+        \r\n, \r\n\"documents\": [], \r\n\"people\": [ \r\n{\r\n\"name\": \"Ms A J
+        Privett\", \r\n\"role\": \"Applicant\"}\r\n,\r\n{\r\n\"contact\": \"Council`s
+        Customer Information on (02) 6226 1477\", \r\n\"name\": \"Yass Valley Council\",
+        \r\n\"role\": \"PCA\"}\r\n] \r\n, \r\n\"info\": {\r\n\"development_type\":
+        \"Residential - Alterations & Additions\", \r\n\"notification_end_date\":
+        null, \r\n\"determination_type\": \"Pending\", \r\n\"estimated_cost\": \"$0\",
+        \r\n\"status\": \"Open\", \r\n\"lodgement_date\": \"2016-03-14T00:00:00Z\",
+        \r\n\"last_modified_date\": \"2016-03-14T10:19:40Z\", \r\n\"authority\": {\r\n\"name\":
+        \"Yass Valley Council\", \r\n\"ref\": \"http:\\/\\/mycouncil.yass.nsw.gov.au\\/Horizon%40%40horizondap%40%40\\/atdis\\/1.0\"}\r\n,
+        \r\n\"officer\": \"Mr J S Mannweiler\", \r\n\"dat_id\": \"005.2003.00000452.002\",
+        \r\n\"description\": \"Carport and Pergola\", \r\n\"determination_date\":
+        null, \r\n\"application_type\": \"DA\"}\r\n}\r\n}\r\n,\r\n{\r\n\"application\":
+        {\r\n\"reference\": {\r\n\"more_info_url\": \"http:\\/\\/mycouncil.yass.nsw.gov.au\\/Horizon\\/logonGuest.aw?e=FxkUAB1eSSgbAR0MXx0SGBFSVh0yBwc3GV0eFxcFSUMAIQYHJARfEBMKEiNZACg9HR0CHCUfHBY1QAQsHRAVAlkcGFUPEUcrNBURWDdAAxoQAhVEHS8aNxUCUVUSGBUrWRB9RENBWAJDR09PRABEcERDQkYeQ0ZITRpVAx8AEhY%3D\"}\r\n,
+        \r\n\"extended\": {\r\n\"sid\": 18, \r\n\"version\": \"Online Application
+        Tracking Data Interchange Specification 1.02 \", \r\n\"software_vendor_url\":
+        \"http:\\/\\/www.solorient.com.au\", \r\n\"software_vendor\": \"SolOrient
+        Pty Ltd\", \r\n\"product\": \"Horizon DA Portal - Build 3.18 Copyright 2016\"}\r\n,
+        \r\n\"locations\": [ \r\n{\r\n\"address\": {\r\n\"suburb\": \"MURRUMBATEMAN\",
+        \r\n\"postcode\": \"2582\", \r\n\"state\": \"NSW\", \r\n\"street\": \"20 Rose
+        Street\"}\r\n, \r\n\"land_title_ref\": {\r\n\"torrens\": {\r\n\"dpsp_id\":
+        \"DP758736\", \r\n\"lot\": \"3\", \r\n\"section\": \"6\"}\r\n}\r\n, \r\n\"geometry\":
+        {\r\n\"type\": \"Point\", \r\n\"coordinates\": [149.028000, \r\n-34.968300]}\r\n}\r\n]
+        \r\n, \r\n\"events\": [ \r\n{\r\n\"status\": \"COMP\", \r\n\"description\":
+        \"Acknowledgement Letter\", \r\n\"timestamp\": \"2016-03-15T00:00:00Z\", \r\n\"id\":
+        \"249722\", \r\n\"event_type\": \"ACKM\"}\r\n,\r\n{\r\n\"status\": \"COMP\",
+        \r\n\"description\": \"Distribution of DA\", \r\n\"timestamp\": \"2016-03-11T00:00:00Z\",
+        \r\n\"id\": \"249651\", \r\n\"event_type\": \"DIST\"}\r\n,\r\n{\r\n\"status\":
+        \"COMP\", \r\n\"description\": \"Lodgement of Development Appli\", \r\n\"timestamp\":
+        \"2016-03-11T00:00:00Z\", \r\n\"id\": \"249650\", \r\n\"event_type\": \"LDG\"}\r\n,\r\n{\r\n\"description\":
+        \"Planning Officer Assessment\", \r\n\"timestamp\": \"2016-03-18T00:00:00Z\",
+        \r\n\"id\": \"249787\", \r\n\"event_type\": \"POA\"}\r\n,\r\n{\r\n\"description\":
+        \"Health & Env Officer Assess\", \r\n\"timestamp\": \"2016-03-18T00:00:00Z\",
+        \r\n\"id\": \"249786\", \r\n\"event_type\": \"HOA\"}\r\n,\r\n{\r\n\"description\":
+        \"Building Officer Assessment\", \r\n\"timestamp\": \"2016-03-18T00:00:00Z\",
+        \r\n\"id\": \"249788\", \r\n\"event_type\": \"BOA\"}\r\n] \r\n, \r\n\"documents\":
+        [], \r\n\"people\": [ \r\n{\r\n\"name\": \"Builder to be Advised\", \r\n\"role\":
+        \"Builder\"}\r\n,\r\n{\r\n\"contact\": \"Council`s Customer Information on
+        (02) 6226 1477\", \r\n\"name\": \"Yass Valley Council\", \r\n\"role\": \"PCA\"}\r\n,\r\n{\r\n\"name\":
+        \"Mrs C Robertson\", \r\n\"role\": \"Applicant\"}\r\n] \r\n, \r\n\"info\":
+        {\r\n\"development_type\": \"Commercial \\/ retail \\/ office\", \r\n\"notification_end_date\":
+        null, \r\n\"determination_type\": \"Pending\", \r\n\"estimated_cost\": \"$32,392\",
+        \r\n\"status\": \"Open\", \r\n\"lodgement_date\": \"2016-03-11T00:00:00Z\",
+        \r\n\"last_modified_date\": \"2016-03-18T09:57:27Z\", \r\n\"authority\": {\r\n\"name\":
+        \"Yass Valley Council\", \r\n\"ref\": \"http:\\/\\/mycouncil.yass.nsw.gov.au\\/Horizon%40%40horizondap%40%40\\/atdis\\/1.0\"}\r\n,
+        \r\n\"officer\": \"Mr J T Knox\", \r\n\"dat_id\": \"005.2016.00000060.001\",
+        \r\n\"description\": \"Home Business and Storage Shed\", \r\n\"determination_date\":
+        null, \r\n\"application_type\": \"DA\"}\r\n}\r\n}\r\n,\r\n{\r\n\"application\":
+        {\r\n\"reference\": {\r\n\"more_info_url\": \"http:\\/\\/mycouncil.yass.nsw.gov.au\\/Horizon\\/logonGuest.aw?e=FxkUAB1eSSgbAR0MXx0SGBFSVh0yBwc3GV0eFxcFSUMAIQYHJARfEBMKEiNZACg9HR0CHCUfHBY1QAQsHRAVAlkcGFUPEUcrNBURWDdAAxoQAhVEHS8aNxUCUVUSGBUrWRB9RENBWAJDR09PRABEcERDQU8eQ0ZITRpVAx8AEhY%3D\"}\r\n,
+        \r\n\"extended\": {\r\n\"sid\": 17, \r\n\"version\": \"Online Application
+        Tracking Data Interchange Specification 1.02 \", \r\n\"software_vendor_url\":
+        \"http:\\/\\/www.solorient.com.au\", \r\n\"software_vendor\": \"SolOrient
+        Pty Ltd\", \r\n\"product\": \"Horizon DA Portal - Build 3.18 Copyright 2016\"}\r\n,
+        \r\n\"locations\": [ \r\n{\r\n\"address\": {\r\n\"suburb\": \"YASS RIVER\",
+        \r\n\"postcode\": \"2582\", \r\n\"state\": \"NSW\", \r\n\"street\": \"142
+        Corregans Road\"}\r\n, \r\n\"land_title_ref\": {\r\n\"torrens\": {\r\n\"dpsp_id\":
+        \"DP775895\", \r\n\"lot\": \"8\", \r\n\"section\": null}\r\n}\r\n, \r\n\"geometry\":
+        {\r\n\"type\": \"Point\", \r\n\"coordinates\": [149.112000, \r\n-34.911000]}\r\n}\r\n]
+        \r\n, \r\n\"events\": [ \r\n{\r\n\"status\": \"COMP\", \r\n\"description\":
+        \"Acknowledgement Letter\", \r\n\"timestamp\": \"2016-03-15T00:00:00Z\", \r\n\"id\":
+        \"249694\", \r\n\"event_type\": \"ACKM\"}\r\n,\r\n{\r\n\"status\": \"COMP\",
+        \r\n\"description\": \"Distribution of DA\", \r\n\"timestamp\": \"2016-03-14T00:00:00Z\",
+        \r\n\"id\": \"249684\", \r\n\"event_type\": \"DIST\"}\r\n,\r\n{\r\n\"description\":
+        \"Building Officer Assessment\", \r\n\"timestamp\": \"2016-03-18T00:00:00Z\",
+        \r\n\"id\": \"249790\", \r\n\"event_type\": \"BOA\"}\r\n,\r\n{\r\n\"status\":
+        \"COMP\", \r\n\"description\": \"Lodgement of Development Appli\", \r\n\"timestamp\":
+        \"2016-03-14T00:00:00Z\", \r\n\"id\": \"249683\", \r\n\"event_type\": \"LDG\"}\r\n,\r\n{\r\n\"description\":
+        \"Planning Officer Assessment\", \r\n\"timestamp\": \"2016-03-18T00:00:00Z\",
+        \r\n\"id\": \"249789\", \r\n\"event_type\": \"POA\"}\r\n] \r\n, \r\n\"documents\":
+        [], \r\n\"people\": [ \r\n{\r\n\"name\": \"Builder to be Advised\", \r\n\"role\":
+        \"Builder\"}\r\n,\r\n{\r\n\"contact\": \"Council`s Customer Information on
+        (02) 6226 1477\", \r\n\"name\": \"Yass Valley Council\", \r\n\"role\": \"PCA\"}\r\n,\r\n{\r\n\"name\":
+        \"Mr M J Cater\", \r\n\"role\": \"Applicant\"}\r\n] \r\n, \r\n\"info\": {\r\n\"development_type\":
+        \"Residential - Other\", \r\n\"notification_end_date\": null, \r\n\"determination_type\":
+        \"Pending\", \r\n\"estimated_cost\": \"$48,196\", \r\n\"status\": \"Open\",
+        \r\n\"lodgement_date\": \"2016-03-11T00:00:00Z\", \r\n\"last_modified_date\":
+        \"2016-03-18T11:36:56Z\", \r\n\"authority\": {\r\n\"name\": \"Yass Valley
+        Council\", \r\n\"ref\": \"http:\\/\\/mycouncil.yass.nsw.gov.au\\/Horizon%40%40horizondap%40%40\\/atdis\\/1.0\"}\r\n,
+        \r\n\"officer\": \"Mr J T Knox\", \r\n\"dat_id\": \"005.2016.00000059.001\",
+        \r\n\"description\": \"Storage Shed\", \r\n\"determination_date\": null, \r\n\"application_type\":
+        \"DA\"}\r\n}\r\n}\r\n,\r\n{\r\n\"application\": {\r\n\"reference\": {\r\n\"more_info_url\":
+        \"http:\\/\\/mycouncil.yass.nsw.gov.au\\/Horizon\\/logonGuest.aw?e=FxkUAB1eSSgbAR0MXx0SGBFSVh0yBwc3GV0eFxcFSUMAIQYHJARfEBMKEiNZACg9HR0CHCUfHBY1QAQsHRAVAlkcGFUPEUcrNBURWDdAAxoQAhVEHS8aNxUCUVUSGBUrWRB9RENBWAJDR0xPRABEcERCQU8eQ0ZLTRpVAx8AEhY%3D\"}\r\n,
+        \r\n\"extended\": {\r\n\"sid\": 16, \r\n\"version\": \"Online Application
+        Tracking Data Interchange Specification 1.02 \", \r\n\"software_vendor_url\":
+        \"http:\\/\\/www.solorient.com.au\", \r\n\"software_vendor\": \"SolOrient
+        Pty Ltd\", \r\n\"product\": \"Horizon DA Portal - Build 3.18 Copyright 2016\"}\r\n,
+        \r\n\"locations\": [ \r\n{\r\n\"address\": {\r\n\"suburb\": \"MURRUMBATEMAN\",
+        \r\n\"postcode\": \"2582\", \r\n\"state\": \"NSW\", \r\n\"street\": \"2 George
+        Street\"}\r\n, \r\n\"land_title_ref\": {\r\n\"torrens\": {\r\n\"dpsp_id\":
+        \"DP243259\", \r\n\"lot\": \"30\", \r\n\"section\": null}\r\n}\r\n, \r\n\"geometry\":
+        {\r\n\"type\": \"Point\", \r\n\"coordinates\": [149.012000, \r\n-34.992400]}\r\n}\r\n]
+        \r\n, \r\n\"events\": [ \r\n{\r\n\"status\": \"APP2\", \r\n\"description\":
+        \"Determination of Application\\/C\", \r\n\"timestamp\": \"2016-03-16T00:00:00Z\",
+        \r\n\"id\": \"249737\", \r\n\"event_type\": \"DET\"}\r\n,\r\n{\r\n\"status\":
+        \"COMP\", \r\n\"description\": \"Distribution of DA\", \r\n\"timestamp\":
+        \"2016-03-11T00:00:00Z\", \r\n\"id\": \"249644\", \r\n\"event_type\": \"DIST\"}\r\n,\r\n{\r\n\"status\":
+        \"COMP\", \r\n\"description\": \"Lodgement of Development Appli\", \r\n\"timestamp\":
+        \"2016-03-11T00:00:00Z\", \r\n\"id\": \"249643\", \r\n\"event_type\": \"LDG\"}\r\n]
+        \r\n, \r\n\"documents\": [], \r\n\"people\": [ \r\n{\r\n\"contact\": \"Council`s
+        Customer Information on (02) 6226 1477\", \r\n\"name\": \"Yass Valley Council\",
+        \r\n\"role\": \"PCA\"}\r\n,\r\n{\r\n\"name\": \"Mrs H R Benton\", \r\n\"role\":
+        \"Builder\"}\r\n,\r\n{\r\n\"name\": \"Mrs H R Benton\", \r\n\"role\": \"Applicant\"}\r\n,\r\n{\r\n\"name\":
+        \"Mr S T Benton\", \r\n\"role\": \"Applicant\"}\r\n] \r\n, \r\n\"info\": {\r\n\"development_type\":
+        \"Residential - Single new dwelling\", \r\n\"notification_end_date\": null,
+        \r\n\"determination_type\": \"Pending\", \r\n\"estimated_cost\": \"$12,727\",
+        \r\n\"status\": \"Approved by Staff\", \r\n\"lodgement_date\": \"2016-03-11T00:00:00Z\",
+        \r\n\"last_modified_date\": \"2016-03-17T12:48:00Z\", \r\n\"authority\": {\r\n\"name\":
+        \"Yass Valley Council\", \r\n\"ref\": \"http:\\/\\/mycouncil.yass.nsw.gov.au\\/Horizon%40%40horizondap%40%40\\/atdis\\/1.0\"}\r\n,
+        \r\n\"officer\": \"Mr J S Mannweiler\", \r\n\"dat_id\": \"005.2015.00000159.002\",
+        \r\n\"description\": \"Alterations and Additions to Existing Dwelling House\",
+        \r\n\"determination_date\": \"2016-03-16T00:00:00Z\", \r\n\"application_type\":
+        \"DA\"}\r\n}\r\n}\r\n,\r\n{\r\n\"application\": {\r\n\"reference\": {\r\n\"more_info_url\":
+        \"http:\\/\\/mycouncil.yass.nsw.gov.au\\/Horizon\\/logonGuest.aw?e=FxkUAB1eSSgbAR0MXx0SGBFSVh0yBwc3GV0eFxcFSUMAIQYHJARfEBMKEiNZACg9HR0CHCUfHBY1QAQsHRAVAlkcGFUPEUcrNBURWDdAAxoQAhVEHS8aNxUCUVUSGBUrWRB9RENBWAJDR0xPRABEcERBQEIeQ0ZLTRpVAx8AEhY%3D\"}\r\n,
+        \r\n\"extended\": {\r\n\"sid\": 15, \r\n\"version\": \"Online Application
+        Tracking Data Interchange Specification 1.02 \", \r\n\"software_vendor_url\":
+        \"http:\\/\\/www.solorient.com.au\", \r\n\"software_vendor\": \"SolOrient
+        Pty Ltd\", \r\n\"product\": \"Horizon DA Portal - Build 3.18 Copyright 2016\"}\r\n,
+        \r\n\"locations\": [ \r\n{\r\n\"address\": {\r\n\"suburb\": \"JEIR\", \r\n\"postcode\":
+        \"2582\", \r\n\"state\": \"NSW\", \r\n\"street\": \"2936 Dog Trap Road\"}\r\n,
+        \r\n\"land_title_ref\": {\r\n\"torrens\": {\r\n\"dpsp_id\": \"DP1187670\",
+        \r\n\"lot\": \"4\", \r\n\"section\": null}\r\n}\r\n, \r\n\"geometry\": {\r\n\"type\":
+        \"Point\", \r\n\"coordinates\": [148.942000, \r\n-35.081900]}\r\n}\r\n] \r\n,
+        \r\n\"events\": [ \r\n{\r\n\"status\": \"COMP\", \r\n\"description\": \"Distribution
+        of DA\", \r\n\"timestamp\": \"2016-03-11T00:00:00Z\", \r\n\"id\": \"249634\",
+        \r\n\"event_type\": \"DIST\"}\r\n,\r\n{\r\n\"status\": \"COMP\", \r\n\"description\":
+        \"Engineering Officer Assessment\", \r\n\"timestamp\": \"2016-03-14T00:00:00Z\",
+        \r\n\"id\": \"249674\", \r\n\"event_type\": \"EOA\"}\r\n,\r\n{\r\n\"status\":
+        \"APP2\", \r\n\"description\": \"Determination of Application\\/C\", \r\n\"timestamp\":
+        \"2016-03-15T00:00:00Z\", \r\n\"id\": \"249695\", \r\n\"event_type\": \"DET\"}\r\n,\r\n{\r\n\"status\":
+        \"COMP\", \r\n\"description\": \"Lodgement of Development Appli\", \r\n\"timestamp\":
+        \"2016-03-11T00:00:00Z\", \r\n\"id\": \"249633\", \r\n\"event_type\": \"LDG\"}\r\n]
+        \r\n, \r\n\"documents\": [], \r\n\"people\": [ \r\n{\r\n\"contact\": \"Council`s
+        Customer Information on (02) 6226 1477\", \r\n\"name\": \"Yass Valley Council\",
+        \r\n\"role\": \"PCA\"}\r\n,\r\n{\r\n\"name\": \"Kova Engineering and Design
+        Pty Ltd\", \r\n\"role\": \"Applicant\"}\r\n] \r\n, \r\n\"info\": {\r\n\"development_type\":
+        \"Industrial\", \r\n\"notification_end_date\": null, \r\n\"determination_type\":
+        \"Pending\", \r\n\"estimated_cost\": \"$0\", \r\n\"status\": \"Approved by
+        Staff\", \r\n\"lodgement_date\": \"2016-03-11T00:00:00Z\", \r\n\"last_modified_date\":
+        \"2016-03-16T11:03:47Z\", \r\n\"authority\": {\r\n\"name\": \"Yass Valley
+        Council\", \r\n\"ref\": \"http:\\/\\/mycouncil.yass.nsw.gov.au\\/Horizon%40%40horizondap%40%40\\/atdis\\/1.0\"}\r\n,
+        \r\n\"officer\": \"Ms K A McGrath\", \r\n\"dat_id\": \"005.2015.00000244.002\",
+        \r\n\"description\": \"Hard Rock Quarry\", \r\n\"determination_date\": \"2016-03-16T00:00:00Z\",
+        \r\n\"application_type\": \"DA\"}\r\n}\r\n}\r\n,\r\n{\r\n\"application\":
+        {\r\n\"reference\": {\r\n\"more_info_url\": \"http:\\/\\/mycouncil.yass.nsw.gov.au\\/Horizon\\/logonGuest.aw?e=FxkUAB1eSSgbAR0MXx0SGBFSVh0yBwc3GV0eFxcFSUMAIQYHJARfEBMKEiNZACg9HR0CHCUfHBY1QAQsHRAVAlkcGFUPEUcrNBURWDdAAxoQAhVEHS8aNxUCUVUSGBUrWRB9RENBWAJDR09PRABEcERDQU4eQ0ZITRpVAx8AEhY%3D\"}\r\n,
+        \r\n\"extended\": {\r\n\"sid\": 20, \r\n\"version\": \"Online Application
+        Tracking Data Interchange Specification 1.02 \", \r\n\"software_vendor_url\":
+        \"http:\\/\\/www.solorient.com.au\", \r\n\"software_vendor\": \"SolOrient
+        Pty Ltd\", \r\n\"product\": \"Horizon DA Portal - Build 3.18 Copyright 2016\"}\r\n,
+        \r\n\"locations\": [ \r\n{\r\n\"address\": {\r\n\"suburb\": \"GOOD HOPE\",
+        \r\n\"postcode\": \"2582\", \r\n\"state\": \"NSW\", \r\n\"street\": \"737
+        Fifeshire Road\"}\r\n, \r\n\"land_title_ref\": {\r\n\"torrens\": {\r\n\"dpsp_id\":
+        \"DP806955\", \r\n\"lot\": \"3\", \r\n\"section\": null}\r\n}\r\n, \r\n\"geometry\":
+        {\r\n\"type\": \"Point\", \r\n\"coordinates\": [148.777000, \r\n-34.934400]}\r\n}\r\n]
+        \r\n, \r\n\"events\": [ \r\n{\r\n\"description\": \"Planning Officer Assessment\",
+        \r\n\"timestamp\": \"2016-03-17T00:00:00Z\", \r\n\"id\": \"249759\", \r\n\"event_type\":
+        \"POA\"}\r\n,\r\n{\r\n\"description\": \"Building Officer Assessment\", \r\n\"timestamp\":
+        \"2016-03-17T00:00:00Z\", \r\n\"id\": \"249760\", \r\n\"event_type\": \"BOA\"}\r\n,\r\n{\r\n\"description\":
+        \"Bushfire Assessment for Dev A\", \r\n\"timestamp\": \"2016-03-17T00:00:00Z\",
+        \r\n\"id\": \"249758\", \r\n\"event_type\": \"BFA\"}\r\n,\r\n{\r\n\"status\":
+        \"COMP\", \r\n\"description\": \"Acknowledgement Letter\", \r\n\"timestamp\":
+        \"2016-03-10T00:00:00Z\", \r\n\"id\": \"249616\", \r\n\"event_type\": \"ACKM\"}\r\n,\r\n{\r\n\"status\":
+        \"COMP\", \r\n\"description\": \"Lodgement of Development Appli\", \r\n\"timestamp\":
+        \"2016-03-10T00:00:00Z\", \r\n\"id\": \"249613\", \r\n\"event_type\": \"LDG\"}\r\n,\r\n{\r\n\"status\":
+        \"COMP\", \r\n\"description\": \"Distribution of DA\", \r\n\"timestamp\":
+        \"2016-03-10T00:00:00Z\", \r\n\"id\": \"249614\", \r\n\"event_type\": \"DIST\"}\r\n]
+        \r\n, \r\n\"documents\": [], \r\n\"people\": [ \r\n{\r\n\"name\": \"Mr J Rolls\",
+        \r\n\"role\": \"Applicant\"}\r\n,\r\n{\r\n\"contact\": \"Council`s Customer
+        Information on (02) 6226 1477\", \r\n\"name\": \"Yass Valley Council\", \r\n\"role\":
+        \"PCA\"}\r\n,\r\n{\r\n\"name\": \"Builder to be Advised\", \r\n\"role\": \"Builder\"}\r\n]
+        \r\n, \r\n\"info\": {\r\n\"development_type\": \"Tourist\", \r\n\"notification_end_date\":
+        null, \r\n\"determination_type\": \"Pending\", \r\n\"estimated_cost\": \"$180,000\",
+        \r\n\"status\": \"Open\", \r\n\"lodgement_date\": \"2016-03-10T00:00:00Z\",
+        \r\n\"last_modified_date\": \"2016-03-17T11:31:41Z\", \r\n\"authority\": {\r\n\"name\":
+        \"Yass Valley Council\", \r\n\"ref\": \"http:\\/\\/mycouncil.yass.nsw.gov.au\\/Horizon%40%40horizondap%40%40\\/atdis\\/1.0\"}\r\n,
+        \r\n\"officer\": \"Mr J P Guiney\", \r\n\"dat_id\": \"005.2016.00000058.001\",
+        \r\n\"description\": \"Holiday Cabin (Restricted Occupation) - Unit 10\",
+        \r\n\"determination_date\": null, \r\n\"application_type\": \"DA\"}\r\n}\r\n}\r\n,\r\n{\r\n\"application\":
+        {\r\n\"reference\": {\r\n\"more_info_url\": \"http:\\/\\/mycouncil.yass.nsw.gov.au\\/Horizon\\/logonGuest.aw?e=FxkUAB1eSSgbAR0MXx0SGBFSVh0yBwc3GV0eFxcFSUMAIQYHJARfEBMKEiNZACg9HR0CHCUfHBY1QAQsHRAVAlkcGFUPEUcrNBURWDdAAxoQAhVEHS8aNxUCUVUSGBUrWRB9RENBWAJDR09PRABEcERDQUEeQ0ZITRpVAx8AEhY%3D\"}\r\n,
+        \r\n\"extended\": {\r\n\"sid\": 19, \r\n\"version\": \"Online Application
+        Tracking Data Interchange Specification 1.02 \", \r\n\"software_vendor_url\":
+        \"http:\\/\\/www.solorient.com.au\", \r\n\"software_vendor\": \"SolOrient
+        Pty Ltd\", \r\n\"product\": \"Horizon DA Portal - Build 3.18 Copyright 2016\"}\r\n,
+        \r\n\"locations\": [ \r\n{\r\n\"address\": {\r\n\"suburb\": \"BOOKHAM\", \r\n\"postcode\":
+        \"2582\", \r\n\"state\": \"NSW\", \r\n\"street\": \"134 Paynes Road\"}\r\n,
+        \r\n\"land_title_ref\": {\r\n\"torrens\": {\r\n\"dpsp_id\": \"DP1205646\",
+        \r\n\"lot\": \"1\", \r\n\"section\": null}\r\n}\r\n, \r\n\"geometry\": {\r\n\"type\":
+        \"Point\", \r\n\"coordinates\": [148.696000, \r\n-34.813800]}\r\n}\r\n] \r\n,
+        \r\n\"events\": [ \r\n{\r\n\"status\": \"COMP\", \r\n\"description\": \"Lodgement
+        of Development Appli\", \r\n\"timestamp\": \"2016-03-10T00:00:00Z\", \r\n\"id\":
+        \"249608\", \r\n\"event_type\": \"LDG\"}\r\n,\r\n{\r\n\"status\": \"COMP\",
+        \r\n\"description\": \"Distribution of DA\", \r\n\"timestamp\": \"2016-03-10T00:00:00Z\",
+        \r\n\"id\": \"249609\", \r\n\"event_type\": \"DIST\"}\r\n,\r\n{\r\n\"status\":
+        \"COMP\", \r\n\"description\": \"Acknowledgement Letter\", \r\n\"timestamp\":
+        \"2016-03-10T00:00:00Z\", \r\n\"id\": \"249612\", \r\n\"event_type\": \"ACKM\"}\r\n]
+        \r\n, \r\n\"documents\": [], \r\n\"people\": [ \r\n{\r\n\"name\": \"Bogo Operations
+        Pty Ltd\", \r\n\"role\": \"Applicant\"}\r\n,\r\n{\r\n\"contact\": \"Council`s
+        Customer Information on (02) 6226 1477\", \r\n\"name\": \"Yass Valley Council\",
+        \r\n\"role\": \"PCA\"}\r\n] \r\n, \r\n\"info\": {\r\n\"development_type\":
+        \"Industrial\", \r\n\"notification_end_date\": null, \r\n\"determination_type\":
+        \"Pending\", \r\n\"estimated_cost\": \"$0\", \r\n\"status\": \"Open\", \r\n\"lodgement_date\":
+        \"2016-03-10T00:00:00Z\", \r\n\"last_modified_date\": \"2016-03-14T15:55:52Z\",
+        \r\n\"authority\": {\r\n\"name\": \"Yass Valley Council\", \r\n\"ref\": \"http:\\/\\/mycouncil.yass.nsw.gov.au\\/Horizon%40%40horizondap%40%40\\/atdis\\/1.0\"}\r\n,
+        \r\n\"officer\": \"Mr M M Rubbani\", \r\n\"dat_id\": \"005.2016.00000057.001\",
+        \r\n\"description\": \"Extension of Quarry Life for Approximately 30 Years\",
+        \r\n\"determination_date\": null, \r\n\"application_type\": \"DA\"}\r\n}\r\n}\r\n]
+        \r\n, \r\n\"count\": 20, \r\n\"pagination\": {\r\n\"pages\": 3, \r\n\"per_page\":
+        20, \r\n\"next\": 2, \r\n\"count\": 46, \r\n\"current\": 1}\r\n}\r\n"
+    http_version: 
+  recorded_at: Tue, 22 Mar 2016 05:18:23 GMT
+- request:
+    method: get
+    uri: http://mycouncil.yass.nsw.gov.au/Horizon/@@horizondap@@/atdis/1.0//applications.json?lodgement_date_end=2016-03-22&lodgement_date_start=2016-02-21&page=2
+    body:
+      encoding: US-ASCII
+      string: ''
+    headers:
+      Accept:
+      - "*/*; q=0.5, application/xml"
+      Accept-Encoding:
+      - gzip, deflate
+      User-Agent:
+      - Ruby
+  response:
+    status:
+      code: 500
+      message: Internal Server Error
+    headers:
+      Server:
+      - Apache-Coyote/1.1
+      Content-Type:
+      - text/html;charset=utf-8
+      Content-Length:
+      - '43'
+      Date:
+      - Tue, 22 Mar 2016 04:48:33 GMT
+      Connection:
+      - close
+    body:
+      encoding: UTF-8
+      string: "Faked error response, take that, rspec-mock"
+    http_version: 
+  recorded_at: Tue, 22 Mar 2016 04:48:33 GMT
+recorded_with: VCR 3.0.1

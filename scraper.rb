@@ -1,5 +1,8 @@
 #!/usr/bin/env ruby
-Bundler.require
+
+$LOAD_PATH << "./lib"
+
+require "atdisplanningalertsfeed"
 
 AUTHORITIES = {
   bega_valley: {

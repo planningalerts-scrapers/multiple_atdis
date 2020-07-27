@@ -1,0 +1,39 @@
+---
+http_interactions:
+- request:
+    method: get
+    uri: http://mycouncil2.solorient.com.au/Horizon/@@horizondap_ashfield@@/atdis/1.0//applications.json?lodgement_date_end=2016-03-22&lodgement_date_start=2016-02-21
+    body:
+      encoding: US-ASCII
+      string: ''
+    headers:
+      Accept:
+      - "*/*; q=0.5, application/xml"
+      Accept-Encoding:
+      - gzip, deflate
+      User-Agent:
+      - Ruby
+  response:
+    status:
+      code: 200
+      message: OK
+    headers:
+      Server:
+      - Apache-Coyote/1.1
+      Set-Cookie:
+      - JSESSIONID=63F51A68E6078BD7C549133CC7984A6D; Path=/Horizon/; HttpOnly
+      P3p:
+      - CP="NOI ADM DEV PSAi COM NAV OUR OTRo STP IND DEM"
+      Content-Type:
+      - application/json;charset=UTF-8
+      Transfer-Encoding:
+      - chunked
+      Date:
+      - Tue, 22 Mar 2016 04:38:35 GMT
+    body:
+      encoding: UTF-8
+      string: "{\r\n\"response\": [], \r\n\"count\": 0, \r\n\"pagination\": {\r\n\"pages\":
+        1, \r\n\"per_page\": 20, \r\n\"count\": 0, \r\n\"current\": 1}\r\n}\r\n"
+    http_version: 
+  recorded_at: Tue, 22 Mar 2016 04:38:35 GMT
+recorded_with: VCR 3.0.1
