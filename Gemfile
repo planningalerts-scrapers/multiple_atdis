@@ -2,6 +2,8 @@
 
 source "https://rubygems.org"
 
+ruby "2.5.1"
+
 gem "atdis", ">= 0.4.1"
 gem "scraperwiki-morph"
 
