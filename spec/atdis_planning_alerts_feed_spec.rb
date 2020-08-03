@@ -32,6 +32,7 @@ describe ATDISPlanningAlertsFeed, :vcr do
       ATDISPlanningAlertsFeed.return(
         "http://mycouncil2.solorient.com.au/Horizon/@@horizondap_ashfield@@/atdis/1.0/",
         "UTC",
+        false,
         options
       )
     end
@@ -46,6 +47,7 @@ describe ATDISPlanningAlertsFeed, :vcr do
       ATDISPlanningAlertsFeed.return(
         "https://myhorizon.maitland.nsw.gov.au/Horizon/@@horizondap@@/atdis/1.0/",
         "UTC",
+        false,
         options
       )
     end
@@ -60,6 +62,7 @@ describe ATDISPlanningAlertsFeed, :vcr do
       ATDISPlanningAlertsFeed.return(
         "https://da.kiama.nsw.gov.au/atdis/1.0/",
         "UTC",
+        false,
         options
       )
     end
@@ -74,6 +77,7 @@ describe ATDISPlanningAlertsFeed, :vcr do
       ATDISPlanningAlertsFeed.return(
         "http://myhorizon.cootamundra.nsw.gov.au/Horizon/@@horizondap@@/atdis/1.0/",
         "UTC",
+        false,
         options.merge(flakey: true)
       )
     end
@@ -98,6 +102,7 @@ describe ATDISPlanningAlertsFeed, :vcr do
       ATDISPlanningAlertsFeed.return(
         "http://mycouncil.yass.nsw.gov.au/Horizon/@@horizondap@@/atdis/1.0/",
         "UTC",
+        false,
         options.merge(flakey: true)
       )
     end

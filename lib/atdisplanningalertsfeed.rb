@@ -7,8 +7,8 @@ require "cgi"
 
 # Top level module for gem
 module ATDISPlanningAlertsFeed
-  def self.fetch(url, timezone, options = {})
-    feed = ATDIS::Feed.new(url, timezone)
+  def self.fetch(url, timezone, ignore_ssl_certificate = false, options = {})
+    feed = ATDIS::Feed.new(url, timezone, ignore_ssl_certificate)
     logger = options[:logger]
     logger ||= Logger.new(STDOUT)
 
@@ -34,9 +34,9 @@ module ATDISPlanningAlertsFeed
   end
 
   # Convenience method that returns all the records in one go
-  def self.return(url, timezone, options = {})
+  def self.return(url, timezone, ignore_ssl_certificate = false, options = {})
     records = []
-    fetch(url, timezone, options) { |record| records << record }
+    fetch(url, timezone, ignore_ssl_certificate, options) { |record| records << record }
     records
   end
 

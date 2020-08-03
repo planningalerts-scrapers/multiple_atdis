@@ -54,7 +54,7 @@ AUTHORITIES.each do |authority_label, params|
   begin
     # All the authorities are in NSW (for ATDIS) so they all have
     # the Sydney timezone
-    ATDISPlanningAlertsFeed.fetch(params[:url], "Sydney") do |record|
+    ATDISPlanningAlertsFeed.fetch(params[:url], "Sydney", params[:ignore_ssl_certificate]) do |record|
       record[:authority_label] = authority_label.to_s
       puts "Storing #{record[:council_reference]} - #{record[:address]}"
       ScraperWikiMorph.save_sqlite(%i[authority_label council_reference], record)
