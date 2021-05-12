@@ -42,9 +42,6 @@ AUTHORITIES = {
   walgett: {
     url: "http://myhorizon.walgett.nsw.gov.au/Horizon/@@horizondap@@/atdis/1.0/"
   },
-  newcastle: {
-    url: "https://property.ncc.nsw.gov.au/T1PRPROD/WebAppServices/ATDIS/atdis/1.0"
-  }
 }.freeze
 
 exceptions = []
