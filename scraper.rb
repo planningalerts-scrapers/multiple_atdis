@@ -30,9 +30,6 @@ AUTHORITIES = {
   armidale: {
     url: "https://epathway.newengland.nsw.gov.au/ePathway/Production/WebServiceGateway/atdis/1.0"
   },
-  ashfield: {
-    url: "http://mycouncil.solorient.com.au/Horizon/@@horizondap_ashfield@@/atdis/1.0/"
-  },
   leeton: {
     url: "http://datracking.leeton.nsw.gov.au/Horizon/@@horizondap@@/atdis/1.0/"
   },
