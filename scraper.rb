@@ -15,9 +15,6 @@ AUTHORITIES = {
   bathurst: {
     url: "http://masterview.bathurst.nsw.gov.au/atdis/1.0/"
   },
-  berrigan: {
-    url: "http://datracking.berriganshire.nsw.gov.au/Horizon/@@horizondap@@/atdis/1.0/"
-  },
   dubbo: {
     url: "https://planning.dubbo.nsw.gov.au/atdis/1.0/"
   },
